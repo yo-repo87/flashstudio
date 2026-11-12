@@ -1,0 +1,15 @@
+# Build context = project root. Keep it to what the Dockerfile needs.
+Flash_Studio_Desktop_1.7.20_x64.exe
+extracted/*.msi
+extracted/win-1.7.20/*.dll
+extracted/win-1.7.20/*.exe
+extracted/win-1.7.20/*.aip
+src/.git
+src/build
+src/build-dbg
+src/deps/build
+src/deps/DL_CACHE
+tools
+launch.sh
+CLAUDE.md
+*.log

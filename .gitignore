@@ -1,0 +1,21 @@
+# Secrets
+gitkey*
+*.pem
+*.key
+
+# Original installer (208 MB, over GitHub's file limit) and unpacked payload (470 MB).
+# Re-create with: python3 -I tools/unpack_installer.py Flash_Studio_Desktop_1.7.20_x64.exe extracted
+Flash_Studio_Desktop_1.7.20_x64.exe
+extracted/
+
+# Upstream source checkout (clone it: git clone --depth 1 --branch 1.7.15 https://github.com/FlashForge/Orca-Flashforge.git src)
+src/
+
+# Build output and runtime data
+docker/build.log
+docker/prints/*
+!docker/prints/cube20.stl
+analysis/ghidra_project/
+*.log
+analysis/tools/
+analysis/ghidra_project/

@@ -1,0 +1,38 @@
+# Flash Studio (Orca-Flashforge) in Docker, GUI delivered through noVNC.
+#
+#   docker compose -f docker/docker-compose.yml up -d --build
+#   open http://<host>:6080/vnc.html
+#
+# network_mode: host is used so LAN printer discovery (UDP broadcast 48899 / 18007,
+# multicast 225.0.0.9) and direct printer HTTP (8898) / TCP (8899) work. If you do
+# not need LAN printers, comment it out and use the `ports:` block instead.
+services:
+  flashstudio:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+      args:
+        NCORES: ${NCORES:-3}
+    image: flashstudio:1.7.15-res1.7.20
+    container_name: flashstudio
+    network_mode: host
+    # ports:
+    #   - "6080:6080"   # noVNC (browser)
+    #   - "5901:5901"   # raw VNC
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - DISPLAY_WIDTH=1920
+      - DISPLAY_HEIGHT=1080
+      - NOVNC_PORT=6080
+      - VNC_PORT=5901
+      # - VNC_PASSWORD=changeme   # unset = no VNC auth (keep it on a trusted LAN or behind a proxy)
+    volumes:
+      - flashstudio-config:/config      # Orca-Flashforge.conf, user presets, logs
+      - ${PRINTS_DIR:-./prints}:/prints # drop STL/3MF here, pick up G-code here
+    shm_size: "1g"
+    restart: unless-stopped
+
+volumes:
+  flashstudio-config:
