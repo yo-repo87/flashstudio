@@ -1,0 +1,5168 @@
+A 3dsMax Pbr Material must have a useGlossiness value to correctly interpret roughness and glossiness textures.
+A JSON Pointer parse error occurred
+A JSON parse error occurred
+A NativePixmapType argument does not refer to a valid native pixmap
+A NativeWindowType argument does not refer to a valid native window
+A Qhull error has occurred.  Qhull should have corrected the above
+A Rather Long Title
+A WebSocket protocol violation occurred
+A device memory allocation has failed
+A draft shield is useful to protect an ABS or ASA print from warping and detaching from print bed due to wind draft. It is usually needed only with open frame printers, i.e. without an enclosure.
+A fence or query has not yet completed
+A flipped facet occurs when its distance to the interior point is
+A host memory allocation has failed
+A libcurl function was given a bad argument
+A lower value results in smoother extrusion rate transitions. However, this results in a significantly larger G-code file and more instructions for the printer to process.
+A node animation channel must have at least one subtrack
+A node of the scene-graph is nullptr
+A platform-specific error occurred
+A preset with the same name was previously deleted from the cloud.
+A preset with this name already exists in OrcaCloud.
+A repetition operator cannot be applied to a zero-width assertion.
+A requested extension is not supported
+A requested feature is not supported
+A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+A requested format is not supported on this device
+A requested layer is not present or could not be loaded
+A required function in the library was not found
+A return array was too small for the result
+A surface has changed in such a way that it is no longer compatible with the swapchain
+A surface is no longer available
+A swapchain no longer matches the surface properties exactly, but can still be used
+A validation layer found an error
+A wait operation has not completed in the specified time
+A0 sheet, 841 x 1189 mm
+A1 sheet, 594 x 841 mm
+A2 420 x 594 mm
+A3 Extra 322 x 445 mm
+A3 Extra Transverse 322 x 445 mm
+A3 Rotated 420 x 297 mm
+A3 Transverse 297 x 420 mm
+A3 sheet, 297 x 420 mm
+A4 Extra 9.27 x 12.69 in
+A4 Plus 210 x 330 mm
+A4 Rotated 297 x 210 mm
+A4 Transverse 210 x 297 mm
+A4 sheet, 210 x 297 mm
+A4 small sheet, 210 x 297 mm
+A5 Extra 174 x 235 mm
+A5 Rotated 210 x 148 mm
+A5 Transverse 148 x 210 mm
+A5 sheet, 148 x 210 mm
+A6 105 x 148 mm
+A6 Rotated 148 x 105 mm
+AA Compromise
+ABOUT THIS DEMO:
+ACCT rejected by server: %03d
+ACCT requested but none available
+AD Time Stamping
+AGS (NOT COMPILED)
+ALPN, offering %s
+ALPN, server did not agree to a protocol
+ANY PRIVATE KEY
+API function called from within callback
+ASCII conversion buffer too small
+ASCII escape sequence terminated prematurely.
+ASN1 OID: %s
+ASYNC routines
+AVX2 available: %s
+AVX512BW available: %s
+Abort at parse time
+Aborted from text() callback.
+About Dear ImGui
+Accept timeout occurred while waiting server connect
+Accept-Encoding: %s
+Accept-ranges: bytes
+Acceptable OCSP Responses
+Access denied to remote resource
+Access denied: %03d
+Access to the file system is not allowed from secure desktop.
+Accuracy must be non-negative
+Active: %d/%d, WriteAccessed: %d, BeginOrderWithinContext: %d
+ActiveId: 0x%08X/0x%08X (%.2f sec), AllowOverlap: %d, Source: %s
+ActiveIdWindow: '%s'
+Actual padding values are using style.CellPadding.
+Add 1000 lines
+Add Debug Error
+Add Debug Text
+Add another modal..
+Add sets of pressure advance (PA) values, the volumetric flow speeds and accelerations they were measured at, separated by a comma. One set of values per line. For example
+AddPath: Open paths must be subject.
+Added %s:%d:%s to DNS cache%s
+Added alt-svc: %s:%d over %s
+Added to print list
+Additional metadata:
+Address already in use
+Address family not supported
+Address not available
+Adds a directory from which ENGINEs can be loaded
+Adjust if you cannot see the edges of your screen (e.g. on a TV where scaling has not been configured).
+Adjust this value to prevent short, unclosed walls from being printed, which could increase print time. Higher values remove more and longer walls.
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+AdvanceX: %.1f
+Advanced, with Selectable nodes
+Afar (Djibouti)
+Afar (Eritrea)
+Afar (Ethiopia)
+Affiliation Changed
+Afrikaans (Namibi
+Afrikaans (Namibia)
+Afrikaans (South Africa)
+Afrikaans (Suid-Afrika)
+After %I64dms connect time, move on!
+After optimizing the scene graph, no data remains
+Aghem (Cameroon)
+Akan (Gaana)
+Akan (Ghana)
+Albanian (Albania)
+Albanian (Kosovo)
+Albanian (North Macedonia)
+Algorithm doesn't converge (complex eigen values?)
+Align label with current X position
+Align to right edge
+Align to right edge minus 100
+Align to right edge minus half
+Alignment applies when a button is larger than its text content.
+Alignment applies when a selectable is larger than its text content.
+Aligns infill, bridge, ironing and surface fill directions to follow the model's orientation on the build plate.
+All facets connected.  No further nearby check necessary.
+All facets connected.  No nearby check necessary.
+All objects/fields data are dummies here.
+All primitives
+All those beautiful files will be deleted.
+All triangles are degenerate.
+All vectors are identical
+Allocation error : not enough memory
+Alpha decoder initialization failed.
+Already open
+Alsatian (France)
+Alt to jump to the menu layer of a window.
+Alt-Used: %s:%d
+Alternation operators are not allowed inside a DEFINE block.
+Ambiguous AMS filament match: 
+Amelika Hui P
+Amharic (Ethiopia)
+An EGLConfig argument does not name a valid EGL frame buffer configuration
+An EGLContext argument does not name a valid EGL rendering context
+An EGLDisplay argument does not name a valid EGL display connection
+An EGLSurface argument does not name a valid surface configured for GL rendering
+An I/O error occurred when reading/seeking
+An attempt to add element without a key to a map, or add element with key to sequence
+An authentication function returned an error
+An empty key
+An error occurred during conversion
+An error occurred when JSON Pointer was used with a value
+An event is signaled
+An event is unsignaled
+An extra line here.
+An invalid combination of regular expression syntax flags was used.
+An invalid or unterminated recursive sub-expression.
+An unknown option was passed in to libcurl
+An unrecognized attribute or attribute value was passed in the attribute list
+And now some textured buttons..
+AnimationCurveNode target property is not in whitelist
+Another bullet point
+Another process already installed newer slice i18n catalog version 
+Anti-aliased fill
+Anti-aliased lines
+Anti-aliased lines use texture
+Any Extended Key Usage
+Any additional visual examples like images or screen recordings might be helpful while reporting the issue.
+Any language
+Appearing: %d, Hidden: %d (CanSkip %d Cannot %d), SkipItems: %d
+Appending data to compressed file is not implemented
+Apple Mac OS
+Apple Mac OS X
+Application average %.3f ms/frame (%.1f FPS)
+Application built with libpng-
+Application must supply a known background gamma
+Application transferred too few scanlines
+Application transferred too many scanlines
+Applies Fast Approximate Anti-Aliasing as a screen-space pass.
+Applies SSAO in realistic view.
+Applies smooth normals to the realistic view.
+Apply the forward transform matrix but ignore translation
+Apply the forward transform matrix, including translation
+Apply the inverse-transpose transform matrix but ignore translation
+Apply the inverse-transpose transform matrix but ignore translation and renormalize vectors
+Arabic (Algeria)
+Arabic (Bahrain)
+Arabic (Chad)
+Arabic (Comoros)
+Arabic (Djibouti)
+Arabic (Egypt)
+Arabic (Eritrea)
+Arabic (ISO-8859-6)
+Arabic (Iraq)
+Arabic (Israel)
+Arabic (Jordan)
+Arabic (Kuwait)
+Arabic (Lebanon)
+Arabic (Libya)
+Arabic (Mauritania)
+Arabic (Morocco)
+Arabic (Oman)
+Arabic (Palestinian Authority)
+Arabic (Qatar)
+Arabic (Saudi Arabia)
+Arabic (Somalia)
+Arabic (South Sudan)
+Arabic (Sudan)
+Arabic (Syria)
+Arabic (Tunisia)
+Arabic (United Arab Emirates)
+Arabic (World)
+Arabic (Yemen)
+Area-based smoothing requires the Ceres Library, which is not available.
+Argument a must be finite, but got %1%
+Argument b must be finite, but got %1%
+Argument must be finite, but got %1%
+Argument val must be finite, but got %1%
+Arguments are inconsistent
+Arithmetic table 0x%02x was not defined
+Armenian (Armenia)
+Array should be CvMat or IplImage
+Arrow keys to navigate.
+As cylinders are often exported as triangles of varying size, points may not be on the circle circumference. This setting allows you some leeway to broaden the detection.
+As with every widgets in dear imgui, we never modify values unless there is a user interaction.
+Ascent: %f, Descent: %f, Height: %f
+Assamese (India)
+Assertion %s failed (located in the %s function, line in file: %d)
+Assertion failed
+Asturian (Spain)
+Asu (Tanzania)
+Async request
+At a premature exit due to 'TVn', 'TCn', 'TRn', or precision error with 'QJn'.
+At error exit:
+At least two classes are needed to perform a LDA. Reason: Only one class was given!
+At marker 0x%02x, recovery action %d
+At present, output Base64 data only.
+Atlas texture
+Atlas texture (%dx%d pixels)
+Attempt to exceed implementation defined length limits
+Attempt to keep painted features (color/seam/support/fuzzy etc.) after changing the object mesh (such as cut/reload from disk/simplify/fix etc.)
+Attempted to access the value of an uninitialized optional object.
+Attempting to get user data from archive not wrapped in UserDataAdapter
+Attribute name contains invalid characters - 
+Attribute type 
+Attribute value should be put into single or double quotes
+Augmented Lagrangian method (local, derivative)
+Augmented Lagrangian method (local, no-derivative)
+Augmented Lagrangian method (needs sub-algorithm)
+Augmented Lagrangian method for equality constraints (local, derivative)
+Augmented Lagrangian method for equality constraints (local, no-derivative)
+Augmented Lagrangian method for equality constraints (needs sub-algorithm)
+Authentication problem. Ignoring this.
+Authority Information Access
+Authorization: Bearer %s
+Auto-resizing window
+Autodesk FBX Importer
+Autonomous System Numbers
+Autotrace call
+Available CSPs:
+Azerbaijani (Cyrillic)
+Azerbaijani (Cyrillic, Azerbaijan)
+Azerbaijani (Latin)
+Azerbaijani (Latin, Azerbaijan)
+B4 (ISO) 250 x 353 mm
+B4 (JIS) Rotated 364 x 257 mm
+B4 Envelope, 250 x 353 mm
+B4 sheet, 250 x 354 mm
+B5 (ISO) Extra 201 x 276 mm
+B5 (JIS) Rotated 257 x 182 mm
+B5 (JIS) Transverse 182 x 257 mm
+B5 Envelope, 176 x 250 mm
+B5 sheet, 182 x 257 millimeter
+B6 (JIS) 128 x 182 mm
+B6 (JIS) Rotated 182 x 128 mm
+B6 Envelope, 176 x 125 mm
+BAD RECURSION DEPTH
+BC (default)
+BG/FG draw lists
+BIO routines
+BMP Header: Invalid number of colors (%d).
+BMP: Couldn't allocate memory.
+BMP: Couldn't save invalid image.
+BMP: Couldn't write RGB color map.
+BMP: Couldn't write data.
+BMP: Couldn't write the file (Bitmap) header.
+BMP: Couldn't write the file (BitmapInfo) header.
+BMP: wxImage doesn't have own wxPalette.
+BOBYQA bound-constrained optimization via quadratic models (local, no-derivative)
+BWin32: Failed to allocate TLS index
+Back to the first facet changing vertices: probably a mobius part. Try using a smaller tolerance or don't do a nearby check.
+Back to the first facet filling holes: probably a mobius part. Try using a smaller tolerance or don't do a nearby check.
+Backend Flags
+Backing store not supported
+Backup your project periodically to help with restoring from an occasional crash.
+Backwards edges       : %5d
+Bad CvMat header
+Bad CvMatND header
+Bad PASV/EPSV response: %03d
+Bad argument
+Bad code word
+Bad content-encoding found
+Bad flag (parameter or structure field)
+Bad format of floating-point constant
+Bad image header
+Bad input align
+Bad input origin
+Bad input roi
+Bad input sequence
+Bad message size
+Bad mo-file format
+Bad new number of rows
+Bad number of channels
+Bad optional access
+Bad parameter of type CvPoint
+Bad protocol
+Bad sequence slice
+Bad time value
+Bad type of mask argument
+Bafia (Cameroon)
+Baltic (ISO-8859-13)
+Baltic (old) (ISO-8859-4)
+Bamanankan (Latin)
+Bamanankan (Latin, Mali)
+Bangla (Bangladesh)
+Basa Jawa (Indonesia)
+Basa Sunda (Indonesia)
+Basa Sunda (Latin)
+Basaa (Cameroon)
+Base64 should not be used at present.
+Based on our tests, the generation results are excellent. We highly recommend enabling this feature!
+Baseline of button will look misaligned with text..
+Bashkir (Russia)
+Basic Horizontal Layout
+Basic OCSP Response
+Basis Type: %s
+Basque (Basque)
+Because of the high dimension, the min x-coordinate and max-coordinate
+Because of this, activating BorderOuterV sets the default to PadOuterX. Using PadOuterX or NoPadOuterX you can override the default.
+Belarusian (Belarus)
+Below we are testing adding menu items to a regular window. It's rather unusual but should work!
+Bemba (Zambia)
+Bena (Tanzania)
+Bengali (India)
+Bilateral filtering is only implemented for 8u and 32f images
+Bind WAN device (retry)
+Bind to local port %hu failed, trying next
+Binisaya (Latin)
+Binisaya (Pilipinas)
+Biometric Info
+Blah blah blah
+Blin (Eritrea)
+Block sequence elements must be preceded with '-'
+Blocking call in progress
+Blosc LZ4 compressor is unavailable
+Blosc decompress failed due to exceeding maximum buffer size.
+Blosc decompress failed due to insufficient space in uncompressed buffer.
+Blosc decompress returned error code 
+Blosc failed to compress 
+Blosc has not been compiled with '%s' 
+Bodo (India)
+Bogus DAC index %d
+Bogus DAC value 0x%x
+Bogus DHT index %d
+Bogus DQT index %d
+Bogus Huffman table definition
+Bogus JPEG colorspace
+Bogus buffer control mode
+Bogus input colorspace
+Bogus marker length
+Bogus message code %d
+Bogus sampling factors
+Bogus virtual array access
+Bone %u has too many weights: %u, but the limit is %u
+Bone stack size: 
+Bones with equal names but different offset matrices can't be joined at the moment
+Boost.Log library limit reached
+Borders, background
+Bosnian (Cyrillic)
+Bosnian (Cyrillic, Bosnia and Herzegovina)
+Bosnian (Latin)
+Bosnian (Latin, Bosnia and Herzegovina)
+Bound-constrained optimization via NEWUOA-based quadratic models (local, no-derivative)
+Breton (France)
+Bridge line width must not exceed nozzle diameter
+Bridge line width must not exceed nozzle diameter: 
+Buffer contents: %d lines, %d bytes
+Buffer passed to JPEG library is too small
+Build     :  
+Build cut-mesh BVH
+Build source-mesh BVH
+Bulgarian (Bulgaria)
+Bullet point 1
+Bullet point 2
+Bullet point 3 (two calls)
+Burmese (Myanmar)
+Button (w/ repeat)
+By Omar Cornut and all Dear ImGui contributors.
+By default, right-clicking over a TableHeadersRow()/TableHeader() line will open the default context-menu.
+By reducing the speed of the outer wall to avoid the resonance zone of the printer, ringing on the surface of the model are avoided.
+C sheet, 17 x 22 in
+C, without waiting for the full 60
+C3 Envelope, 324 x 458 mm
+C4 Envelope, 229 x 324 mm
+C5 Envelope, 162 x 229 mm
+C6 Envelope, 114 x 162 mm
+C65 Envelope, 114 x 229 mm
+CA Compromise
+CA Repository
+CA certificate key too weak
+CA signature digest algorithm too weak
+CCIR601 sampling not implemented yet
+CCSA (Conservative Convex Separable Approximations) with simple quadratic approximations (local, derivative)
+CCSA - using infeasible point?
+CERTIFICATE REQUEST
+CGAL error: 
+CMC Certificate Authority
+CMC Registration Authority
+CMS routines
+COBYLA (Constrained Optimization BY Linear Approximations) (local, no-derivative)
+COI is not supported
+COI is not supported by the function
+COI is not supported by this operation
+COI must be non-null in case of planar images
+COI set is not allowed here
+CONNECT %s HTTP/%s
+CONNECT phase completed!
+CONNECT responded chunked
+CONNECT response too large!
+CORNFLOWER BLUE
+CRC-32 check failed
+CRL has expired
+CRL is not yet valid
+CRL path validation error
+CRL signature failure
+CT Certificate SCTs
+CT Precertificate Poison
+CT Precertificate SCTs
+CT Precertificate Signer
+CURLSHcode unknown
+CURRENTLY APPENDING
+Cache relevant are 
+CalcTangentsProcess begin
+CalcTangentsProcess finished
+CalcTangentsProcess finished. Tangents have been calculated
+Calculating volume...
+Calibrate before printing
+Call interrupted
+Call to NULL read function
+Call to NULL write function
+Call would block
+Callback aborted
+Can not multiplex, even if we wanted to!
+Can not query interfaces: IShellLink or IShellItem.
+Can not set SSL crypto engine as default
+Can not shift by a negative value.
+Can't Parse Certificate %d
+Can't add itself as a subpart!
+Can't automatically determine the image format for non-seekable input.
+Can't change first day of week
+Can't change immutable entry '%s'.
+Can't close registry key '%s'
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+Can't complete SOCKS5 connection to %s. (%d)
+Can't copy values of unsupported type %d.
+Can't create OpenCV cache sub-directory: 
+Can't create dialog using memory template
+Can't create registry key '%s'
+Can't create the notebook page '%s'.
+Can't create thread
+Can't delete key '%s'
+Can't delete value '%s' from key '%s'
+Can't detect module binaries location
+Can't discard critical data on CRC error
+Can't enumerate subkeys of key '%s'
+Can't enumerate values of key '%s'
+Can't export value of unsupported type %d.
+Can't find current position in file '%s'
+Can't find default cache directory (does it exist?): 
+Can't get info about registry key '%s'
+Can't get the size of %s
+Can't get the size of file.
+Can't initialize zlib deflate stream.
+Can't initialize zlib inflate stream.
+Can't load bitmap '%s' from resources! Check .rc file.
+Can't open %s for writing
+Can't open archive: '
+Can't open file: '
+Can't open lock file: %s
+Can't open registry key '%s'
+Can't read from inflate stream: %s
+Can't read inflate stream: unexpected EOF in underlying stream.
+Can't read value of '%s'
+Can't read value of key '%s'
+Can't reallocate Mat with locked size (probably due to misused 'const' modifier)
+Can't reallocate Mat with locked type (probably due to misused 'const' modifier)
+Can't reallocate UMat with locked size (probably due to misused 'const' modifier)
+Can't reallocate UMat with locked type (probably due to misused 'const' modifier)
+Can't remove directory: 
+Can't remove file: 
+Can't resolve new host %s:%hu
+Can't resolve proxy host %s:%hu
+Can't save image to file '%s': unknown extension.
+Can't save log contents to file.
+Can't set thread priority
+Can't set value of '%s'
+Can't write sCAL (buffer too small)
+Can't write tRNS with an alpha channel
+Can't write to deflate stream: %s
+Cannot allocate memory to query reparse point
+Cannot append attributes as descriptors do not match.
+Cannot assign a tree of type 
+Cannot assign value of type 
+Cannot compute orientation due to incorrect connectivity
+Cannot create Dictionary from provided samples
+Cannot create attribute of unregistered type 
+Cannot create grid of unregistered type 
+Cannot create map of unregistered type 
+Cannot create metadata for unregistered type 
+Cannot drop attributes as descriptors do not match.
+Cannot enumerate files '%s'
+Cannot enumerate files in directory '%s'
+Cannot erase indices as index is out of range.
+Cannot find attribute name to set default value.
+Cannot find cff table
+Cannot find cmap/head/hhea/hmtx table
+Cannot find loca table
+Cannot find metadata 
+Cannot initialize OLE
+Cannot initialize sockets
+Cannot insert into a Descriptor with a duplicate name, but different type.
+Cannot make current with a window that has no OpenGL or OpenGL ES context
+Cannot open HTML document: %s
+Cannot order facets around edge due to degenerated facets
+Cannot proceed without support points! Add support points or disable support generation.
+Cannot quantize more than %d color components
+Cannot quantize to fewer than %d colors
+Cannot quantize to more than %d colors
+Cannot query entry point without a current OpenGL or OpenGL ES context
+Cannot query extension without a current OpenGL or OpenGL ES context
+Cannot read grid.
+Cannot read in a PointDataLeaf without StreamMetadata.
+Cannot read more than 
+Cannot read paged AttributeArray buffers.
+Cannot read typename from '%s'!
+Cannot register 
+Cannot rename attribute as descriptors do not match.
+Cannot reorder attributes as descriptors do not contain the same attributes.
+Cannot resume thread %lx
+Cannot rewind mime/post data
+Cannot set swap interval without a current OpenGL or OpenGL ES context
+Cannot start thread: error writing TLS.
+Cannot suspend thread %lx
+Cannot swap buffers of a window that has no OpenGL or OpenGL ES context
+Cannot swap descriptor as replacement does not match.
+Cannot transcode due to multiple use of quantization table %d
+Cannot wait for thread termination
+Cannot write more than 
+Cannot write out a PointDataLeaf without StreamMetadata.
+Cannot write out a partially-read AttributeArray.
+Capacity: %d
+Catalan (Andorra)
+Catalan (Catalan)
+Catalan (France)
+Catalan (Italy)
+Category %zu (%zu devices)
+Caught exception in FBXMaterial (likely because content was already loaded): 
+Cause unknown
+Cause unknown: error caused by bad argument with value %1%
+Caution: quantization tables are too coarse for baseline JPEG
+Cebuano (Latin)
+Cebuano (Latin, Philippines)
+Cell contents:
+CellPaddingX: %.1f, CellSpacingX: %.1f/%.1f, OuterPaddingX: %.1f
+Celtic (ISO-8859-14)
+Central Atlas Tamazight
+Central Atlas Tamazight (Arabic)
+Central Atlas Tamazight (Arabic, Morocco)
+Central Atlas Tamazight (Latin)
+Central Atlas Tamazight (Latin, Algeria)
+Central Atlas Tamazight (Latin, Morocco)
+Central Atlas Tamazight (Tifinagh)
+Central Atlas Tamazight (Tifinagh, Morocco)
+Central European (ISO-8859-2)
+Central Kurdish
+Central Kurdish (Iraq)
+Certificate %d
+Certificate Hold
+Certificate Sign
+Certificate Status
+Certificate Transparency required, but no valid SCTs found
+Certificate public key has explicit ECC parameters
+Cessation Of Operation
+Chakma (Chakma)
+Chakma (Chakma, Bangladesh)
+Chakma (Chakma, India)
+Chamber minimal temperature
+Change cipher spec
+Chars queue:
+Chechen (Russia)
+Check cut-mesh for defects
+Check on GitHub
+Check on Microsoft Store
+Check source-mesh for defects
+Checking exact...
+Checking for server connect
+Checking normal directions...
+Checking normal values...
+Cherokee (Cherokee, United States)
+Chiga (Uganda)
+Child windows
+Chimakonde (Tanzania)
+Chinese (Simplified)
+Chinese (Simplified, China)
+Chinese (Simplified, Hong Kong SAR)
+Chinese (Simplified, Macao SAR)
+Chinese (Simplified, Singapore)
+Chinese (Traditional)
+Chinese (Traditional, Hong Kong SAR)
+Chinese (Traditional, Macao SAR)
+Chinese (Traditional, Taiwan)
+Choose where to save the exported JSON file
+Choose where to save the exported ZIP file
+Chunk callback failed
+Chunky upload is not supported by HTTP 1.0
+Church Slavic
+Church Slavic (Russia)
+Cipher selection: %s
+Circle Tessellation Max Error
+Circle segments override
+Clamp integers to 0..50
+Clean system profiles cache
+Cleans and rebuilds system profiles cache on next launch
+Clear settings
+Clear the log contents
+Click Scan to look for K-series printers on your network.
+Click WiKi for help
+Click and drag column headers to reorder columns.
+Click and drag on lower corner to resize window
+Click and drag to edit value.
+Click and hold to use drag and drop.
+Click on the color square to open a color picker.
+Click to break in debugger!
+Client hello
+Client key exchange
+Close All Documents
+Close Console
+Close current document
+Close this window
+Closed socket%s
+Closed temporary file %s
+Closest facet cannot be computed on empty mesh.
+Closing connection %ld
+Closing tag should not contain any attributes
+Closing tag should not include any attributes
+Cloud service is reconnecting...
+Cloud service is temporarily unavailable, retrying...
+Cloud sync conflict:
+Code Signing
+Collapsing Headers
+Colognian (Germany)
+Color button only:
+Color button with Custom Picker Popup:
+Color button with Picker:
+Color picker:
+Color widget HSV with Alpha:
+Color widget with Float Display:
+Color widget with InputHSV:
+Color widget:
+Color/Picker Widgets
+ColorEdit defaults to displaying RGB inputs if you don't specify a display mode, but the user can change it with a right-click.
+Colorful Text
+Colour selection dialog failed with error %0lx.
+Column %d Order %d SortOrder %d %s Vis %d %s %7.3f UserID 0x%08X
+Column %s Header
+Column %s: %s
+Columns Id: 0x%08X, Count: %d, Flags: 0x%04X
+Columns are all the same width, matching the maximum contents width.
+Columns flags
+Columns sets (%d)
+Columns widths
+Columns() is an old API! Prefer using the more flexible and powerful BeginTable() API!
+ColumnsCount: %d (max %d)
+ColumnsGivenWidth: %.1f, ColumnsAutoFitWidth: %.1f, InnerWidth: %.1f%s
+Command line argument %d couldn't be converted to Unicode and will be ignored.
+Comments are not allowed here
+Common dialog failed with error code %0lx.
+Completion, History, Edit Callbacks
+Complex keys are not supported
+Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
+Compression buffer size cannot be changed because it is in use
+Compression buffer size cannot be reduced below 6
+Computation will probably fail.
+Computer restart required
+Config entry name cannot start with '%c'.
+Config/Build Information
+Configurations folder
+Connect data stream actively
+Connect data stream passively
+Connect me again please
+Connecting to %s (%s) port %d
+Connecting to %s:%u
+Connecting to hostname: %s
+Connecting to port: %d
+Connection %ld seems to be dead!
+Connection accepted from server
+Connection cache is full, closing the oldest one.
+Connection closure while negotiating auth (HTTP 1.0?)
+Connection died, retrying a fresh connect(retry count: %d)
+Connection died, tried %d times before giving up
+Connection refused
+Connection time-out
+Connection timed out after %I64d milliseconds
+Connection to 3DPrinterOS cloud works correctly.
+Connection to Moonraker is working correctly.
+Connection to proxy closed
+Connection was aborted
+Connection: %s%sTE
+Constrained-resizing window
+Contains a string with the information about what scaling was applied to the individual objects. Indexing of the objects is zero-based (first object has index 0).
+Content Type
+Content-Disposition: %s%s%s%s%s%s%s
+Content-Length: %I64d
+Content-Length: %d
+Content-Length: 0
+Content-Range: bytes %s%I64d/%I64d
+Content-Range: bytes %s/%I64d
+Content-Range: bytes 0-%I64d/%I64d
+Content-Transfer-Encoding: %s
+Content-Transfer-Encoding: base64%s
+Content-Transfer-Encoding: base64%s%s
+Content-Type: %s%s%s
+Content-Type: application/dns-message
+Content-Type: application/ocsp-request
+Content-Type: application/x-www-form-urlencoded
+Content-Type: text/plain
+ContentWidth: %.1f,%.1f, HeadersUsed/Ideal %.1f/%.1f
+Context creation APIs do not match between contexts
+Context for crash report generation not available.
+Context menus
+Context profiles are only defined for OpenGL version 3.2 and above
+Context should be init first
+Controlled random search (CRS2) with local mutation (global, no-derivative)
+Conversion failed
+ConvertListToString: String list is ill-formatted
+Converting codecvts are not supported
+Convex hull of %d points in %d-d:
+Copy dimension (which has zero size) is not present in source matrix
+Copy of Image001 (Final2).png
+Copy of Image001.png
+Copy system information to clipboard
+Copyright (C) 1991-2023 The libjpeg-turbo Project and many others
+Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+Copyright (c) 1996-1997 Andreas Dilger
+Copyright (c) 1998-2002,2004,2006-2018 Glenn Randers-Pehrson
+Copyright (c) 2018-2019 Cosmin Truta
+Cornish (United Kingdom)
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad ICC marker
+Corrupt JPEG data: bad arithmetic code
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Corrupt JPEG data: premature end of data segment
+Corrupted block detected
+Corrupted embedded content found
+Corsican (France)
+Corsu (Francia)
+Could multiplex, but not asked to!
+Could not DOH-resolve: %s
+Could not apply the dynamic WebView i18n catalog
+Could not connect to Moonraker
+Could not convert character encoding
+Could not decode alpha data.
+Could not find certificate ID in OCSP response
+Could not find neighbor triangle index
+Could not find opposed triangle index
+Could not find opposed vertex index
+Could not find opposed-to-edge triangle index
+Could not find vertex index in triangle
+Could not find vertex triangle intersected by edge. Note: can be caused by duplicate points.
+Could not obtain controls from WMP10!
+Could not obtain settings from WMP10!
+Could not open file for reading
+Could not parse Moonraker server response: %s
+Could not parse update response: 
+Could not resolve %s: %s
+Could not seek stream
+Could not set current working directory
+Could not start document preview.
+Could not start printing.
+Could not transfer data to window
+Could only read %I64d bytes from the input
+Couldn't add an image to the image list.
+Couldn't bind to '%s'
+Couldn't bind to interface '%s'
+Couldn't connect to server
+Couldn't create OpenGL context
+Couldn't create a timer
+Couldn't enumerate translations
+Couldn't find symbol '%s' in a dynamic library
+Couldn't get the current thread pointer
+Couldn't initialize GIF hash table.
+Couldn't interpret the 227-response
+Couldn't load a PNG image - file is corrupted or not enough memory.
+Couldn't obtain folder name
+Couldn't open file %s
+Couldn't read a file:// file
+Couldn't register clipboard format '%s'.
+Couldn't resolve host '%s'
+Couldn't resolve proxy '%s'
+Couldn't resolve proxy name
+Couldn't resume download
+Couldn't retrieve information about list control item %d.
+Couldn't save PNG image.
+Couldn't set desired mode
+Couldn't terminate thread
+Couldn't use REST
+Couldn't use specified SSL cipher
+Creality K-series printer agent (CFS-aware filament sync)
+CrealityHostDiscovery: 
+CrealityHostDiscovery: /info GET failed for 
+CrealityHostDiscovery: /info parse failed for 
+CrealityHostDiscovery: mDNS returned 
+CrealityHostDiscovery: starting DNS-SD discovery (prefixes: Creality, creality)
+CrealityPrint dialog: Failed to parse boxsInfo: 
+CrealityPrint: Error starting print: 
+CrealityPrint: Failed to query boxsInfo: 
+CrealityPrint: No '
+CrealityPrintAgent: 
+CrealityPrintAgent: CFS query failed (
+CrealityPrintAgent: no active CFS boxes, deferring to base agent
+CrealityPrintAgent: querying CFS slots on 
+Create new document
+CreateEvent() failed
+CreatePipe() failed
+CreateSemaphore() failed
+Creating FBX Document
+Creating a TypedAttributeArray with a constant stride requires that stride to be at least one.
+Creating a TypedAttributeArray with a non-constant stride must have a total size of at least the number of elements in the array.
+Creating new OpenCV cache directory: 
+Croatian (Bosnia and Herzegovina)
+Croatian (Croatia)
+CryptoAPI DSA method
+CryptoAPI ENGINE
+CryptoAPI RSA method
+Ctrl conn has data while waiting for data conn
+Ctrl/Provision WAP Termination
+Ctrl/provision WAP Access
+Current summary is:
+Currently all this does is to lift the 0..1 limits on dragging widgets.
+Curve Tessellation Tolerance
+Curves segments override
+Custom Dispatch Interface
+Custom headers
+Custom rendering
+Custom: Always Square
+Custom: Fixed Steps (100)
+Customize Columns
+Cymraeg (Y Deyrnas Unedig)
+Cyrillic (ISO-8859-5)
+Czech (Czechia)
+D sheet, 22 x 34 in
+DARK OLIVE GREEN
+DARK SLATE BLUE
+DARK SLATE GRAY
+DARK SLATE GREY
+DARK TURQUOISE
+DCT coefficient (lossy) or spatial difference (lossless) out of range
+DDE data request failed
+DDE execute request failed
+DDE poke request failed
+DEFINE subpattern contains more than one branch
+DEK-Info: %s,
+DH PARAMETERS
+DH Parameters
+DH Private-Key
+DH Public-Key
+DIB Header: Encoding doesn't match bitdepth.
+DIB Header: Unknown bitdepth in file.
+DIB Header: Unknown encoding in file.
+DIRECT Version %d.%d.%d
+DIRECT continues until a feasible point is found.
+DIRECT could not find a feasible point after %d function evaluations.
+DIRECT found a feasible point.  The adjusted budget is now set to %d.
+DIRECT stopped: maxT iterations.
+DIRECT stopped: minf within fglper of global minimum.
+DIRECT-L (global, no-derivative)
+DL Envelope, 110 x 220 mm
+DOH A: %u.%u.%u.%u
+DOH Host name: %s
+DOH request %s
+DOH: %s type %s for %s
+DSA PARAMETERS
+DSA PRIVATE KEY
+DSO support routines
+DSTU 4145-2002 big endian
+DSTU 4145-2002 little endian
+DSTU Gost 28147-2009
+DSTU Gost 28147-2009 CFB mode
+DSTU Gost 28147-2009 OFB mode
+DSTU Gost 28147-2009 key wrap
+DSTU Gost 34311-95
+DSTU curve 0
+DSTU curve 1
+DSTU curve 2
+DSTU curve 3
+DSTU curve 4
+DSTU curve 5
+DSTU curve 6
+DSTU curve 7
+DSTU curve 8
+DSTU curve 9
+DTLS1 read hello verify request
+DTLS1 write hello verify request
+Danish (Denmark)
+Danish (Greenland)
+Data Encipherment
+Data conn was not available immediately
+Data is already allocated
+Data type is not the same for all arrays
+Day of month is not valid for year
+Day of month value is out of range 1..31
+Day of year value is out of range 1..366
+Dear ImGui %s
+Dear ImGui %s (%d)
+Dear ImGui Demo
+Dear ImGui Metrics/Debugger
+Dear ImGui Style Editor
+Dear ImGui is licensed under the MIT License, see LICENSE for more information.
+DeboneProcess begin
+DeboneProcess end
+Debug details
+Debug, T%u: %s
+Decipher Only
+Decoder rejected input without producing output
+Default Depth
+Default encoding
+Default for column 0
+Define Arithmetic Table 0x%02x: 0x%02x
+Define Huffman Table 0x%02x
+Define Quantization Table %d  precision %d
+Define Restart Interval %u
+Degenerate facets     : %5d
+Degenerated facet detected.
+Delaunay triangulation by the convex hull of %d points in %d-d:
+Delete selection
+Delete will delete your local preset. Force push overwrites it with your local preset.
+Deleting mesh: Unable to continue without vertex positions
+Demonstrate mixing table context menu (over header), item context button (over button) and custom per-colum context menu (over column body).
+Density of the bottom surface layer. Intended for aesthetic or functional purposes, not to fix issues such as over-extrusion.
+Depending on how long the wipe operation lasts, how fast and long the extruder/filament retraction settings are, a retraction move may be needed to retract the remaining filament.
+Depth is not the same for all arrays
+Descriptor is not a socket
+Destination buffer is too small
+Detailed description: %s
+Detect Creality K-series printer
+Detected %zu available LAN printers. Select a device category:
+Detected module path: '
+Deutsch (Belgien)
+Deutsch (Deutschland)
+Deutsch (Italien)
+Deutsch (Liechtenstein)
+Deutsch (Luxemburg)
+Deutsch (Schweiz)
+Developer mode allows the printer to work exclusively through local network access, enabling full functionality with OrcaSlicer.
+Device filament information has changed and the affected device was removed from this batch task.
+Devices are grouped by model, nozzle diameter, and filament information.
+Dholuo (Kenya)
+Diagonalization of the symmetric matrix failed
+Dictionary is corrupted
+Dictionary mismatch
+Didn't expect more than one scan
+Different CRL scope
+Diffie-Hellman based MAC
+Diffie-Hellman routines
+Digital Signature
+Dimension sizes are the same for all arrays
+Directive tags are not allowed here
+Directory '%s' couldn't be created
+Directory '%s' couldn't be deleted
+Disable Auto-Drop to preserve Z positioning?
+Disable Menu
+Disable Mouse Wheel
+Disable clipboard cut and copy.
+Disable clipping rectangle for every individual columns (reduce draw command count, items will be able to overflow into other columns). Generally incompatible with ScrollFreeze options.
+Disable inner padding between columns (double inner padding if BordersOuterV is on, single inner padding if BordersOuterV is off)
+Disable logging.
+Disable rounding underlying value to match precision of the format string (e.g. %.3f values are rounded to those 3 digits).
+Disable the indenting of tree nodes so demo tables can use the full window width.
+Disable tree indentation
+Disable vertical borders in columns Body (borders will always appears in Headers
+Disable vertical borders in columns Body until hovered for resize (borders will always appears in Headers)
+Disk full or allocation exceeded
+Display Mode
+Display headers
+Distribute mixed filament layer-cycle cadence using an advanced ordered dithering pattern instead of a simple contiguous A-then-B run. This can reduce visible striping for some hues.
+Divehi (Maldives)
+Division by zero occurred
+Division by zero.
+Do you want to migrate them to your OrcaCloud profile?
+Do you want to use this encoding (otherwise you will have to choose another one)?
+DoMaxima error
+Does not transform
+Dogri (Devanagari)
+Dogri (Devanagari, India)
+Doing the SSL/TLS handshake on the data stream
+Domain Error evaluating function at %1%
+Don't ask me next time
+Don't know how to convert from Windows class 
+Done waiting for 100-continue
+Double Japanese Postcard Rotated 148 x 200 mm
+Double hyphen '--' is not allowed in the comments
+Double-click a column border to auto-fit the column to its contents.
+Double-click on title bar to collapse window.
+Download a historical version
+Download completed
+Download historical version
+Drag and Drop
+Drag and drop in standard widgets
+Drag and drop to copy/swap items
+Drag to reorder items (simple)
+Drag/Slider Flags
+Draw in Background draw list
+Draw in Foreground draw list
+DrawCmd:%5d tris, Tex 0x%p, ClipRect (%4.0f,%4.0f)-(%4.0f,%4.0f)
+DrawLists (%d)
+DropFaceNormalsProcess begin
+DropFaceNormalsProcess finished. Face normals have been removed
+DropFaceNormalsProcess finished. No normals were present
+Duala (Cameroon)
+Dutch (Aruba)
+Dutch (Belgium)
+Dutch (Bonaire, Sint Eustatius and Saba)
+Dutch (Netherlands)
+Dutch (Sint Maarten)
+Dutch (Suriname)
+Dynamic engine loading support
+Dzongkha (Bhutan)
+E sheet, 34 x 44 in
+E-mail Protection
+EC PARAMETERS
+EC PRIVATE KEY
+ECDH routines
+ECDSA routines
+EE certificate key too weak
+EGL cannot access a requested resource
+EGL failed to allocate resources for the requested operation
+EGL is not or could not be initialized
+EGL: API not available
+EGL: Failed to bind OpenGL ES: %s
+EGL: Failed to bind OpenGL: %s
+EGL: Failed to clear current context: %s
+EGL: Failed to create context: %s
+EGL: Failed to create window surface: %s
+EGL: Failed to find a suitable EGLConfig
+EGL: Failed to find support for OpenGL
+EGL: Failed to find support for OpenGL ES 1.x
+EGL: Failed to find support for OpenGL ES 2 or later
+EGL: Failed to get EGL display: %s
+EGL: Failed to initialize EGL: %s
+EGL: Failed to load client library
+EGL: Failed to load required entry points
+EGL: Failed to make context current: %s
+EGL: Library not found
+EGL: No EGLConfigs returned
+EGL: Stereo rendering not supported
+EGL: The context must be current on the calling thread when swapping buffers
+ENCRYPTED PRIVATE KEY
+ERRONEOUS and NEIGHBORING FACETS to output
+ERROR: IPP cannot detect CPU features, IPP was disabled 
+ERROR: UNKNOWN EGL ERROR
+ERROR: UNKNOWN GLFW ERROR
+ERROR: UNKNOWN VULKAN ERROR
+ESCAPE to revert.
+ESCH evolutionary strategy
+Each session can be viewed for 4 minutes
+Edge has invalid index: 
+Edges fixed           : %5d
+Edo (Nigeria)
+Either all the pointers should be null or they all should be non-null
+Either prepend the input with 1 point or use 'Hn,n,n'.  See manual.
+Ekegusii (Kenya)
+Element not found
+Element size doesn't match to the size of predefined element type (try to use 0 for sequence element type)
+Email address mismatch
+Embed everything inside a child window (for additional testing)
+EmbedTexturesProcess finished. Embedded 
+EmbedTexturesProcess: Cannot find image: 
+EmbedTexturesProcess: Unable to embed texture: 
+Embu (Kenya)
+Emitter is not available
+Empty JPEG image (DNL not supported)
+Empty input file
+Empty mesh morph animation channel
+Empty node animation channel
+Empty regular expression.
+Empty reply from server
+Empty tags are not supported
+Empty type name
+Enable blinking cursor (optional as some users consider it to be distracting)
+Enable context menu
+Enable keyboard controls.
+Enable logarithmic editing (more precision for small values).
+Enable resizing of windows from their edges and from the lower-left corner.
+Enable the main-menu bar in Examples menu to see the difference.
+Enable this if the printer accepts a 3MF file as the print job. When enabled, Orca Slicer sends the sliced file as a .gcode.3mf, instead of a plain .gcode file.
+Enable this to get a G-code file which has G2 and G3 moves. The fitting tolerance is same as the resolution.
+Enable turning DragXXX widgets into text input with a simple mouse click-release (without moving).
+Enabled: %d, VisibleX/Y: %d/%d, RequestOutput: %d, SkipItems: %d, DrawChannels: %d,%d
+Enables gap fill for the selected solid surfaces. The minimum gap length that will be filled can be controlled from the filter out tiny gaps option below.
+Encipher Only
+Encountered a forward reference to a marked sub-expression that does not exist.
+Encountered a forward reference to a recursive sub-expression that does not exist.
+Encountered an infinite recursion.
+Encountered double entry in bone weights
+Encrypted Extensions
+End Of Image
+End of early data
+English (American Samoa)
+English (Anguilla)
+English (Antigua and Barbuda)
+English (Australia)
+English (Austria)
+English (Bahamas)
+English (Barbados)
+English (Belgium)
+English (Belize)
+English (Bermuda)
+English (Botswana)
+English (British Indian Ocean Territory)
+English (British Virgin Islands)
+English (Burundi)
+English (Cameroon)
+English (Canada)
+English (Caribbean)
+English (Cayman Islands)
+English (Christmas Island)
+English (Cocos (Keeling) Islands)
+English (Cook Islands)
+English (Cyprus)
+English (Denmark)
+English (Dominica)
+English (Eritrea)
+English (Eswatini)
+English (Europe)
+English (Falkland Islands)
+English (Fiji)
+English (Finland)
+English (Gambia)
+English (Germany)
+English (Ghana)
+English (Gibraltar)
+English (Grenada)
+English (Guam)
+English (Guernsey)
+English (Guyana)
+English (Hong Kong SAR)
+English (India)
+English (Indonesia)
+English (Ireland)
+English (Isle of Man)
+English (Israel)
+English (Jamaica)
+English (Jersey)
+English (Kenya)
+English (Kiribati)
+English (Lesotho)
+English (Liberia)
+English (Macao SAR)
+English (Madagascar)
+English (Malawi)
+English (Malaysia)
+English (Malta)
+English (Marshall Islands)
+English (Mauritius)
+English (Micronesia)
+English (Montserrat)
+English (Namibia)
+English (Nauru)
+English (Netherlands)
+English (New Zealand)
+English (Nigeria)
+English (Niue)
+English (Norfolk Island)
+English (Northern Mariana Islands)
+English (Pakistan)
+English (Palau)
+English (Papua New Guinea)
+English (Philippines)
+English (Pitcairn Islands)
+English (Puerto Rico)
+English (Rwanda)
+English (Samoa)
+English (Seychelles)
+English (Sierra Leone)
+English (Singapore)
+English (Sint Maarten)
+English (Slovenia)
+English (Solomon Islands)
+English (South Africa)
+English (South Sudan)
+English (St Helena, Ascension, Tristan da Cunha)
+English (St. Kitts and Nevis)
+English (St. Lucia)
+English (St. Vincent and Grenadines)
+English (Sudan)
+English (Sweden)
+English (Switzerland)
+English (Tanzania)
+English (Tokelau)
+English (Tonga)
+English (Trinidad and Tobago)
+English (Turks and Caicos Islands)
+English (Tuvalu)
+English (U.S. Outlying Islands)
+English (U.S. Virgin Islands)
+English (Uganda)
+English (United Arab Emirates)
+English (United Kingdom)
+English (United States)
+English (Vanuatu)
+English (World)
+English (Zambia)
+English (Zimbabwe)
+Enter 'HELP' for help.
+Enter PEM pass phrase:
+Enter Password
+Entering customized post processing pipeline
+Entering post processing pipeline
+Entry path is '%s'
+Entry point retrieval is broken
+Enumerate bug: using workaround
+Envelope Invite 220 x 220 mm
+Environment not configured: 
+Epsilon is changed using the Jones formula.
+Epsilon is constant.
+Epsilon not valid.
+Error (generic)
+Error accept()ing server connect
+Error allocating memory!
+Error code: %1%
+Error computing OCSP ID
+Error copying grid to the clipboard. Either selected cells were not contiguous or no cell was selected.
+Error during file upload
+Error getting peer certificate
+Error in DIRREsortlist: We went through the whole list
+Error in encoding
+Error in function 
+Error in reading image DIB.
+Error in the HTTP2 framing layer
+Error in the SSH layer
+Error reading config options.
+Error running JavaScript: %s
+Error saving session to file
+Error saving user configuration data.
+Error scanning directory 
+Error sending form: %1%
+Error session check
+Error while merging geometries!
+Error while processing content unencoding: %s
+Error while processing content unencoding: Unknown failure within decompression software.
+Error while waiting for server connect
+Error writing file
+Error, T%u: %s
+Error, no more free positions! Increase maxfunc!
+Error.  nthreads must be a positive integer
+Error. Can't get api token for authorization
+Error: %s (%d)
+Error: %s does not support double SSL tunneling.
+Error: PolyTree struct is needed for open path clipping.
+Error: unknown vertex normal type
+Escape sequence did not encode a valid character.
+Escape sequence terminated prematurely.
+Escape sequence was neither a valid property nor a valid character class name.
+Escape to deactivate a widget, close popup, exit child window.
+Esperanto (ISO-8859-3)
+Esperanto (World)
+Establish HTTP proxy tunnel to %s:%d
+Estonian (Estonia)
+Even more contents
+Ewondo (Cameroon)
+Example: Auto-resizing window
+Example: Console
+Example: Constrained Resize
+Example: Custom rendering
+Example: Documents
+Example: Fullscreen window
+Example: Log
+Example: Long text display
+Example: Property editor
+Example: Simple layout
+Example: Simple overlay
+Exceeded nested brace limit.
+Exceeded storage allocation
+Exception: %s
+Excessive alt-svc header, ignoring...
+Excessive alt-svc host name, ignoring...
+Excessive password length for proxy auth
+Excessive server response line length received, %zd bytes. Stripping
+Excessive user name length for proxy auth
+Execution of command '%s' failed
+Executive, 7 1/4 x 10 1/2 in
+Existing user presets were found in %s.
+Expect: 100-continue
+Expected 1 or 3 channel image.
+Expected to decompress 
+Expected to read a 
+Experimental Features
+Explanation: 
+Explicit content size
+Exports detailed overview of loaded profiles in json format
+Expression : 
+Extend hit area to all available width instead of allowing more items to be laid out after the node.
+Extended OCSP Status
+Extended Unix Codepage for Japanese (EUC-JP)
+Extension Request
+Extension name cannot be an empty string
+Extension string retrieval is broken
+External Bridging angle override.
+Extra closing '%c'
+Extra compressed data
+FBX FOV unspecified. Computing from FilmWidth (
+FBX Version: 
+FBX version: 
+FHHXJ,L N.PrT
+FIPS routines
+FNHJJpL N.PnT
+FOREST GREEN
+FS Callbacks must be completely defined. At least one callback is null.
+FTP response aborted due to select/poll error: %d
+FTP response timeout
+FTP: Accepting server connect has timed out
+FTP: The server did not accept the PRET command.
+FTP: The server failed to connect to data port
+FTP: can't figure out the host in the PASV response
+FTP: command PORT failed
+FTP: command REST failed
+FTP: couldn't retrieve (RETR failed) the specified file
+FTP: couldn't set file type
+FTP: unknown 227 response format
+FTP: unknown PASS reply
+FTP: unknown PASV reply
+Face %u has too many faces: %u, but the limit is %u
+Face angle threshold,placed after the number with no whitespace in between.
+Face connectivity halfedge error: Face 
+Face has invalid index: 
+Facets added          : %5d
+Facets removed        : %5d
+Facets reversed       : %5d
+Facets with 1 disconnected edge  : %5d               %5d
+Facets with 2 disconnected edges : %5d               %5d
+Facets with 3 disconnected edges : %5d               %5d
+Fail to schedule the chore!
+Failed EPSV attempt, exiting
+Failed EPSV attempt. Disabling EPSV
+Failed FTP upload: %0d
+Failed binding local connection end
+Failed initialization
+Failed reading the chunked-encoded stream
+Failed sending CONNECT to proxy
+Failed sending HTTP POST request
+Failed sending HTTP request
+Failed sending POST request
+Failed sending PUT request
+Failed sending data to the peer
+Failed to MKD dir: %03d
+Failed to alloc scratch buffer!
+Failed to allocate %llu bytes
+Failed to allocate %luKb of memory for bitmap data.
+Failed to allocate a digest context
+Failed to allocate colour for OpenGL
+Failed to clear the command channel (CCC)
+Failed to close file handle
+Failed to close the clipboard.
+Failed to compress connectivity.
+Failed to connect to %s port %ld: %s
+Failed to convert UTF-16 to UTF-8
+Failed to convert UTF-8 to UTF-16
+Failed to copy dialog contents to the clipboard.
+Failed to copy registry value '%s'
+Failed to copy the contents of registry key '%s' to '%s'.
+Failed to copy the file '%s' to '%s'
+Failed to copy the registry subkey '%s' to '%s'.
+Failed to create DDE string
+Failed to create Flashforge cloud agent
+Failed to create MDI parent frame.
+Failed to create OrcaCloud agent
+Failed to create a temporary file name
+Failed to create an anonymous pipe
+Failed to create configuration file directory.
+Failed to create connection to server '%s' on topic '%s'
+Failed to create cursor.
+Failed to create registry entry for '%s' files.
+Failed to create temporary file %s
+Failed to create temporary file in %s
+Failed to create the temporary folder.
+Failed to decode geometry data.
+Failed to decode metadata.
+Failed to decode point attributes.
+Failed to delete system folder...
+Failed to destroy filter TLS
+Failed to determine executable path.
+Failed to disconnect from DDE server gracefully
+Failed to do PORT
+Failed to empty the clipboard.
+Failed to encode internal data.
+Failed to encode mesh component.
+Failed to encode metadata.
+Failed to encode point attributes.
+Failed to enumerate DirectInput8 devices
+Failed to establish an advise loop with DDE server
+Failed to figure out path
+Failed to finalize digest
+Failed to find match for regular expression: %s
+Failed to get data from the clipboard
+Failed to get network adapter addresses
+Failed to get recent socket
+Failed to get the local system time
+Failed to get the working directory
+Failed to get user ID, skipping migration.
+Failed to initialise SSL Engine '%s': %s
+Failed to initialise SSL crypto engine
+Failed to initialize DDE
+Failed to initialize MS HTML Help.
+Failed to initialize OpenGL
+Failed to initialize WinSock
+Failed to initialize attribute data.
+Failed to initialize digest
+Failed to initialize encoder.
+Failed to initialize the decoder.
+Failed to insert '
+Failed to kill process %d
+Failed to launch a new instance.
+Failed to load CRL file (path? access rights?, format?)
+Failed to load icon from the file '%s'
+Failed to load icons from resource '%s'.
+Failed to load image %%d from file '%s'.
+Failed to load image %d from stream.
+Failed to load mpr.dll.
+Failed to load shared library '%s'
+Failed to load thumbnail. Click to retry.
+Failed to load version history. Please check your network connection and retry.
+Failed to load video session background: 
+Failed to migrate user presets:
+Failed to migrate user presets: 
+Failed to modify file times for '%s'
+Failed to open '%s' for reading
+Failed to open '%s' for writing
+Failed to open any client sockets
+Failed to open file for writing
+Failed to open temporary file.
+Failed to open the clipboard.
+Failed to open/read local data from file/application
+Failed to parse 409 conflict body.
+Failed to parse Plural-Forms: '%s'
+Failed to parse content
+Failed to parse locale name: 
+Failed to perform conversion
+Failed to process mesh holes.
+Failed to put data on the clipboard
+Failed to query OrcaCloud presets (error 
+Failed to query reparse point
+Failed to read config options.
+Failed to read data
+Failed to receive SOCKS5 connect request ack.
+Failed to redirect the child process IO
+Failed to register DDE server '%s'
+Failed to remember the encoding for the charset '%s'.
+Failed to rename registry value '%s' to '%s'.
+Failed to rename the file '%s' to '%s' because the destination file already exists.
+Failed to rename the registry key '%s' to '%s'.
+Failed to report tracking event 
+Failed to request version history: HTTP 
+Failed to retrieve file times for '%s'
+Failed to scan directory for presets: 
+Failed to send DDE advise notification
+Failed to send DNS-DS discovery: %s
+Failed to send SOCKS4 connect request.
+Failed to send SOCKS5 connect request.
+Failed to send SOCKS5 sub-negotiation request.
+Failed to send mDNS query: %s
+Failed to set FTP transfer mode to %s.
+Failed to shut down the SSL connection
+Failed to terminate the advise loop with DDE server
+Failed to triangulate polygon (no ear found). Probably not a simple polygon?
+Failed to unregister DDE server '%s'
+Failed to update FlashNetwork translation language: 
+Failed to update digest
+Failed to update uploaded file: 
+Failed to update user configuration file.
+Failed to verify historical version download: 
+Failed to write to registry
+Failed writing header
+Failed writing received data to disk/application
+Failure decompressing this file using gzip.
+Failure sending ABOR command: %s
+Failure sending EPRT command: %s
+Failure sending PORT command: %s
+Failure sending QUIT command: %s
+Failure when receiving data from the peer
+Failure writing output to destination
+Falling back to built-in languages because remote slice i18n language is right-to-left: 
+Falling back to built-in languages because remote slice i18n language is unsupported by wxWidgets: 
+Falling back to built-in languages because remote slice i18n languages map to the same wxWidgets language: 
+Faroese (Denmark)
+Faroese (Faroe Islands)
+Faster lines using texture data. Require backend to render with bilinear filtering (not point/nearest filtering).
+Feature not enabled in this library
+Feel free to cleanup these unused directories:
+Field Type: %s
+Filament Mapping:
+Filament to print bottom surface.
+Filament to print inner walls.
+Filament to print internal solid infill.
+Filament to print outer walls.
+Filament to print top surface.
+File       : 
+File '%s' couldn't be removed
+File '%s' couldn't be renamed '%s'
+File already completely downloaded
+File already completely uploaded
+File already exists. Overwrite?
+File associations for the Microsoft Store version are managed by Windows Settings.
+File can't be opened for reading!
+File can't be opened for writing!
+File collector is not set
+File couldn't be loaded.
+File dialog failed with error code %0lx.
+File doesn't exist.
+File extension not known, trying signature-based detection
+File is locked: 
+File is too small
+File name exists already.
+File type          : ASCII STL file
+File type          : Binary STL file
+FileStorage::APPEND and FileStorage::MEMORY are not currently compatible
+Filipino (Philippines)
+Filipino (Pilipinas)
+Filling holes...
+Filter (inc,-exc)
+Filter usage:
+Filtered Text Input
+Final function value is within %g%% of global optimum
+Final function value: %g
+Find and replace in document
+Find in document
+Find potentially-intersecting polygons
+FindDegeneratesProcess begin
+FindDegeneratesProcess finished
+FindDegeneratesProcess removed a mesh full of degenerated primitives
+FindInstancesProcess begin
+FindInstancesProcess finished. Found 
+FindInstancesProcess finished. No instanced meshes found
+FindInvalidDataProcess begin
+FindInvalidDataProcess fails on mesh 
+FindInvalidDataProcess finished. Everything seems to be OK.
+FindInvalidDataProcess finished. Found issues ...
+Finnish (Finland)
+First group hovered
+First post-merge
+FixInfacingNormalsProcess begin
+FixInfacingNormalsProcess finished. Found issues.
+FixInfacingNormalsProcess finished. No changes to the scene.
+Fixed width.
+Fixed-width columns generally makes more sense if you want to use horizontal scrolling.
+Flags: 0x%08X (%s%s%s%s%s%s%s%s%s..)
+Flash Studio 1.7.20
+Flash Studio 2.4.2 Build e971fe538c
+Flash Studio G-code Viewer 1.7.20
+Flash Studio Version:
+Flash Studio version: %s
+Flash Studio will now terminate.
+Flash Studio/2.4.2
+FlashForge GitHub
+FlashForge Wiki
+FlashNetwork does not expose the business API URL
+FlipUVsProcess begin
+FlipUVsProcess finished
+FlipWindingOrderProcess begin
+FlipWindingOrderProcess finished
+FloatPointsTreeDecoder: compression level %i not supported.
+Floating-polygon partitioning step could not find a usable fpSegment
+Focus from code
+Folio, 8 1/2 x 13 in
+For example, ASUS Sonic Studio injects a Nahimic driver, which makes Orca-Flashforge to crash on a secondary monitor
+For example, additional slowdown will be applied when printing overhangs on sharp corners like the front of the Benchy hull, reducing curling which compounds over multiple layers.
+For fast convolution/correlation use 2-column matrix or single-row matrix instead
+For post-merging
+For slower printers without pressure advance, the value should be set much lower. A value of 10-15 mm
+For testing vertex neighbors
+Force push will overwrite the cloud copy with your local preset changes.
+Forcing HTTP/1.1 for NTLM
+Formats of input arguments do not match
+Forward-compatibility is only defined for OpenGL version 3.0 and above
+Found %zu Creality printer(s). Select one and click Use Selected.
+Found UTF-16 BOM ...
+Found UTF-32 BOM ...
+Found UTF-8 BOM ...
+Found a backreference to a non-existant sub-expression.
+Found a closing ) with no corresponding opening parenthesis.
+Found a matching importer for this file format: 
+Found a possible importer: 
+Found entry: '
+Found non-UV mapped texture (%s,%u). Mapping type: %s
+Found positive match for header keyword: 
+Found positive match in exclusion list: '
+Found texture property with index %i, although there are only %i textures of type %s
+Found zero-length vector
+Fractional sampling not implemented yet
+Frame index is too large
+Frame not displayable.
+Frame requires too much memory for decoding
+Frame setup failed
+Freed EMS handle %u
+Freed XMS handle %u
+French (Algeria)
+French (Belgium)
+French (Benin)
+French (Burkina Faso)
+French (Burundi)
+French (Cameroon)
+French (Canada)
+French (Caribbean)
+French (Central African Republic)
+French (Chad)
+French (Comoros)
+French (Congo)
+French (Djibouti)
+French (Equatorial Guinea)
+French (France)
+French (French Guiana)
+French (French Polynesia)
+French (Gabon)
+French (Guadeloupe)
+French (Guinea)
+French (Haiti)
+French (Luxembourg)
+French (Madagascar)
+French (Mali)
+French (Martinique)
+French (Mauritania)
+French (Mauritius)
+French (Mayotte)
+French (Monaco)
+French (Morocco)
+French (New Caledonia)
+French (Niger)
+French (Rwanda)
+French (Senegal)
+French (Seychelles)
+French (St. Barth
+French (St. Martin)
+French (St. Pierre and Miquelon)
+French (Switzerland)
+French (Syria)
+French (Togo)
+French (Tunisia)
+French (Vanuatu)
+French (Wallis and Futuna)
+French Congo (DRC)
+Friulian (Italy)
+Frysk (Nederl
+Fulah (Adlam)
+Fulah (Adlam, Burkina Faso)
+Fulah (Adlam, Cameroon)
+Fulah (Adlam, Gambia)
+Fulah (Adlam, Ghana)
+Fulah (Adlam, Guinea)
+Fulah (Adlam, Guinea-Bissau)
+Fulah (Adlam, Liberia)
+Fulah (Adlam, Mauritania)
+Fulah (Adlam, Niger)
+Fulah (Adlam, Nigeria)
+Fulah (Adlam, Senegal)
+Fulah (Adlam, Sierra Leone)
+Fulah (Latin)
+Fulah (Latin, Burkina Faso)
+Fulah (Latin, Cameroon)
+Fulah (Latin, Gambia)
+Fulah (Latin, Ghana)
+Fulah (Latin, Guinea)
+Fulah (Latin, Guinea-Bissau)
+Fulah (Latin, Liberia)
+Fulah (Latin, Mauritania)
+Fulah (Latin, Niger)
+Fulah (Latin, Nigeria)
+Fulah (Latin, Senegal)
+Fulah (Latin, Sierra Leone)
+Fullscreen window
+Function MiniDumpWriteDump() not found.
+Function StackWalk64() not found.
+Function SymCleanup() not found.
+Function SymEnumSymbols() not found.
+Function SymFromAddr() not found.
+Function SymFunctionTableAccess64() not found.
+Function SymGetModuleBase64() not found.
+Function SymGetOptions() not found.
+Function SymGetTypeInfo() not found.
+Function SymInitialize() not found.
+Function SymSetContext() not found.
+Function SymSetOptions() not found.
+Function not implemented
+Furthest-site Delaunay triangulation by the convex hull of %d points in %d-d:
+Furthest-site Voronoi vertices by the convex hull of %d points in %d-d:
+G-code 3MF files
+GIF image (from fallback)
+GIF: data stream seems to be truncated.
+GIF: error in GIF image format.
+GIF: not enough memory.
+GLFW message window
+GLFW3 Helper
+GOST 28147-89
+GOST 28147-89 Cryptocom ParamSet
+GOST 28147-89 MAC
+GOST 28147-89 TC26 parameter set
+GOST 34.10-2001 Cryptocom
+GOST 34.10-94 Cryptocom
+GOST R 34.10-2001
+GOST R 34.10-2001 DH
+GOST R 34.10-2012 (256 bit) ParamSet A
+GOST R 34.10-2012 (256 bit) ParamSet B
+GOST R 34.10-2012 (256 bit) ParamSet C
+GOST R 34.10-2012 (256 bit) ParamSet D
+GOST R 34.10-2012 (512 bit) ParamSet A
+GOST R 34.10-2012 (512 bit) ParamSet B
+GOST R 34.10-2012 (512 bit) ParamSet C
+GOST R 34.10-2012 (512 bit) testing parameter set
+GOST R 34.10-2012 with 256 bit modulus
+GOST R 34.10-2012 with 512 bit modulus
+GOST R 34.10-2012 with GOST R 34.11-2012 (256 bit)
+GOST R 34.10-2012 with GOST R 34.11-2012 (512 bit)
+GOST R 34.10-94
+GOST R 34.10-94 DH
+GOST R 34.11-2012 with 256 bit hash
+GOST R 34.11-2012 with 512 bit hash
+GOST R 34.11-94
+GOST R 34.11-94 PRF
+GOST R 34.11-94 with GOST R 34.10-2001
+GOST R 34.11-94 with GOST R 34.10-2001 Cryptocom
+GOST R 34.11-94 with GOST R 34.10-94
+GOST R 34.11-94 with GOST R 34.10-94 Cryptocom
+GOST R 3410-2001 Parameter Set Cryptocom
+GREEN YELLOW
+Gaeilge (an R
+Gaelg (Ellan Vannin)
+Galician (Galician)
+Ganda (Uganda)
+GaussianBlur: running bit-exact version...
+GenFaceNormalsProcess begin
+GenFaceNormalsProcess finished. Face normals have been calculated
+GenFaceNormalsProcess finished. Normals are already there
+GenUVCoordsProcess begin
+GenUVCoordsProcess finished
+GenVertexNormalsProcess begin
+GenVertexNormalsProcess finished. Normals are already there
+GenVertexNormalsProcess finished. Vertex normals have been calculated
+Generate spatially-sorted vertex cache
+Generator (compressed):
+Generator (hybrid):
+Generator (uncompressed):
+Generic PostScript
+Georgian (Georgia)
+German (Austria)
+German (Belgium)
+German (Germany)
+German (Italy)
+German (Liechtenstein)
+German (Luxembourg)
+German (Switzerland)
+German Legal Fanfold, 8 1/2 x 13 in
+German Std Fanfold, 8 1/2 x 12 in
+GetArmatureRoot() Found valid armature: 
+GetArmatureRoot() can't find armature!
+GetSystemDirectory() failed
+Getting file with size: %I64d
+Getting live view...
+Gikuyu (Kenya)
+Given file does not exist
+Global Alpha
+Global market instance was destroyed prematurely?
+GlobalSettings dictionary contains no property table
+Got 417 while waiting for a 100
+Got a %03d ftp-server response when 220 was expected
+Got a %03d response code instead of the assumed 200
+Got max container len %d
+Gpu API call
+Graphics mode failed
+Graphics mode not supported
+Gray color space not permitted on RGB PNG
+Greek (Cyprus)
+Greek (Greece)
+Greek (ISO-8859-7)
+Group index invalid.
+Group name contains invalid characters - 
+Group not found - 
+Group offset is already in use - 
+Group offset is out-of-range - 
+Guarani (Paraguay)
+Gujarati (India)
+Gusii (Kenya)
+Gzip not supported by this version of zlib
+H SUVWATAUAVAWH
+H SUWATAUAVAWH
+H SUWATAUAWH
+H SUWATAVAWH
+H SVWATAUAVAWH
+H SVWATAUAWH
+H UATAUAVAWH
+H USVWATAUAVAWH
+H UVWATAUAVAWH
+H WATAUAVAWH
+H9Z tJH9Z(tD9Z
+H: %.3f, S: %.3f, V: %.3f
+H: %.3f, S: %.3f, V: %.3f, A: %.3f
+HMAC DSTU Gost 34311-95
+HMAC GOST 34.11-2012 256 bit
+HMAC GOST 34.11-2012 512 bit
+HMAC GOST 34.11-94
+HMAC routines
+HSV encoded colors
+HTML anchor %s does not exist.
+HTML document (from fallback)
+HTTP 1.0, assume close after body
+HTTP error before end of send, keep sending
+HTTP error before end of send, stop sending
+HTTP response code said error
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+HTTP/1.%d %d
+HTTP/1.0 connection set to keep alive!
+HTTP/1.0 proxy connection set to keep alive!
+HTTP/1.1 proxy connection set close!
+HTTP/3 error
+HTTP/3 requested for non-HTTPS URL
+Half of available width.
+Halfedge connectivity error: Face 
+Halfedge connectivity error: Vertex 
+Halfedge connectivity error: hnext 
+Halfedge connectivity error: hprev 
+Halfedge has invalid index: 
+Halfedge of 
+Halfedge vertex of next opposite is not the same for 
+Halfspace intersection by the convex hull of %d points in %d-d:
+Hash Algorithm: 
+Hausa (Gana)
+Hausa (Latin)
+Hausa (Latin, Ghana)
+Hausa (Latin, Niger)
+Hausa (Latin, Nigeria)
+Hausa (Najeriya)
+Hausa (Nijar)
+Hawaiian (United States)
+Header             : %s
+Header with a close button
+Headers sent
+Hebrew (ISO-8859-8)
+Hebrew (Israel)
+Height 400-500
+Hello from Stacked The First
+Hello from Stacked The Second!
+Hello request
+Hello world %d,%d
+Here we activate ScrollY, which will create a child window container to allow hosting scrollable contents.
+Here we expose then as read-only fields to avoid breaking interactions with your backend.
+Hexadecimal escape sequence terminated prematurely.
+Hexadecimal escape sequence was invalid.
+Hibena (Hutanzania)
+Higher values result in smoother edges, but the impact on performance is exponential.
+Highly experimental! Slow and may create artifact.
+Hindi (India)
+Hold CTRL and click to select multiple items.
+Hold Instruction Call Issuer
+Hold Instruction Code
+Hold Instruction None
+Hold Instruction Reject
+Hold SHIFT or use mouse to select text.
+Hold SHIFT/ALT for faster/slower edit.
+Hold to repeat:
+Holding me clears the
+Horizontal Scrolling
+Horizontal contents size demo window
+Horizontal scrolling
+Host not found
+Host not found, try again
+Host unreachable
+Host: %s%s%s
+Host: %s%s%s:%d
+Hostname %s was found in DNS cache
+Hostname '%s' was found
+Hostname '%s' was found in DNS cache
+Hostname in DNS cache was stale, zapped
+Hostname mismatch
+Hostname: %s
+Hover over me
+Hover to see mouse cursors:
+Hovered column: %d
+Hovered/Active tests after Begin() for title bar testing
+HoveredColumnBody: %d, HoveredColumnBorder: %d
+HoveredId: 0x%08X
+HoveredId: 0x%08X/0x%08X (%.2f sec), AllowOverlap: %d
+HoveredWindow: '%s'
+HoveredWindowUnderMovingWindow: '%s'
+Hovering me sets the
+However, in heavily slanted or curved models, especially where too low a sparse infill density is used, this may result in curling of the unsupported solid infill, causing pillowing.
+Http error 409.
+Http error 410.
+Huffman code size table overflow
+Huffman table 0x%02x was not defined
+Hungarian (Hungary)
+I am a fancy tooltip
+I am a tooltip
+I am a tooltip over a popup
+I am an odd tab.
+I am the last one here.
+ICC or token signature
+ICC profile length invalid (not a multiple of 4)
+ICC profile tag outside profile
+ICC profile tag start not a multiple of 4
+ICC profile too short
+ICO icon file
+ICO resource
+ICO: Error in reading mask DIB.
+ICO: Error writing the image file!
+ICO: Image too tall for an icon.
+ICO: Image too wide for an icon.
+ICO: Invalid icon index.
+ID: 0123456789
+IDCT output block size %d not supported
+IDN support not present, can't parse Unicode domains
+IEEE Security in Storage Working Group
+IFF: data stream seems to be truncated.
+IFF: error in IFF image format.
+IFF: not enough memory.
+IFF: unknown error!!!
+INF/NAN was found in a vector component
+IP Address:%d.%d.%d.%d
+IP address mismatch
+IPSec End System
+IPSec Tunnel
+ISO CN Member Body
+ISO Member Body
+ISO US Member Body
+ISRES evolutionary constrained optimization (global, no-derivative)
+ITEM: Button
+ITEM: Checkbox
+ITEM: ColorEdit4
+ITEM: InputFloat
+ITEM: InputFloat3
+ITEM: InputText
+ITEM: ListBox
+ITEM: MenuItem
+ITEM: SliderFloat
+ITEM: TreeNode
+ITT-API-Version 3.18.6 (20180723)
+IYJSKQLPNPOQOVPX MPNQNUOWPXQXSWTVUTVQVNULTKRKQLQNRPURWS QXSVTTUQUNTK
+IZJRKPLONOOPORNUNWOX MONPNRMUMWOXQXSWTV VOTVTWUXWXXWYU WOUVUWVX
+IZPPMX PPNX TPSX TPTX KQMOXO KQMPXP
+Ibibio (Nigeria)
+Ibibio-Efik (Nigeria)
+Icelandic (Iceland)
+Ichibemba (Zambia)
+If disabled, bridges may look better but are generally reliable only for shorter spans.
+If disabled, internal bridges may look better but can be less reliable over sparse infill.
+If disabled, its recommended to enable FXAA to reduce jagged edges with minimal performance impact.
+If enabled, bridge extrusion uses a line height equal to the nozzle diameter.
+If enabled, internal bridge extrusion uses a line height equal to the nozzle diameter.
+If enabled, this setting will ensure external perimeters are not slowed down to meet the minimum layer time. This is particularly helpful in the below scenarios:
+If left to zero, the bridging angle will be calculated automatically for each specific bridge.
+If not, a time suffix will be added, and you can modify the name after creation.
+If scrolling is disabled (ScrollX and ScrollY not set):
+If set to 0, the line width will match the Internal solid infill width.
+If the input is lower dimensional:
+If the input should be full dimensional, you have several options that
+If the maximum angle within the perimeter loop exceeds this value (indicating the absence of sharp corners), a scarf joint seam will be used. The default value is 155
+If there are tangents, bitangent vectors must be present as well
+If you must use 'Q0',
+If you need triangular output:
+If you use 'Q0', the output may include
+If you would like all gap fill, including the classic perimeter generated one, removed, set the filter out tiny gaps value to a large number, like 999999.
+Igbo (Nigeria)
+Ignore %I64d bytes of response-body
+Ignore chunked response-body
+Ignoring Content-Length in CONNECT %03d response
+Ignoring Transfer-Encoding in CONNECT %03d response
+Ignoring duplicate digest auth header.
+Ignoring invalid slice i18n manifest 
+Ignoring invalid time value
+Ignoring malformed extra data record, ZIP file may be corrupted
+Ignoring older slice i18n catalog version 
+Ignoring request to write a PLTE chunk in grayscale PNG
+Ignoring slice i18n catalog with a changed MD5 for immutable version 
+Ignoring the response-body
+Ikirundi (Uburundi)
+Illegal directory name.
+Illegal or missing hexadecimal sequence
+Illegal port number in EPSV reply
+Image and mask have different sizes.
+Image file is not of type %d.
+Image height exceeds user limit in IHDR
+Image height is zero in IHDR
+Image is not of type %s.
+Image step is wrong
+Image too wide for this implementation
+Image width exceeds user limit in IHDR
+Image width is zero in IHDR
+Images with planar data layout should be used with COI selected
+Immediate connect fail for %s: %s
+Import root directory is '
+Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll
+Improper call to JPEG library in state %d
+ImproveCacheLocalityProcess begin
+ImproveCacheLocalityProcess finished. 
+In the Advanced demo we override the policy of each column so those table-wide settings have less effect that typical.
+In this demo we don't show horizontal borders to emphasis how they don't affect default horizontal padding.
+Incompatible type during copy
+Incomplete escape sequence found.
+Incomplete property escape found.
+Inconsistent progression sequence for component %d coefficient %d
+Incorrect indentation
+Incorrect keyframe parameters.
+Incorrect number of arrays
+Incorrect size of input array
+Index out of requested size range
+Index, final solution, x(i)-l(i), u(i)-x(i)
+Indian (ISO-8859-12)
+Indonesia (Indonesia)
+Indonesian (Indonesia)
+Influence area could not be increased! Data about the Influence area: Radius: 
+Info,  T%u: %s
+Information about Tree:
+Inhibit Policy Mapping
+Initialization failed in post init, aborting.
+Initialization of an object could not be completed for implementation-specific reasons
+Initializing authentication challenge
+Inplace operation is not supported
+Input %d: '%s', Oversample: (%d,%d), PixelSnapH: %d, Offset: (%.1f,%.1f)
+Input COI is not supported
+Input and output arrays must have the same number of channels
+Input array has NULL data pointer
+Input array is not a valid matrix
+Input array must be 8uC1 or 8sC1
+Input array should be single-channel
+Input buffer size cannot exceed %d bytes
+Input curves are not polygonal. Use cvApproxChains first
+Input curves have unknown type
+Input file         : %s
+Input file is invalid
+Input file read error
+Input flags:
+Input image depth is not supported by function
+Input is not a mesh.
+Input is not a point cloud.
+Input type mismatch
+InputArray Datatype %d is not supported.
+Instruct backend to not alter mouse cursor shape and visibility.
+Instructs server to resume from offset %I64d
+Insufficient memory
+Insufficient memory (case %d)
+Insufficient memory for eXIf chunk data
+Insufficient memory for hIST chunk data
+Insufficient memory for pCAL parameter
+Insufficient memory for pCAL params
+Insufficient memory for pCAL purpose
+Insufficient memory for pCAL units
+Insufficient memory to process iCCP chunk
+Insufficient memory to process iCCP profile
+Insufficient memory to process text chunk
+Insufficient memory to store text
+Insufficient storage space for Chunk1(BIN data). At least Chunk1 Must have 8 or more bytes, but got 
+Integer Division by zero.
+Integrity of halfedge 
+Integrity of next halfedge of 
+Integrity of opposite halfedge of 
+Integrity of previous halfedge of 
+Integrity of vertex of halfedge 
+Interlingua (World)
+Internal Bridging angle override.
+Internal Evaluation Error, best value so far was %1%
+Internal bridges act as intermediate support between sparse infill and top solid infill and can strongly affect top surface quality.
+Internal logic failed while compiling the expression, probably you added a repeat to something non-repeatable!
+Internal logic failed while trying to increment floating point value %1%: most likely your FPU is in non-IEEE conforming mode.
+Internal problem setting up the POST
+Internal state
+International Organizations
+Inuktitut (Kanatami)
+Inuktitut (Latin)
+Inuktitut (Latin, Canada)
+Inuktitut (Qaliujaaqpait)
+Inuktitut (Syllabics)
+Inuktitut (Syllabics, Canada)
+Invalid 'dt'.
+Invalid Content-Length: value
+Invalid IHDR data
+Invalid IPv6 address format
+Invalid JPEG file structure: SOS before SOF
+Invalid JPEG file structure: missing SOS marker
+Invalid JPEG file structure: two SOF markers
+Invalid JPEG file structure: two SOI markers
+Invalid LDAP URL
+Invalid OCSP response
+Invalid OCSP response status: %s (%d)
+Invalid OpenGL ES version %i.%i
+Invalid OpenGL profile 0x%08X
+Invalid OpenGL version %i.%i
+Invalid SOS parameters for sequential JPEG
+Invalid TIMEVALUE
+Invalid UTF-16
+Invalid UV index: %i (key %s). Mesh %i has only %i UV channels
+Invalid alternation operators within (?...) block.
+Invalid argument for enum parameter
+Invalid attempt to read row data
+Invalid attribute
+Invalid back reference: specified capturing group does not exist.
+Invalid background palette index
+Invalid bit depth for RGB image
+Invalid bit depth for RGBA image
+Invalid bit depth for grayscale image
+Invalid bit depth for paletted image
+Invalid bit depth in IHDR
+Invalid call sequence
+Invalid certificate verification context
+Invalid character
+Invalid character class name, collating name, or character range.
+Invalid character in the stream
+Invalid character in the symbol entity name
+Invalid client API 0x%08X
+Invalid code point
+Invalid collation character.
+Invalid color quantization mode change
+Invalid color type in IHDR
+Invalid color type/bit depth combination in IHDR
+Invalid component ID %d in SOS
+Invalid compression type specified
+Invalid connectivity, edge does not belong to facet
+Invalid content of repeat range.
+Invalid context creation API 0x%08X
+Invalid context release behavior 0x%08X
+Invalid context robustness mode 0x%08X
+Invalid crop request
+Invalid cursor mode 0x%08X
+Invalid cursor position %f %f
+Invalid data type specification
+Invalid destination sequence header
+Invalid easy handle
+Invalid encoding method.
+Invalid escape character
+Invalid face!
+Invalid face!!
+Invalid file format - invalid magic number
+Invalid filename
+Invalid filter method in IHDR
+Invalid filter type specified
+Invalid flags
+Invalid format for pCAL parameter
+Invalid fs.state
+Invalid gamma ramp size %i
+Invalid gamma value %f
+Invalid graph pointer
+Invalid hash load factor
+Invalid header
+Invalid iCCP compression method
+Invalid image color type specified
+Invalid image count for window icon
+Invalid image dimensions for cursor
+Invalid image dimensions for window icon
+Invalid image height in IHDR
+Invalid image width in IHDR
+Invalid index
+Invalid init hint 0x%08X
+Invalid input geometry.
+Invalid input mode 0x%08X
+Invalid interlace type specified
+Invalid joystick ID %i
+Invalid key %i
+Invalid lookbehind assertion encountered in the regular expression.
+Invalid matrix initializer type
+Invalid matrix type
+Invalid memory pool code %d
+Invalid mesh ref
+Invalid message catalog.
+Invalid mo-format, encoding is not specified
+Invalid mouse button %i
+Invalid multi handle
+Invalid neighbor index
+Invalid node anuimation instance detected.
+Invalid number of channels in input image
+Invalid number of channels in output image
+Invalid number of colors in palette
+Invalid number of histogram entries specified
+Invalid number of transparent colors specified
+Invalid numeric value (inconsistent explicit type specification?)
+Invalid numeric value in the string
+Invalid octal escape sequence.
+Invalid option type
+Invalid or empty zero width assertion.
+Invalid or unsupported charset: 
+Invalid or unsupported syntax
+Invalid or unterminated Perl (?...) sequence.
+Invalid or unterminated escape sequence.
+Invalid pCAL equation type
+Invalid pCAL parameter count
+Invalid palette
+Invalid palette length
+Invalid palette size, hIST allocation skipped
+Invalid parameters passed to ReadFileFromMemory()
+Invalid path: 
+Invalid platform ID 0x%08X
+Invalid preceding regular expression prior to repetition operator.
+Invalid prediction scheme for attribute type.
+Invalid prediction scheme requested.
+Invalid progressive/lossless parameters at scan script entry %d
+Invalid range end in character class
+Invalid read size (binary)
+Invalid refresh rate %i
+Invalid regular expression '%s': %s
+Invalid regular expression object
+Invalid regular expression.
+Invalid sBIT depth specified
+Invalid sCAL height
+Invalid sCAL height ignored
+Invalid sCAL unit
+Invalid sCAL width
+Invalid sCAL width ignored
+Invalid sRGB rendering intent specified
+Invalid scale (either 0 or too large)
+Invalid scan script at entry %d
+Invalid scancode %i
+Invalid sequence header
+Invalid service name
+Invalid service owner.
+Invalid session object
+Invalid share handle
+Invalid simple encoding 
+Invalid slice i18n catalog: 
+Invalid socket argument
+Invalid sparse array header
+Invalid sparse matrix header
+Invalid standard cursor 0x%08X
+Invalid tag input
+Invalid time %f
+Invalid time specified for tIME chunk
+Invalid triangle painting data: bitstream offset out of range.
+Invalid triangle painting data: expected a hexadecimal digit.
+Invalid triangle painting data: incomplete or invalid color tree.
+Invalid triangle painting data: split side out of range.
+Invalid triangle painting data: triangle index out of range.
+Invalid triangle painting data: truncated bitstream.
+Invalid type for metadata 
+Invalid value for parameter
+Invalid value for parameter 
+Invalid value input
+Invalid version history response: 
+Invalid vertex index
+Invalid vertex neighborhood
+Invalid window aspect ratio %i:%i
+Invalid window attribute 0x%08X
+Invalid window hint 0x%08X
+Invalid window hint string 0x%08X
+Invalid window maximum size %ix%i
+Invalid window minimum size %ix%i
+Invalid window opacity %f
+Invalid window size %ix%i
+Invalid/unsupported mode
+Invalidation detected in the number of indices: does not fit to the primitive type.
+Invalidity Date
+Inversion of singular 3x3 matrix
+Inversion of singular 4x4 matrix
+Irish (Ireland)
+Irish (United Kingdom)
+Is the input lower dimensional (e.g., on a plane in 3-d)?  Qhull may
+IsItemHovered: %d
+Ishisangu (Tansaniya)
+Issue another request to this URL: '%s'
+Issuer certificate lookup error
+Issuer check against peer certificate failed
+It is generally recommended to have this option switched on unless your printer cooling is powerful enough or the print speed is slow enough that perimeter curling does not happen. 
+It is recommended to assemble objects first,
+Italian (Italy)
+Italian (San Marino)
+Italian (Switzerland)
+Italian (Vatican City)
+Italy Envelope, 110 x 230 mm
+Item Picker..
+Item with focus: %d
+Iterations do not converge
+Iterator pointer is NULL
+Iterator with mask is not supported
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+JFIF extension marker: RGB thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: type 0x%02x, length %u
+JIT stack limit reached
+JPEG datastream contains no image
+JPEG image (from fallback)
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+JPEG: Couldn't load - file is probably corrupted.
+JPEG: Couldn't save image.
+JSON contains too many values
+JSON nesting exceeds the supported schema
+JXKRLPMOOOPPPROUOWPX NOOPORNUNWPXQXSWUUVRVOUOVP
+JXNKNX OKOX SOSS LKVKVOUK OQSQ LXQX
+JXOKMR PKNRNVPX NROPQOSOUPVRVTUVTWRXPXNWMUMR SOUQUTTVRX MKPK
+JXPKLX QKMX SORS NKXKWNWK OQRQ JXOX
+JYKPLPMQMSLV MSNQOPQPRQRSQV RSSQTPVPWQWRVTVUWVXV
+JYNKNU OKNR NROPQOSOUPVQVTTVTXUYVYWX SOUQUTTV LKOK
+JYNKNX OKOX LKSKVLWNWOVQSROR SKULVNVOUQSR LXQX
+JYNKNX OKOX LKSKVLWNWOVQSROR SKULVNVOUQSR LXVXVUUX
+JYNKNX OKOX ORPPROTOVPWRWUVWTXRXPWOU TOUPVRVUUWTX LKOK
+JYNKNX OKOX SOSS LKVKVOUK OQSQ LXVXVTUX
+JYNOMX OONUMX VRVOWOVRTUQWNXMX LOOO
+JYPKLX QKMX NKTKVLWNWQVTUVTWQXJX TKULVNVQUTTVSWQX
+JYPKLX QKMX NKUKWLWNVPSQ UKVLVNUPSQ OQRQTRUSUUTWQXJX RQTSTUSWQX
+JYPKLX QKMX NKUKWLXMXOWQTROR UKWMWOVQTR JXOX
+JYPKLX QKMX SORS NKXKWNWK OQRQ JXTXUUSX
+JYRRPQOQMRLTLUMWOXPXRWSUSTRR WMRR RMWMWR RMVNWR
+JZLKRX MKRV XKRX LKXK NLWL
+JZLLMKOKQLRNRPQRPSNT OKPLQNQQPS VKUX WKTX NTXT
+JZLTLRMPOPUSWSXR LRMQOQUTWTXRXP
+JZMJLM XJWM PPOS UPTS MVLY XVWY MKWK MLWL PQTQ PRTR MWWW MXWX
+JZMKWOMS MTWT MXWX
+JZMLWX MLONQOTOVNWMWKUKUMTO ONTO QOWM VKVN ULWL WXUVSUPUNVMWMYOYOWPU UVPU SUMW NVNY MXOX
+JZMNMQ WNWQ MNWN MOWO MPWP MQWQ
+JZMRNPPOROSPSR QORPRRQUPWNXMXLWLVMVLW XPWQXQXPWOVOTPSRRURWSX QUQWRXTXVWWU
+JZMSRPWS MSRQWS
+JZNBNW NNQLTLVMWOWQVSSUQVNW NNQMTMVN UMVOVQUSSU
+JZNFMM OFMM VFUM WFUM
+JZNKNX OKOX LKSKVLWMXPXSWVVWSXLX SKULVMWPWSVVUWSX
+JZNKNX OKOX LKSKVLWNVPSQ SKULVNUPSQ OQSQVRWTWUVWSXLX SQURVTVUUWSX
+JZNKNX OKOX LKSKVLWNWOVQSROR SKULVNVOUQSR LXQX SRTSUWVXWXXW SRUSVWWX
+JZNKNX OKOX WKOS QQVX RQWX LKQK TKYK LXQX TXYX
+JZNKNX OKOX WOOU RSVX SSWX LKOK TOYO LXQX TXYX
+JZNKNX OMVX OKVV VKVX LKOK TKXK LXPX
+JZNPPPPONPMQLSLUMWNXPXQWRUSR LUNWPWRU RRRWSXUXWVXTXRWPVOVPWP RUSWUWWV
+JZPKLX PKTX QKTU XKTX NKQK VKZK JXNX
+JZPKLX QKMX NKUKWLXMXOWQTROR UKWMWOVQTR SRTWUXVXWW SRTSUWVX JXOX
+JZPOOMOKMKMMNNPOSOUNWL NKNN MLOL MMSO POUN WLSY
+JZPOOMOKMKMMNNPOSOUNWL NKNN MLOL MMSO POUN WLWY
+JZRFQGSQRR RFRR RFSGQQRR MINIVOWO MIWO MIMJWNWO WIVINOMO WIMO WIWJMNMO
+JZRFQHRJSHRF RFRb RQQTRbSTRQ LMNNPMNLLM LMXM TMVNXMVLTM
+JZRFRR MIWO WIMO
+JZRKRY MKMPNRPSTSVRWPWK LMMKNM QMRKSM VMWKXM OVUV
+JZRLRX MOWU WOMU
+JZRMRX MMWM MRWR
+JZRMRX MRWR MXWX
+JZRRPQOQMRLTLUMWOXPXRWSUSTRR SLQQ WMRR XQSS
+JZWKMOWS MTWT MXWX
+JZWKVMTOPQMR SPMS UFVGWIWKVNTPQRMT
+JZWMQMONNOMQMSNUOVQWWW MRUR
+JZXKLX OKPLPNOOMOLNLLMKOKSLVLXK UTTUTWUXWXXWXUWTUT
+Japanese (Japan)
+Japanese Double Postcard 200 x 148 mm
+Japanese Postcard 100 x 148 mm
+Japanese Postcard Rotated 148 x 100 mm
+Javanese (Indonesia)
+Javanese (Javanese)
+Javanese (Javanese, Indonesia)
+JoinMeshes: Normals expected but input mesh contains no normals
+JoinMeshes: Positions expected but input mesh contains no positions
+JoinMeshes: Tangents expected but input mesh contains no tangents
+JoinMeshes: UVs expected but input mesh contains no UVs
+JoinMeshes: VCs expected but input mesh contains no VCs
+JoinVerticesProcess begin
+JoinVerticesProcess finished 
+Jola-Fonyi (Senegal)
+Jones original DIRECT algorithm is used.
+K SUVATAUAVAWH
+K SUVWATAUAVAWH
+K SVWATAUAVAWH
+K UVWATAUAVAWH
+KDF routines
+KWNURTTSURUPSOQOOPNQMSMUNWPXRXTWUV QOOQNSNVPX
+KXNMNV SMNV SMSV XMSV
+KXOKOX PKPX MKRK MXWXWTVX
+KXOKOX PKPX MKWKWOVK MXRX
+KXOOOX POPX PRQPSOUOVPVQUQUPVP MOPO MXRX
+KXPKLX QKMX VPUQVQVPUOTORQPROR ORPSQWRXTXUWVU ORQSRWSX NKQK
+KXQKMX RKNX OKTK KXUXVUTX
+KXQOOPNQMSMUNWPXRXTWUVVTVRUPSOQO QOOQNSNVPX RXTVUTUQSO
+KXUPUQVQUPSOQOOPNQMSMUNWPXRXTWUV QOOQNSNVPX
+KXVLWLXKWNVLTKRKPLOMNOMRMUNWPXRXTWUU RKPMOONRNVPX
+KYLPMPNQNRMTMUNVPVQURSSP RSRUSVUVVUWRWP
+KYMKRX NKRU WKRX KKPK TKYK
+KYMNWX WNMX OLLOKQ ULXOYQ
+KYMPMV MSNQOPPPQQRSRV RSSQTPUPVQWSWV
+KYNORX OORV VORX LOQO TOXO
+KYNOUX OOVX VONX LOQO TOXO LXPX SXXX
+KYOBOb OBVB ObVb
+KYOBOb PBPb OBVB ObVb
+KYOOLX POMX UOVPWPVOTORQOR ORPSRWTXVWWU ORQSSWTX
+KYPMTW TMPW MPWT WPMT
+KYQFOGNINKOMQNSNUMVKVIUGSFQF QFNIOMSNVKUGQF SFOGNKQNUMVISF
+KYQVOUNSNQOOQNSNUOVQVSUUSVQV SVVS QVVQ OUUO NSSN NQQN
+KYRJKVYVRJ RZYNKNRZ
+KYRKLX RMWX RKXX MWVW LXXX
+KYRKMX RNVX RKWX KXPX TXYX
+KYRKMX RNVX RKWX OTTT KXPX TXYX
+KYRKPLOMNOMRMUNWPXRXTWUVVTWQWNVLTKRK RKPMOONRNVPX RXTVUTVQVMTK
+KYSOQOOPNQMSMUNWPXRXTWUVVTVRUPRNQLQKRJTJUKVM QOOQNSNVPX RXTVUTUQSO QLRKTKVM
+KYTBTb UBUb NBUB NbUb
+KYTKKX SMTX TKUX NTTT IXNX RXWX
+KYTMRY MQNPOPPQPUQVTVUUVSWP
+KYTPTSUTVTWSWQVOUNSMQMONNOMQMSNUOVQWSWUV TQSPQPPQPSQTSTTS
+KYUBUb NBUB NbUb
+KYVLWKWOVLTKQKOLNMMPMSNVOWQXTXVWWU QKOMNPNSOVQX
+KYVLWLXKWNVLTKRKPLOMNOMRMUNWPXRXTWUVVS RKPMOONRNVPX RXTVUS SSXS
+KYVSUPSOQOOPNQMSMUNWPXRXTWUVVTWQWNVLTKQKPLQLRK QOOQNSNVPX RXTVUTVQVNULTK
+KYWOWPVQNVMWMX NQOOROUQ OPRPUQVQ NVOVRWUW OVRXUXVV
+KYYPXNVLSKQKNLLNKQKSLVNXQYSYVXXVYT YPWNUMSMQNPOOQOSPUQVSWUWWVYT
+KZMONLOKPKQLRORX XOWLVKUKTLSOSX MONMOLPLQMRO XOWMVLULTMSO PXUX
+KZMVNXQXMRMONMOLQKTKVLWMXOXRTXWXXV OUNRNOOMQK TKVMWOWRVU NWPW UWWW
+KZNKVX OKWX WKNX LKQK TKYK LXQX TXYX
+KZPKLX QKMX OQPPROTOVPVRUUUWVX TOUPURTUTWUXWXXWYU NKQK
+KZQKOLNMMPMSNVOWQXTXVWWVXSXPWMVLTKQK QKOMNPNSOVQX TXVVWSWPVMTK
+KZQKOLNMMPMSNVOWQXTXVWWVXSXPWMVLTKQK QKOMNPNSOVQX TXVVWSWPVMTK QOQT TOTT QQTQ QRTR
+KZRKRX SKSX NKMOMKXKXOWK PXUX
+KZRKRX SKSX QNNOMQMRNTQUTUWTXRXQWOTNQN QNOONQNROTQU TUVTWRWQVOTN PKUK PXUX
+KZSFQGPIPKQMSNUNWMXKXIWGUFSF SFPIQMUNXKWGSF UFQGPKSNWMXIUF
+KZSPQX SPRX MQOOXO MQOPXP
+KZTKPX UKQX PKNNOKZKYNYK NXSX
+KZVMWKWOVMULSKQKOLNMNOOPQQTRVSWT NNOOQPTQVRWSWVVWTXRXPWOVNTNXOV
+KZVOTVTWUXWXXWYU WOUVUWVX USUQSOQOOPNQMSMUNWPXRXTV QOOQNSNVPX
+KZWKTVTWUXWXXWYU XKUVUWVX USUQSOQOOPNQMSMUNWPXRXTV QOOQNSNVPX UKXK
+KZWLXLYKXNWLUKRKPLOMOOPPUSVT ONPOURVSVVUWSXPXNWMULXMWNW
+Kabuverdianu (Cabo Verde)
+Kabyle (Algeria)
+Kako (Cameroon)
+Kalaallisut (Greenland)
+Kalenjin (Emetab Kenya)
+Kalenjin (Kenya)
+Kamba (Kenya)
+Kannada (India)
+Kanuri (Latin)
+Kanuri (Latin, Nigeria)
+Kanuri (Nigeria)
+Kashmiri (Arabic)
+Kashmiri (Devanagari)
+Kashmiri (India)
+Kaydara FBX Binary
+Kazakh (Kazakhstan)
+KdTreeAttributesDecoder: compression level %i not supported.
+Keep painted feature after mesh change
+Keep sending data to get tossed away!
+Key Agreement
+Key Compromise
+Key Encipherment
+Key is empty
+Key may not start with '-'
+Keys mods: %s%s%s%s
+Keys pressed:
+Keys release:
+Khmer (Cambodia)
+Khoekhoegowab (Namibiab)
+Kihorombo (Tanzania)
+Kikamba (Kenya)
+Kikuyu (Kenya)
+Kimachame (Tanzania)
+Kinyarwanda (Rwanda)
+Kinyarwanda (U Rwanda)
+Kipare (Tadhania)
+Kiruwa (Tanzania)
+Kisampur (Kenya)
+Kishambaa (Tanzania)
+Kiswahili (Congo DRC)
+Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)
+Kiswahili (Kenya)
+Kiswahili (Tanzania)
+Kiswahili (Uganda)
+Kitaita (Kenya)
+Kiteso (Kenia)
+Kiteso (Uganda)
+Konkani (India)
+Korean (Korea)
+Korean (North Korea)
+Koyra Chiini
+Koyra Chiini (Mali)
+Koyra ciini (Maali)
+Koyraboro Senni
+Koyraboro Senni (Mali)
+Koyraboro senni
+Koyraboro senni (Maali)
+Kurdish (Arabic, Iran)
+Kwasio (Cameroon)
+Kwasio (Kamerun)
+Kyivunjo (Tanzania)
+Kyrgyz (Kyrgyzstan)
+L!N L!F(H!V0H!N8H
+L!O L!G(H!W0H!O8H
+LAN auto reconnect: connecting device 
+LAN auto reconnect: device 
+LAN auto reconnect: scanning for saved devices
+LAN compatibility type 
+LAN compatibility types: 
+LAN device scan failed: 
+LDAP: cannot bind
+LDAP: search failed
+LIGHT MAGENTA
+LIGHT STEEL BLUE
+LRLFLRRRLF LIPQ LLOR LOMQ
+LULRUWUMLR ORTU ORTO RRTS RRTQ
+LWPKPVRXTXUWUV QKQVRX NOTO
+LWTKULUMVMVLTKRKPMPX RKQMQX NOSO NXSX
+LWTSSQQPOQNSOUQVSUTS UPTSTUUVVV
+LWTSSQQPOQNSOUQVSUTS VMTSTUUVVV
+LXLKNKPLWX NKOLVX RPMX RPNX
+LXMRNPOOQORPRQPX POQPQQOX RQSPUOVOWPWQVQWP
+LXNKOMQNSNUMVK NKONQOSOUNVK
+LXNMNV NMRV VMRV VMVV
+LXNMPV RMPV RMTV VMTV
+LXNMRV VMRV NMVM
+LXNNOQOSNV VNUQUSVV NNQOSOVN NVQUSUVV
+LXNPPV RPPV RPTV VPTV
+LXNQOPPPQQQSPV QSRQTPUPVQVSUVTY
+LXOKOP PKOP UKUP VKUP
+LXOPNRNTOVQVRTRR UPVRVTUVSVRT
+LXOSVSVRUPSOQOOPNRNUOWQXSXUWVV USUQSO QOPPOROUPWQX
+LXPFUL PFOGUL
+LXRLNWXPLPVWRL RRRL RRLP RRNW RRVW RRXP
+LXRLRX LQMOWOXQ PWTW
+LXRMPNOONQNSOUPVRVTUUTVRVPUNTMRM QVPUPTQSRSSTTVUWVW
+LXRMRV NOOPOSQTSTUSUPVO
+LXRMRV PONPNSPTTTVSVPTOPO
+LXSKSURWQX TKTUSWQXPXNWMUNTOUNV QKVK
+LXSOVRSU NRVR
+LXTFOL TFUGOL
+LXUKRUQWPX VKSURWPXOXMWLUMTNUMV SKXK
+LXUONX VOOX OONQNOVO NXVXVVUX
+LXVPTOQOOPOQPRRS QOPPPQRS RSOTNUNWPXSXUW RSPTOUOWPX
+LXVPTOROPPOQNSNUOWQXSXUW ROPQOSOVQX OSSS
+LXVQUQURVRVQUPSOQOOPNRNUOWQXSXUWVV QOPPOROUPWQX
+LYNKNO VMRTPX WKTQQX NMPKRKUM NMPLRLUMVM
+LYNKRRRX OKSR WKSRSX LKQK TKYK PXUX
+LYNNONOONONNOLQKTKVLWNWOVQSRRSRTST TKVMVPUQSR RWRXSXSWRW
+LYOKNQ OKVK OLSLVK NQOPQOTOVPWRWUVWTXQXOWNVNUOUOV TOUPVRVUUWTX
+LYOMONNNNMOLQKTKVLWNVPTQ TKULVNUPTQ RQTQVRWTWUVWTXQXOWNVNUOUOV TQURVTVUUWTX
+LYOMONNNNMOLQKTKVLWNVPTQQROSNUNX TKULVNUPTQ NWOVPVSWVWWV PVSXVXWVWU
+LYONRKRQ VNSKSQ RQPROTOUPWRXSXUWVUVTURSQ RTRUSUSTRT
+LYOVOUNUNVOWQXSXUWVVWSWNVLTKQKOLNNNPORQSTSWQ SXUVVSVNULTK QKPLONOPPRQS
+LYPMMV PMQV XMQV XMUV
+LYPMQNQOPPOPNONNOMPMSNUNWMNV USTTTUUVVVWUWTVSUS
+LYPNSKSX RLRX OXVX
+LYPPMY UPTSSUQVPVOUOS TSTUUVVVWU
+LYQKOLNNOPQQTQVPWNVLTKQK QKPLONPPQQ TQUPVNULTK QQORNTNUOWQXTXVWWUWTVRTQ QQPROTOUPWQX TXUWVUVTURTQ
+LYQKOLNONTOWQXTXVWWTWOVLTKQK QKPLOOOTPWQX TXUWVTVOULTK
+LYQKPLPMQN TKULUMTN RNPOOQORPTRUSUUTVRVQUOSNRN RURY SUSY OWVW
+LYQOOPNRNUOWQXTXVWWUWRVPTOQO QOPPOROUPWQX TXUWVUVRUPTO
+LYRKPLONOOPQRRSRUQVOVNULSKRK RRRX SRSX OUVU
+LYSKQLPMOONRNUOWPXRXTWUVVTWQWNVLUKSK SKQMPOOSOVPX RXTVUTVPVMUK OQVQ
+LYSMSX TKTX TKMTXT QXVX
+LYTOUPUQVQVPTOQOOPORQSTTVU OQQRTSVTVWTXQXOWOVPVPWQX
+LYVKNX WKOX OKNONKWK NXWXWTVX
+LYVKVX NKVK QQVQ NXVX
+LYVMVNWNWMVLTKRKPLOMNPNUOWQXTXVWWUWSVQTPQPNR RKPMOPOUPWQX TXUWVUVSUQTP
+LYVPVQWQVPTOQOOPORQSTTVU OQQRTSVTVWTXQXOWNVOVOW
+LYWKTKQLONNQNSOVQXTYWY WKTLRNQQQSRVTXWY
+LYXKLX YKMX QKONPKYK LXUXVUTX
+LZQOPPPQOQOPQOTOVQVWWXXX TOUQUWWX URRSPTOUOWPXSXTWUU RSPUPWQX
+Lakota (United States)
+Langi (Tanzania)
+Last point added to hull was p%d.
+Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT
+Latest dbghelp.dll is available at http://www.microsoft.com/whdc/ddk/debugging/
+Latin (Vatican City)
+Latin (World)
+Latina (Civitas Vaticana)
+Latina (Mundus)
+Latvian (Latvia)
+Launch troubleshoot center
+Layer height contribution of component A for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.
+Layer height contribution of component B for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.
+Layer height used in Z zones painted with dithering (mixed virtual filaments). Set to 0 to keep normal layer height in those zones.
+Lcl Rotation
+Lcl Translation
+Leaving customized post processing pipeline
+Leaving post processing pipeline
+Ledger, 17 x 11 in
+Leftovers after chunking: % I64du bytes
+Legacy Columns API
+Legal Extra 9 1/2 x 15 in
+Legal, 8 1/2 x 14 in
+Length of one pointillisme segment along an extrusion path for same-layer pointillisme mode. Set to 0 to use automatic nozzle-based sizing.
+Letter Extra 9 1/2 x 12 in
+Letter Extra Transverse 9.275 x 12 in
+Letter Plus 8 1/2 x 12.69 in
+Letter Rotated 11 x 8 1/2 in
+Letter Small, 8 1/2 x 11 in
+Letter Transverse 8 1/2 x 11 in
+Letter, 8 1/2 x 11 in
+LevelSetPruneOp: the background value cannot be negative!
+LevelSetPruneOp: the inside value must be negative!
+LevelSetPruneOp: the outside value cannot be negative!
+License under the terms and conditions of the 3-clause BSD license
+Like this one
+LimitBoneWeightsProcess begin
+LimitBoneWeightsProcess end
+Limited-memory BFGS (L-BFGS) (local, derivative-based)
+Limited-memory variable-metric, rank 1 (local, derivative-based)
+Limited-memory variable-metric, rank 2 (local, derivative-based)
+Limits viewport frame rate to reduce GPU load and power usage.
+Line       : 
+Line %d Column %d...
+Line 1 hello
+Line 2 clip me!
+Line width of the Bridge. If expressed as a %, it will be computed over the nozzle diameter.
+Lingala (Angola)
+Lingala (Central African Republic)
+Lingala (Congo DRC)
+Lingala (Congo)
+List all CSPs
+List all certificates in store
+Listing certs for store %s
+Lithuanian (Lithuania)
+Little endian
+Load %s file
+Load certs from files in a directory
+Load file into cache
+Load up the ENGINE specified by other settings
+Loaded cached slice i18n catalog version 
+Loaded profiles overview
+Loaded read-only slice i18n catalog version 
+Loading version history...
+Local Interface %s is ip %s using address family %i
+Local port: %hu
+Log To Clipboard
+Log saved to the file '%s'.
+Login denied
+Long text display
+Long text that is likely to clip
+Lookup and output certificates
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Low German (Germany)
+Low German (Netherlands)
+Lower Sorbian
+Lower Sorbian (Germany)
+Lower values improve performance, at the cost of jagged edges.
+Luba-Katanga (Congo DRC)
+Luganda (Yuganda)
+Luluhia (Kenya)
+Luxembourgish (Luxembourg)
+Luyia (Kenya)
+Lying server, not serving HTTP/2
+MD5 mismatch
+MD5 returned an unexpected digest size
+MD5 verification failed. The downloaded file was removed.
+MEDIUM AQUAMARINE
+MEDIUM FOREST GREEN
+MEDIUM GOLDENROD
+MEDIUM ORCHID
+MEDIUM SEA GREEN
+MEDIUM SLATE BLUE
+MEDIUM SPRING GREEN
+MEDIUM TURQUOISE
+MEDIUM VIOLET RED
+MERGING CYCLE
+MIDNIGHT BLUE
+MIME-Version: 1.0%s
+MMA - using infeasible point?
+MNG features are not allowed in a PNG datastream
+MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it.
+MVOMOV OMUM OQSQ
+MVOPPPQQQSPV UQTPSPRQQS
+MVQMNV OSPQQPSPTQTRSTSUTVUV
+MVQMNV QMVM PQSQ
+MVQMNV QMVM PQSQ NVSV
+MVQMNV VMOS RQTV
+MWMRMQNOONQMSMUNVOWQWR PNTN OOUO NPVP NQVQ MRWR
+MWNMRQRV VMRQ
+MWNONNOMPMQNRPRV VOVNUMTMSNRP
+MWNPOPOV UPTSRUOV
+MWNPOPPQPROTOUPVRVSUTS UPSVRXQYOYNX
+MWNPOPPQPROTOUPVRVSUTS UPTSTUUVVV
+MWNPOPPQPSOV PSQQRPTPUQURTTTUUVVV
+MWNROPPOROSPSRRURWSX QORPRRQUQWRXTXUWVU
+MWOMOV OMRMTNUPUSTURVOV
+MWOMOV OMSMUNUPSQ OQSQURUUSVOV
+MWOMOV OMSMUNUQSROR
+MWOMOV OMSMUNUQSROR RRUV
+MWOMOV OMUM OQSQ OVUV
+MWOMOV OMUV UMUV
+MWOMOV OSPQRPTQUSUV
+MWOMOV OSPURVTUUSTQRPPQOS
+MWOMOV UMOS QQUV
+MWOMOV UMUV OMUM
+MWOMOV UMUV OQUQ
+MWOMPMQNRPUV RPOV
+MWOMRQOV OMUM OVUV
+MWOMUM PQTR TQPR OVUV
+MWONQMSMUNUPSQ RQSQURUUSVQVOU
+MWOPOV OSPQRPTQUSUV
+MWOPOY OSPURVTUUSTQRPPQOS
+MWOPPPQQSXTYUY UPTRPWOY
+MWOPRV UPRVQXPYOY
+MWOQPPQPRQRUSVTVUU VQUPTPSQQUPVOVNU
+MWPMOQQPRPTQUSTURVQVOU PMTM
+MWQMNV QMTMVNVPSQPQ SQURUTTURVNV
+MWQMNV QMUMVNVPUQSRPR
+MWQMNV QMUMVNVPUQSRPR QRRUSVTVUU
+MWQMONOPQQSQUPUNSMQM QQOROUQVSVUUURSQ
+MWQPOV UPTPRQPS PSQUSVTV
+MWQQQSSSSQQQ RQRS QRSR
+MWRJRP OKUO UKOO
+MWRKQMOPMR RKSMUPWR
+MWRKQMOPMR RKSMUPWR RMOQ RMUQ ROPQ ROTQ QQSQ MRWR
+MWRKRX UNSMQMONOPQQTRUSUUSVQVOU
+MWRLMUWURL ROOT ROUT RRQT RRST
+MWRLRW OTPURXTUUT PURWTU
+MWRLRX MOWU WOMU
+MWRLRX OOUO MUOWQXSXUWWU
+MWRMNV RMVV NVVV
+MWRMNV RMVV PSTS
+MWRMQNPPOSOVPWRWSVTTUQUNTMRM PRTR
+MWRMRX OPPORLTOUP PORMTO
+MWRORU OPUT UPOT
+MWRXWOMORX RUUP RUOP RRSP RRQP
+MWSKSLTLTKSK NROPPOROSPSRRURWSX QORPRRQUQWRXTXUWVU
+MWSMMV SMUV OSTS
+MWSMSV SMNSVS
+MWTMQY RPPQOSPURVSVUUVSUQSPRP
+MWUFTGRM UGRM UFVGRM
+MWUMOV OMUM OVUV
+MWUMUV USTQRPPQOSPURVTUUS
+MWUPUV OPOSPURVTUUS
+MWUPUVTXRYPY USTQRPPQOSPURVTUUS
+MWUPUY USTQRPPQOSPURVTUUS
+MWUQSPRPPQOSPURVSVUU OSSS
+MXNPOPPQPSNY PSQUSVUUVSUQSPQQPS
+MXNQOPQPRQRSQW VPURSTQWPY
+MXOQQPVP QPQRPV TPTRUV
+MXOQQPVP SPRV
+MXQLQY TLTY OQVQ OTVT
+MXQMNV QMTV WMTV
+MXQMNV QMUMVOVQUTTURVNV
+MXQMNV WMTV PQUQ
+MXRMPNOPOSPURVSVUUVSVPUNSMRM QQTR TQQR
+MXRMPNOPOSPURVSVUUVSVPUNSMRM STVW
+MXTFRGQIQLRMSMTLTKSJRJQK RKRLSLSKRK RGQK QIRJ
+MXTHSIRIQHQGRFSFTGTJSLQM RGRHSHSGRG SITJ THSL
+MXUSTQRPPQOSPURVTUUS VPSY
+MXUSTQRPPQOSPURVTUUS VPTVSXRYPYOX
+MXVIUITHTGUFVFWGWIVKULSM UGUHVHVGUG VIVJUL
+MXVNTMRMPNOPOSPURVTVVUVR SRVR
+MXWFUGTHSJSLTMUMVLVKUJTJ UGTITJ TKTLULUKTK
+MY CUSTOM COLOR PICKER WITH AN AMAZING PALETTE!
+Maa (Tansania)
+Macedonian (North Macedonia)
+Machame (Tanzania)
+Main Pos: (%.0f,%.0f), Size: (%.0f,%.0f)
+Main menu bar
+Maithili (India)
+MakeLeftHandedProcess begin
+MakeLeftHandedProcess finished
+Makhuwa-Meetto (Mozambique)
+Makonde (Tanzania)
+Makua (Umozambiki)
+Malagasy (Madagascar)
+Malagasy (Madagasikara)
+Malay (Brunei)
+Malay (Indonesia)
+Malay (Malaysia)
+Malay (Singapore)
+Malayalam (India)
+Malformatted trailing header ! Skipping trailer.
+Malformed encoding found
+Malformed telnet option
+Maltese (Malta)
+Malti (Malta)
+Manipulating window titles
+Manipuri (Bangla)
+Manipuri (Bangla, India)
+Manual log upload started
+Manual log upload threw an exception: 
+Manual log upload threw an unknown exception
+Manually wrapping:
+Manx (Isle of Man)
+Maori (New Zealand)
+Map element should have a name
+Mapping of a memory object has failed
+Mapping type currently not implemented
+Mapuche (Chile)
+Mapudungun (Chile)
+Marathi (India)
+Mark bundle as not supporting multiuse
+Masai (Kenya)
+Masai (Tanzania)
+Mask Algorithm: 
+Material pointer in nullptr, skipping.
+Material property
+Material property %s is expected to be a string
+Material property %s%i is expected to be 5 floats large (size is %i)
+Material property %s%i is expected to be an integer (size is %i)
+Matrix initializing unitary map was not unitary
+Matrix operand is an empty matrix.
+Max: %.1f %%
+Max: %d units
+Max: (%.2f, %.2f)
+Maximum (%ld) redirects followed
+Maximum angle of overhangs to allow after making more steep overhangs printable.90
+Maximum file size exceeded
+Maximum login retries exceeded
+Maximum supported image dimension is %u pixels
+Mazanderani (Iran)
+Melayu (Brunei)
+Melayu (Indonesia)
+Melayu (Malaysia)
+Melayu (Singapura)
+Memory    :  
+Memory allocation failed while processing sCAL
+Memory block has been corrupted
+Memory footprint:
+Menu inside a regular window
+Menus inside a regular window
+Meru (Kenya)
+Mesh %s contains no faces
+Mesh %u, channel %u: t(%.3f,%.3f), s(%.3f,%.3f), r(%.3f), %s%s
+Mesh %u: Not suitable for vcache optimization
+Mesh BVHs do not overlap.
+Mesh exceeds the triangle limit. It will be split ...
+Mesh has too many faces: %u, but the limit is %u
+Mesh has too many vertices: %u, but the limit is %u
+Mesh with invalid primitive type: 
+Message hash
+Metadata name cannot be an empty string
+Method not supported. 
+Method of Moving Asymptotes (MMA) (local, derivative)
+Microsoft CSP Name
+Microsoft Commercial Code Signing
+Microsoft Edge WebView2
+Microsoft Encrypted File System
+Microsoft Enhanced Cryptographic Provider v1.0
+Microsoft Enhanced RSA and AES Cryptographic Provider
+Microsoft Extension Request
+Microsoft Individual Code Signing
+Microsoft Local Key set
+Microsoft Server Gated Crypto
+Microsoft Smartcard Login
+Microsoft Trust List Signing
+Microsoft User Principal Name
+Microsoft Windows NT
+Migrate user presets to the OrcaCloud user folder if needed.
+Migrating user presets from 
+Migration source: Bambu Cloud user folder: 
+Migration source: default user folder: 
+Migration source: user folder: 
+Min: %.1f %%
+Min: %d units
+Min: (%.2f, %.2f)
+MiniDumpWriteDump() failed.
+Minimum Z height
+Mis-matching Default Value Type
+Miscellaneous marker 0x%02x, length %u
+Mismatch between the program and library build versions detected.
+Mismatched closing tag
+Missing ':' between key and value
+Missing , between the elements
+Missing Huffman code table entry
+Missing IHDR before IDAT
+Missing PLTE before IDAT
+Missing function in allocator
+Missing null-terminator in string material property
+Missing support for required CPU baseline features. Check OpenCV build configuration and required CPU/HW setup.
+Modal windows are like popups but the user cannot close them by clicking outside.
+Model details
+Moderate: Add solid infill for heavily sloping surfaces only
+Mohawk (Canada)
+Monarch Envelope, 3 7/8 x 7 1/2 in
+Mongolian (Mongolia)
+Mongolian (Traditional Mongolian)
+Mongolian (Traditional Mongolian, China)
+Mongolian (Traditional Mongolian, Mongolia)
+Monitoring individual files for changes is not supported currently.
+Monitors  :  
+Month number is out of range 1..12
+Moonraker (Klipper)
+More content %d
+More spacing: Hello
+Morisyen (Mauritius)
+Mouse Left: drag to add lines,
+Mouse Position: (%.1f,%.1f)
+Mouse Right: drag to scroll, click for context menu.
+Mouse clicked:
+Mouse cursor %d: %s
+Mouse cursors
+Mouse dblclick:
+Mouse delta: (%g, %g)
+Mouse pos: (%g, %g)
+Mouse released:
+Mouse wheel: %.1f
+Move the objects farther apart, reduce brim/skirt size, switch Skirt type to Combined, or switch Print sequence to By layer.
+Moving trailers state machine from initialized to sending.
+MovingWindow: '%s'
+Ms Shell Dlg
+Ms Shell Dlg 2
+Multi-component Widgets
+Multi-level single-linkage (MLSL), quasi-random (global, derivative)
+Multi-level single-linkage (MLSL), quasi-random (global, needs sub-algorithm)
+Multi-level single-linkage (MLSL), quasi-random (global, no-derivative)
+Multi-level single-linkage (MLSL), random (global, derivative)
+Multi-level single-linkage (MLSL), random (global, needs sub-algorithm)
+Multi-level single-linkage (MLSL), random (global, no-derivative)
+Multi-line Text Input
+Multi-line text literals are not supported
+Multi-line text:
+MultiSend: ignored stale WAN send finish event
+MultiSend: send request ignored because another send is active
+Multiple calls to Text(), clipped
+Multiple calls to Text(), not clipped (slow)
+Multiple tables with the same identifier will share their settings, width, visibility, order etc.
+Multiplexed connection found!
+Mundang (Cameroon)
+My title is the same as window 1, but my identifier is unique.
+My title is the same as window 2, but my identifier is unique.
+MyObject: %d
+N'ko (Guinea)
+NEW CERTIFICATE REQUEST
+NEWUOA unconstrained optimization via quadratic models (local, no-derivative)
+NIST CURVE: %s
+NIST/SECG curve over a 163 bit binary field
+NIST/SECG curve over a 224 bit prime field
+NIST/SECG curve over a 283 bit binary field
+NIST/SECG curve over a 384 bit prime field
+NIST/SECG curve over a 409 bit binary field
+NIST/SECG curve over a 521 bit prime field
+NIST/SECG curve over a 571 bit binary field
+NIST/SECG/WTLS curve over a 163 bit binary field
+NIST/SECG/WTLS curve over a 233 bit binary field
+NIST/X9.62/SECG curve over a 192 bit prime field
+NOTE: MCUT is copyrighted and may not be sold or included in commercial products without a license.
+NPN, negotiated HTTP1.1
+NPN, no overlap, use HTTP1.1
+NTLM auth restarted
+NTLM handshake failure (bad type-2 message)
+NTLM handshake failure (bad type-2 message). Target Info Offset Len is set incorrect by the peer
+NTLM handshake failure (empty type-2 message)
+NTLM handshake failure (internal error)
+NTLM handshake rejected
+NTLM picked AND auth done set, clear picked!
+NTLM send, close instead of sending %I64d bytes
+NTLM-proxy picked AND auth done set, clear picked!
+NULL VP8Io parameter in VP8Decode().
+NULL argument passed with non-zero length
+NULL array pointer is passed
+NULL double CvSeq pointer
+NULL double pointer
+NULL iterator pointer
+NULL matrix header pointer
+NULL opt arg
+NULL or empty filename
+NULL pointer to array or destination header
+NULL pointer to indices
+NULL row buffer
+NULL sequence pointer
+NULL storage pointer
+NULL storage pointer 
+NULL structure pointer
+NUSMQSQURVSV PPTP
+NVNNNVVVVNNN OOOU POPU QOQU RORU SOSU TOTU UOUU
+NVPOTU TOPU NRVR
+NVPPPV PSQQSPTP
+NVQKTO QKPLTO
+NVQNOONQNSOUQVSVUUVSVQUOSNQN OQOS PPPT QOQU RORU SOSU TPTT UQUS
+NVQQQSSSSQQQ QQSS SQQS
+NVRKQLRSSLRK RLRO RVQWRXSWRV
+NVRMOV UPTPRQPS PSQUSVTV
+NVRMRUSVTVUU PPTP
+NVROQPRQSPRO RVQWRXSWRV
+NVSKPO SKTLPO
+NVSKPVPWQXSXTWUU TKQVQWRX QKTK
+NVUNTMSMRNRV PPTP
+NVUPOV PQQPSPTQ PUQVSVTU
+NWPMPV UPPT RSUV
+NWPNRMSMUNUPRQRRSRSQUP RURVSVSURU
+NWQMSQQV WMSQ
+NWQPTPUQUV URQSPTPUQVSVUU
+NWRFQGQHRISITHTGSFRF RGRHSHSGRG RMRbSb RMSMSb
+NWRKRLSLSKRK RORX SOSX POSO PXUX
+NWRKRX SKSX PKSK PXUX
+NWRKRX SKSX PKUK PXUX
+NWROPVPWQXSXUWVU SOQVQWRX
+NWRORX SOSX POSO PXUX
+NWSFRGRM SGRM SFTGRM
+NWSKPVPWQXSXTWUU TKQVQWRX POUO
+NWTKPX UKQX RKWK NXSX
+NWTMSNSOTP UPSPQQPSPUQVSWSXRYQY
+NWTMSNSOTP UPSPQQQRRSTS SSQTPUPVQWSXSYRZQZ
+NWUQSPQPPQPRQS SSQSPTPUQVSVUU
+Na Vosa Vakaviti
+Nama (Namibia)
+Name '%s' family %i resolved to '%s' family %i
+Name contains invalid characters - 
+Name should start with a letter or underscore
+Name too long
+NavActivateId: 0x%08X, NavInputId: 0x%08X
+NavActive: %d, NavVisible: %d
+NavDisableHighlight: %d, NavDisableMouseHover: %d
+NavId: 0x%08X, NavLayer: %d
+NavInputSource: %s
+NavInputs down:
+NavInputs pressed:
+NavLayersActiveMask: %X, NavLastChildNavWindow: %s
+NavWindow: '%s'
+NavWindowingTarget: '%s'
+Nederlands (Aruba)
+Nederlands (Belgi
+Nederlands (Bonaire, Sint Eustatius en Saba)
+Nederlands (Cura
+Nederlands (Nederland)
+Nederlands (Sint-Maarten)
+Nederlands (Suriname)
+Need destination address
+Neither accuracy nor maximum iterations number flags are set in criteria type
+Nelder-Mead simplex algorithm (local, no-derivative)
+Nepali (India)
+Nepali (Nepal)
+Nested tables
+Netscape Base Url
+Netscape CA Policy Url
+Netscape CA Revocation Url
+Netscape Cert Type
+Netscape Certificate Extension
+Netscape Certificate Sequence
+Netscape Comment
+Netscape Communications Corp.
+Netscape Data Type
+Netscape Renewal Url
+Netscape Revocation Url
+Netscape SSL Server Name
+Netscape SSL server
+Netscape Server Gated Crypto
+Network diagnostics
+Network down
+Network has been reset
+Network startup environment unavailable: 
+NetworkAgent initialized without cloud services
+New dimension sizes are not specified
+New header size must be non-less than sizeof(CvContour)
+New language resources are ready. Restart the application to apply them.
+New order should be a valid permutation of the old one
+New version available: %s. Please update Flash Studio from the Microsoft Store.
+Newsession Ticket
+Next protocol
+Ngiemboon (Cameroon)
+Ngomba (Cameroon)
+Nigerian Pidgin
+Nigerian Pidgin (Latin)
+Nigerian Pidgin (Latin, Nigeria)
+No CUDA support
+No IDATs written into file
+No K-series printers found. Make sure the printer is on the same network and not blocked by Wi-Fi client isolation, then click Scan again.
+No OCSP response received
+No OpenGL support
+No PSS parameter restrictions
+No authentication method was acceptable.
+No background
+No bits were set in the operand.
+No bring to front
+No buffer space
+No ciphers enabled for max supported SSL/TLS version
+No connections available in cache
+No connections available.
+No data record of requested type
+No data was received!
+No element name has been given
+No error detected
+No existing user presets found to migrate.
+No feasible point found in %d iterations and %d function evaluations
+No feasible point found in %d iterations and %d function evaluations.
+No fit polygon cannot be calculated.
+No font for displaying text in encoding '%s' found,
+No font for displaying text in encoding '%s' found.
+No handler found for image type.
+No historical versions are available for this platform.
+No holes need to be filled.
+No image handler for type %d defined.
+No image handler for type %s defined.
+No matching DANE TLSA records
+No meshes remaining
+No message text available for error %d
+No more connections allowed to host %s: %zu
+No output meshes: all meshes are orphaned and are not referenced by any nodes
+No pad can be generated for this model with the current configuration
+No profile for iCCP chunk
+No project file on current session. Only logs will be included to package
+No response object
+No scrollbar
+No space in chunk cache for sPLT
+No such node
+No such smoothing will be performed!
+No triangle was found at position
+No unconnected need to be removed.
+No unused colour in image being masked.
+No valid port number in connect to host string (%s)
+No version found in OpenGL ES version string
+No version found in OpenGL version string
+Node contents
+Non Critical
+Non Repudiation
+Non-continuous nD arrays are not supported
+Non-positive cols or rows
+Non-positive or too large number of dimensions
+Non-positive width or height
+Non-root node %s lacks a valid parent (aiNode::mParent is nullptr) 
+Non-zero scale values required
+None of array parameters is changed: dummy call?
+None: No solid infill will be added anywhere. Caution: Use this option carefully if your model has sloped surfaces
+Nordic (ISO-8859-10)
+Normal buttons
+Normal vectors are undefined for line and point meshes
+Normals fixed         : %5d
+North Ndebele
+North Ndebele (Zimbabwe)
+Northern Luri
+Northern Luri (Iran)
+Northern Luri (Iraq)
+Northern Sami
+Norwegian Bokm
+Norwegian Nynorsk
+Norwegian Nynorsk (Norway)
+Not Before: 
+Not Selected
+Not a Draco file.
+Not a JPEG file: starts with 0x%02x 0x%02x
+Not a PNG file
+Not a debug build, ignoring extra verbose setting
+Not a key frame.
+Not a regular file
+Not available for this platform
+Not enough free disk space for download: %llu needed but only %llu available.
+Not enough image data
+Not enough memory!
+Not enough tokens for property of type 
+Not recognizing known sRGB profile that has been edited
+Not supported escape character
+Note than the default embedded font is NOT meant to be scaled.
+Note that on auto-resizing non-resizable fixed columns, querying the content width for e.g. right-alignment doesn't make sense.
+Note that this method will try to find the best surface of the object for touching the print bed if no elevation is set.
+Note that you probably don't want to query the window size to
+Note, 8 1/2 x 11 in
+Note: If set to 0, normal supports use the Threshold overlap instead, while tree supports fall back to a default value of 30.
+Note: This message is showed only once.
+Note: When this option is enabled, overhang perimeters are treated like overhangs, meaning the overhang speed is applied even if the overhanging perimeter is part of a bridge.
+Note: some memory buffers have been compacted/freed.
+Nothing to repeat.
+NtQuerySystemInformation failed
+Nuer (South Sudan)
+Null SuperNoop 0
+Null comment
+Null compare function
+Null data pointer
+Null double pointer to graph scanner
+Null element pointer
+Null graph pointer
+Null graph scanner
+Null pointer
+Null pointer to image
+Null string pointer
+Null: Gamma ramp size must match current ramp size
+Nullptr to aiMaterial found.
+Nullptr to mesh found.
+Num Page Down
+Number of channels is not the same for all arrays
+Number of children was %d
+Number of dimensions is the same for all arrays
+Number of dimensions shouldn't change
+Number of elements in the original and reshaped array is different
+Number of facets                 : %5d               %5d
+Number of function evaluations: %d
+Number of lines
+Number of parts       : %5d        Volume   : %f
+Number of redirects hit maximum amount
+Nyankole (Uganda)
+OBJECT DESCRIPTOR
+OCSP Archive Cutoff
+OCSP No Check
+OCSP Request Data:
+OCSP Response Data:
+OCSP Service Locator
+OCSP Signing
+OCSP request
+OCSP responder
+OCSP response has expired
+OCSP response verification failed
+OCSP routines
+OCSP unknown cert
+OCSP verification failed
+OCSP verification needed
+OCTET STRING
+ODR violation detected
+OPENCV: Trying to disable baseline CPU feature: '%s'.This has very limited effect, because code optimizations for this feature are executed unconditionally in the most cases.
+OPENCV: Trying to disable unavailable CPU feature on the current platform: '%s'.
+OPENCV: Trying to disable unknown CPU feature: '%s'.
+ORCA : Update thread syncing bundles
+OSMesa: Failed to create context
+OSMesa: Failed to load required entry points
+OSMesa: Failed to make context current
+OSMesa: Failed to retrieve color buffer
+OSMesa: Failed to retrieve depth buffer
+OSMesa: Forward-compatible contexts not supported
+OSMesa: Library not found
+OSMesa: OpenGL ES is not available on OSMesa
+OSMesa: OpenGL profiles unavailable
+OUQOOQOSQUSUUSUQSOQO QPPQPSQTSTTSTQSPQP RQQRRSSRRQ
+OUSMSNTNTMSM QPRPSQSRRVQXPYOYNX
+OVVMUMTNSPQVPXOYNY QPUP
+OXXROMOWXR URPO URPU RRPQ RRPS
+Object Signer
+Object Signing
+Object Signing CA
+Objects(%1%) have duplicated connectors. Some connectors may be missing in slicing result.
+Obtained EMS handle %u
+Obtained XMS handle %u
+Occitan (France)
+Octal escape sequence is invalid.
+Odd-size DCT's are not implemented
+Odia (India)
+Offset (%I64d) was beyond file size (%I64d)
+Offsetting could not be done! An invalid geometry may have been added.
+Olusoga (Yuganda)
+On multiple lines
+One of indices is out of range
+One of new dimension sizes is non-positive
+One of the arguments' values is out of range
+One or more argument values are invalid
+One or more matrix operands are empty.
+Only 32f and 64f are supported
+Only Some Reasons
+Only available if ScrollX is disabled.
+Only available when ScrollX/ScrollY are disabled and Stretch columns are not used.
+Only available when ScrollX/ScrollY are disabled. Data below the limit will be clipped and not visible.
+Only collections as YAML streams are supported by this parser
+Only compression method 8 is supported by PNG
+Only continuous nD arrays are supported here
+Only curves with integer coordinates are supported in case of contour slice
+Only makes a difference if the popup is larger than the combo
+Only scalar types can be dynamically assigned to a file node
+Only using TableNextColumn(), which tends to be convenient for tables where every cells contains the same type of contents.
+Open Asset Import Library (Assimp).
+Open Microsoft Store
+Open Windows Default Apps Settings
+Open an existing document
+OpenCV WARNING: TLS: Can't release thread TLS data (unknown pointer or data race): %p
+OpenCV build configuration is:
+OpenCV parent region exceeds children count. Bailout
+OpenCV persistence doesn't support very long lines
+OpenCV(%s) %s:%d: error: (%d:%s) %s in function '%s'
+OpenCV(%s) %s:%d: error: (%d:%s) %s%s
+OpenCV(%s) %s:%d: error: (%d:%s) in function '%s'
+OpenCV(%s) Error: %s (%s) in %s, file %s, line %d
+OpenCV/MatExpr: processing of multi-channel arrays might be changed in the future: https://github.com/opencv/opencv/issues/16739
+OpenCV: Can't find required data file: %s
+OpenCV: terminate handler is called! The last OpenCV error is:
+OpenGL 3.0 or later is not supported by the OpenGL driver.
+OpenGL API call
+OpenGL ES version string retrieval is broken
+OpenGL version string retrieval is broken
+OpenSSL 'win32' shared library method
+OpenSSL 1.1.1w  11 Sep 2023
+OpenSSL CMAC method
+OpenSSL DH Method
+OpenSSL DSA method
+OpenSSL EC algorithm
+OpenSSL ED25519 algorithm
+OpenSSL ED448 algorithm
+OpenSSL HMAC method
+OpenSSL NIST SP 800-90A DRBG
+OpenSSL NULL UI
+OpenSSL POLY1305 method
+OpenSSL RSA method
+OpenSSL RSA-PSS method
+OpenSSL SIPHASH method
+OpenSSL X25519 algorithm
+OpenSSL X448 algorithm
+OpenSSL X9.42 DH method
+OpenSSL default
+OpenSSL default user interface
+OpenSSL was built without SSLv2 support
+OpenSSL was built without SSLv3 support
+OpenSSL: FATAL
+Opened %d socket%s for DNS-SD
+Opened %d socket%s for mDNS dump
+Opened %d socket%s for mDNS query
+Opened %d socket%s for mDNS service
+Opened temporary file %s
+Opening certificate store %s
+Opening request
+Opens configurations folder
+Operation not authorized at current processing stage
+Operation not permitted.
+Operation not supported
+Operation on NULL destination buffer
+Operation timed out after %I64d milliseconds with %I64d bytes received
+Operation timed out after %I64d milliseconds with %I64d out of %I64d bytes received
+Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+Operation was aborted by an application callback
+Optimize object rotation to have minimum amount of overhangs needing support structures.
+OptimizeGraphProcess begin
+OptimizeGraphProcess finished
+OptimizeMeshesProcess begin
+OptimizeMeshesProcess finished
+OptimizeMeshesProcess finished. Input meshes: 
+Option '%s' can't be negated
+Option '%s' requires a value.
+Option '%s': '%s' cannot be converted to a date.
+Option 'Qx' may avoid this problem.
+Optional non-extruded spacing between adjacent pointillisme segments. Increase carefully to improve separation and print quality.
+Options selected for Qhull %s:
+Orca has detected that your user presets synchronization function is not enabled, which may result in unsuccessful Filament settings on the Device page.
+Orca will automatically cap the acceleration speed to ensure it doesn't surpass the printer's capabilities.
+Orca will automatically cap the travel acceleration speed to ensure it doesn't surpass the printer's capabilities.
+OrcaCloud already has 
+OrcaCloud has no presets for user 
+OrcaCloudServiceAgent: cannot derive key for user secret file storage
+OrcaCloudServiceAgent: cannot open user secret file for write - 
+OrcaCloudServiceAgent: failed to atomically replace user secret file
+OrcaCloudServiceAgent: failed to encrypt user secret for file storage
+OrcaCloudServiceAgent: secret does not contain valid user session, force re-authentication
+OrcaCloudServiceAgent: user secret integrity check failed (HMAC mismatch)
+OrcaSliced Combo
+Original DIRECT version (global, no-derivative)
+Original DIRECT-L version (global, no-derivative)
+Oromo (Ethiopia)
+Oromo (Kenya)
+Oromoo (Itoophiyaa)
+Oromoo (Keeniyaa)
+Ossetic (Georgia)
+Ossetic (Russia)
+Otherwise the provided angle will be used according to:
+Our modification of the DIRECT algorithm is used.
+Out of Memory
+Out of file descriptors
+Out of memory.
+Out of range group index.
+Out of range group offset - 
+Out of window IDs.  Recommend shutting down application.
+Out-of-range access.
+OuterRect: Pos: (%.1f,%.1f) Size: (%.1f,%.1f) Sizing: '%s'
+Output aborted.
+Output buffer size should be larger than %d bytes
+Output completed.  Verifying that all points are below %2.2g of
+Output completed.  Verifying that all points are below outer planes of
+Output file write error --- out of disk space?
+Output flags:
+Over two lines..
+Overflow Content-Length: value!
+Overflow Error
+Overflow for imageSize
+PCRE error %d
+PCS illuminant is not D50
+PCX: couldn't allocate memory
+PCX: image format unsupported
+PCX: invalid image
+PCX: this is not a PCX file.
+PCX: unknown error !!!
+PCX: version number too low
+PEM routines
+PEM type is '
+PKCS12 import password
+PKCS12 routines
+PKCS7 routines
+PKCS8 decrypt password
+PKINIT Client Auth
+PNG file corrupted by ASCII conversion
+PNG fixed point integer out of range
+PNG image (from fallback)
+PNG input buffer is incomplete
+PNG unsigned integer out of range
+PNM: Couldn't allocate memory.
+PNM: File format is not recognized.
+PNM: File seems truncated.
+POSIX collating elements are not supported
+POSIX named classes are supported only within a class
+PRC 16K 146 x 215 mm
+PRC 16K Rotated
+PRC 32K 97 x 151 mm
+PRC 32K Rotated
+PRC 32K(Big) 97 x 151 mm
+PRC 32K(Big) Rotated
+PRET RETR %s
+PRET STOR %s
+PRET command not accepted: %03d
+PRNG not seeded
+PROGRAMMER GUIDE:
+PROXY %s %s %s %li %li
+PSS parameter restrictions:
+PSSRRSQSPRPQQPRPSQSSRUQV QQQRRRRQQQ
+PTQPPQPSQTSTTSTQSPQP RQQRRSSRRQ
+PTRLQMRNSMRL RPRV
+PURMRR SMSR RURVSVSURU
+PURPRQSQSPRP RURVSVSURU
+PURPRQSQSPRP SVRVRUSUSWRY
+PUSLRMSNTMSL SPSXRYQYPX
+PUSMSNTNTMSM QPRPSQSRRTRUSVTV
+PXM: Unexpected code in ReadNumber(): 0x%x (%d)
+PXM::readData(): unknown exception
+Pack button collects project file and logs of current session onto a zip file.
+Package   :  
+Packs all stored logs onto a zip file.
+Page %d of %d
+Palette is NULL in indexed image
+Papiamento (Caribbean)
+Papiamentu (Caribbean)
+Parameter is out of bound
+Parent region exceeds children count. Bailout
+Parser is not available
+Parsing FBX tokens
+Pashto (Afghanistan)
+Pashto (Pakistan)
+Password Input
+Paste selection
+Peer haven't sent GOST certificate, required for selected ciphersuite
+Pen Pressure: %.1f
+Per-object skirts cannot fit between the objects in By object print sequence.
+Permanent Identifier
+Persian (Afghanistan)
+Persian (Iran)
+Personalized recommendations
+Phong shading
+Pivot point is collinear with the outer edge!
+Platform  :  
+Please URL encode %% as %%25, see RFC 6874.
+Please check write permissions or file in use by another application
+Please describe the issue and the steps to reproduce it.
+Please enter the content you want to generate. We recommend focusing on a single subject. For example: A brown cat sculpture with a curled tail, in a cartoon style
+Please install dbghelp.dll available free of charge from Microsoft to get more detailed crash information!
+Please install it manually from https://developer.microsoft.com/microsoft-edge/webview2/ and restart Flash Studio.
+Please make sure any instances of Flash Studio are not running
+Please note that nozzle temperature, hot bed temperature, and maximum volumetric speed has a significant impact on printing quality. Please set them carefully.
+Please select the columns to show and define their order:
+Please update your dbghelp.dll version, at least version 5.1 is needed!
+Please use the appropriate manifest when building the
+Please wait while printing...
+Plots Widgets
+Polar decomposition of transform failed
+Policy Qualifier CPS
+Policy Qualifier User Notice
+Polish (Poland)
+PopupID: %08x, Window: '%s'%s%s
+Portable bitmap(.pgm) expects gray image
+Portable bitmap(.ppm) expects BGR image
+Portuguese (Angola)
+Portuguese (Brazil)
+Portuguese (Cabo Verde)
+Portuguese (Equatorial Guinea)
+Portuguese (Guinea-Bissau)
+Portuguese (Luxembourg)
+Portuguese (Macao SAR)
+Portuguese (Mozambique)
+Portuguese (Portugal)
+Portuguese (S
+Portuguese (Switzerland)
+Portuguese (Timor-Leste)
+Pos: (%.1f,%.1f), Size: (%.1f,%.1f), ContentSize (%.1f,%.1f) Ideal (%.1f,%.1f)
+Possible matches:
+Precision exceeds the permitted range
+Precision problems were detected during construction of the convex hull.
+Preconditioned truncated Newton (local, derivative-based)
+Preconditioned truncated Newton with restarting (local, derivative-based)
+Premature end of JPEG file
+Premature end of input file
+Premature end of regular expression
+Premature end-of-file encountered.
+Premature end-of-partition0 encountered.
+Preparing for accepting server on data port
+Press ESC to abort picking.
+Pressed %d times.
+Pressed Down!
+PretransformVertices: Copying mesh due to mismatching transforms
+PretransformVerticesProcess begin
+PretransformVerticesProcess finished
+Previous page
+Principal-axis, praxis (local, no-derivative)
+Print Preview Failure
+Print preview...
+Printer information is still loading. Please wait a moment and try again.
+Printer type not found, please select manually.
+Printer type:
+Printing Error
+Printing high-temperature and low-temperature materials together may cause nozzle clogging or printer damage.
+Printing high-temperature and medium-temperature materials together may cause nozzle clogging or printer damage.
+Printing medium-temperature and low-temperature materials together may cause nozzle clogging or printer damage.
+Printing page %d
+Printing page %d of %d
+Printing unusually long amount of text.
+Private key does not match the certificate public key
+Private-Key: (%d bit, %d primes)
+Privilege Withdrawn
+Problem with the SSL CA cert (path? access rights?)
+Problem with the local SSL certificate
+Proc-Type: 4,%s
+Process limit reached
+ProcessIntersections error
+Processor :  
+Processor groups
+Professional Information or basis for Admission
+ProggyClean.ttf, %dpx
+Progress Bar
+Project File
+Property editor
+Property is null
+Protocol family not supported
+Protocol is unsupported
+Protocol option is unsupported
+Proxy CONNECT aborted
+Proxy CONNECT aborted due to timeout
+Proxy CONNECT connection closed
+Proxy Certificate Information
+Proxy replied %d to CONNECT request
+Proxy-Connection: Keep-Alive
+Prussian (World)
+Public Key Algorithm
+Public-Key: (%d bit)
+Pulaar (Burkibaa Faaso)
+Pulaar (Gammbi)
+Pulaar (Ganaa)
+Pulaar (Gine)
+Pulaar (Gine-Bisaawo)
+Pulaar (Kameruun)
+Pulaar (Liberiyaa)
+Pulaar (Muritani)
+Pulaar (Nijeer)
+Pulaar (Nijeriyaa)
+Pulaar (Senegaal)
+Pulaar (Seraa liyon)
+Pull downloads the cloud copy. Force push overwrites it with your local preset.
+Pulling Orca Cloud settings to resolve sync conflict.
+Punjabi (India)
+Punjabi (Pakistan)
+Pushed vector length is not equal to matrix row length
+Pushed vector type is not the same as matrix type
+Q11-trinormals Qtriangulate
+QUIC connection error
+QUOT command failed with %03d
+QUOT string not accepted: %s
+Qafar (Eretria)
+Qafar (Otobbia)
+Qafar (Yabuuti)
+Qhull could not construct a clearly convex simplex from points:
+Qhull error nextRidge3d:  missing next ridge for facet %d ridge %d.  Does facet contain ridge?
+Qhull error: checkIfQhullInitialized failed.  Call runQhull() first.
+Qhull error: coordinates %x are not at point boundary (extra %d at index %d)
+Qhull error: neighboring facets of vertex %d not defined.  Please call Qhull::defineVertexNeighborFacets() beforehand.
+Qhull error: runQhull called twice.  Only one call allowed.
+Qhull has finished constructing the hull.
+Qhull has started post-merging.
+Qhull may produce a ridge with four neighbors or two facets with the same 
+Qhull output at end
+Qhull precision error: Initial simplex is flat (facet %d is coplanar with the interior point)
+Qhull: algorithm completed
+QhullPoint error: Cannot compute distance() for undefined point
+QhullPoint error: Expecting dimension %d for distance().  Got %d
+QhullPoint p%d was above all facets.
+QhullSet internal error: current set size %d is greater than maximum size %d
+Quantization table 0x%02x was not defined
+Quantizing to %d colors
+Quarto, 215 x 275 mm
+Quechua (Bolivia)
+Quechua (Ecuador)
+Quechua (Peru)
+Querying Status (Edited/Active/Focused/Hovered etc.)
+Quit Stealth Mode
+Quit this program
+Quote command returned error
+R: %d, G: %d, B: %d
+R:%d, G:%d, B:%d, A:%d
+RDATA length
+RESOLVE %s:%d is - old addresses discarded!
+RESOLVE %s:%d is wildcard, enabling wildcard checks
+RETR response: %03d
+RFC 3779 resource not subset of parent's resources
+RFC 5639 curve over a 160 bit prime field
+RFC 5639 curve over a 192 bit prime field
+RFC 5639 curve over a 224 bit prime field
+RFC 5639 curve over a 256 bit prime field
+RFC 5639 curve over a 320 bit prime field
+RFC 5639 curve over a 384 bit prime field
+RFC 5639 curve over a 512 bit prime field
+RGB color space not permitted on grayscale PNG
+RGBE bad file format: 
+RGBE error: 
+RGBE read error
+RGBE write error
+RML Thr Monitor
+RML might limit the number of workers to %u while %u is requested.
+RSA Data Security, Inc.
+RSA Data Security, Inc. PKCS
+RSA PRIVATE KEY
+RSA PUBLIC KEY
+RSA Public Key
+RTSP CSeq mismatch or invalid CSeq
+RTSP session error
+Ran out of stack space trying to match the regular expression.
+Randomized DIRECT-L (global, no-derivative)
+Range Widgets
+Raw HSV values
+Raw image encoder error: 
+Raw mouse motion is not supported on this system
+Read %d records
+Read FAQ and docs/FONTS.md for details on font loading.
+Read callback asked for PAUSE when not supported!
+Read error on file '%s'
+Read failed on temporary file
+Read from EMS failed
+Read from XMS failed
+Read instructions in imgui.cpp for details.
+Read the FAQ at http://www.dearimgui.org/faq/
+Reading DNS-SD replies
+Reading FBX file
+Reading data
+Reading mDNS query replies
+Ready to accept data connection from server
+Realistic View
+Received 101
+Received HTTP code %d from proxy after CONNECT
+Received HTTP/0.9 when not allowed
+Received invalid version in initial SOCKS5 response.
+Received only partial file: %I64d bytes
+Receiving response
+Recommended to use with a higher Bridge density or Bridge flow ratio.
+Recovered from missing End() for '%s'
+Recovered from missing EndChild() for '%s'
+Recovered from missing EndGroup() in '%s'
+Recovered from missing EndTabBar() in '%s'
+Recovered from missing EndTable() in '%s'
+Recovered from missing PopFocusScope() in '%s'
+Recovered from missing PopID() in '%s'
+Recovered from missing PopStyleVar() in '%s'
+Recovered from missing TreePop() in '%s'
+Rect of child window is: (%.0f,%.0f) (%.0f,%.0f)
+Recv failure: %s
+Redirects debug logging to file.
+Redo last action
+Reducing the internal bridges fan speed, compared to your regular fan speed, can help reduce part warping due to excessive cooling applied over a large surface for a prolonged period of time.
+Refusing changed MD5 for immutable slice i18n version 
+Region location is disabled. Bailout
+Registered ID
+Registered ID:
+Registering custom importer for these file extensions: 
+Registering custom post-processing step
+Registry key '%s' already exists.
+Registry key '%s' does not exist, cannot rename it.
+Registry key '%s' is needed for normal system operation,
+Registry value '%s' already exists.
+Regular expression is too large.
+Rejecting slice i18n catalog: 
+Relative bridge angle
+Remember that in many simple cases, you can use ImGui::SameLine(xxx) to position
+Remote error
+Remote file already exists
+Remote file not found
+Remove From CRL
+RemoveRedundantMatsProcess begin
+RemoveRedundantMatsProcess finished 
+RemoveRedundantMatsProcess finished. Removed 
+RemoveVCProcess begin
+RemoveVCProcess finished. Data structure cleanup has been done.
+RemoveVCProcess finished. Nothing to be done ...
+Removed %u bones. Input bones:
+Removed from print list
+Removed node from stack: 
+Removing unconnected facets...
+Renderer  :  
+Rendering more text into the same line
+Renders cast shadows on the plate in realistic view.
+Reorderable, hideable, with headers
+Report issue
+Request CERT
+Request Extensions
+Request Single Extensions
+Request has same path as previous transfer
+Requested OpenGL ES version %i.%i, got version %i.%i
+Requested OpenGL version %i.%i, got version %i.%i
+Requested SSL level failed
+Requested and source matrices have different count of elements
+Requested feature was omitted at compile time
+Requested features are incompatible
+Requested object was not found
+Requested range was not delivered by the server
+Requested value has invalid type
+Requested value not found
+Require Explicit Policy
+Required baseline features:
+Required information entry is empty.
+Requires application restart.
+Requires manual scene reload to take effect (right-click on 3D view 
+Resetting bone stack: nullptr element 
+Reshaping of n-dimensional non-continuous matrices is not supported yet
+Resizable, fixed
+Resizable, mixed
+Resizable, stretch
+Resize Callback
+Resize horizontal only
+Resize vertical only
+ResizedColumn: %d, ReorderColumn: %d, HeldHeaderColumn: %d
+Resolve address '%s' found illegal!
+Resolve cloud sync conflict
+Resolving timed out after %I64d milliseconds
+Resource '%s' is not a valid message catalog.
+Response Extensions
+Response Single Extensions
+Restored data doesn't match checksum
+Retrying preset migration after token propagation window.
+Return to input text into a widget.
+Reversing all facets...
+Revert to Saved
+Rewind stream after send
+Right-click on a header to open a context menu.
+Right-click on the color square to show options.
+Right-click on the individual color widget to show options.
+Right-click to open popup
+Romanian (Moldova)
+Romanian (Romania)
+Romansh (Switzerland)
+Rombo (Tanzania)
+Root cause of these artifacts is most likely PA tuning being slightly off, especially when combined with a high PA smooth time.
+Routing Domain Identifiers
+Row %d Column %d
+Row %s Header
+Row %s, Column %s: %s
+Row has too many bytes to allocate in memory
+Rukiga (Uganda)
+RunScriptAsync not supported
+Runasimi (Bolivia)
+Runasimi (Ecuador)
+Runasimi (Per
+Rundi (Burundi)
+Runtime version of toolkit used is %d.%d.%d.
+Runyankore (Uganda)
+Russian (Belarus)
+Russian (Kazakhstan)
+Russian (Kyrgyzstan)
+Russian (Moldova)
+Russian (Russia)
+Russian (Ukraine)
+Rwa (Tanzania)
+S/MIME Capabilities
+S/MIME email
+S/MIME encryption
+S/MIME signing
+SAFEARRAY: %p
+SDK lacks dynamic region switching interfaces
+SDK lacks dynamic switching (need latest 3.5.0 module)
+SDK lacks environment DAT switching interfaces
+SECG curve over a 112 bit prime field
+SECG curve over a 113 bit binary field
+SECG curve over a 128 bit prime field
+SECG curve over a 131 bit binary field
+SECG curve over a 160 bit prime field
+SECG curve over a 163 bit binary field
+SECG curve over a 192 bit prime field
+SECG curve over a 193 bit binary field
+SECG curve over a 224 bit prime field
+SECG curve over a 239 bit binary field
+SECG curve over a 256 bit prime field
+SECG/WTLS curve over a 112 bit prime field
+SECG/WTLS curve over a 131 bit binary field
+SECG/WTLS curve over a 160 bit prime field
+SERVERINFO FOR 
+SERVERINFOV2 FOR 
+SITE NAMEFMT 1
+SM2 curve over a 256 bit prime field
+SM2 routines
+SOCKS4 communication to %s:%d
+SOCKS4 connect to IPv4 %s (locally resolved)
+SOCKS4 connection to %s not supported
+SOCKS4 non-blocking resolve of %s
+SOCKS4 reply has wrong version, version should be 0.
+SOCKS4%s request granted.
+SOCKS4%s: connecting to HTTP proxy %s port %d
+SOCKS4: Failed receiving connect request ack: %s
+SOCKS4: too long host name
+SOCKS5 GSSAPI per-message authentication is not supported.
+SOCKS5 connect to %s:%d (remotely resolved)
+SOCKS5 connect to IPv4 %s (locally resolved)
+SOCKS5 connect to IPv6 %s (locally resolved)
+SOCKS5 connection to %s not supported
+SOCKS5 reply has wrong address type.
+SOCKS5 reply has wrong version, version should be 5.
+SOCKS5 request granted.
+SOCKS5: connecting to HTTP proxy %s port %d
+SOCKS5: hostname '%s' found
+SPRING GREEN
+SSAO ambient occlusion
+SSE2 available: %s
+SSE3 available: %s
+SSE4.1 available: %s
+SSE4.2 available: %s
+SSL Engine '%s' not found
+SSL SESSION PARAMETERS
+SSL alert number 
+SSL certificate problem: %s
+SSL certificate revocation reason: %s (%d)
+SSL certificate status: %s (%d)
+SSL certificate verification failed
+SSL certificate verify result: %s (%ld)
+SSL connect error
+SSL connection timeout
+SSL connection using %s / %s
+SSL crypto engine not found
+SSL for verify callback
+SSL negotiation finished successfully
+SSL peer certificate or SSH remote key was not OK
+SSL public key does not match pinned public key
+SSL re-using session ID
+SSL routines
+SSL server certificate status verification FAILED
+SSL shutdown timeout
+SSL: Certificate issuer check failed (%s)
+SSL: Out of memory allocating for OID list
+SSL: Unable to open issuer cert (%s)
+SSL: Unable to read issuer cert (%s)
+SSL: certificate subject name '%s' does not match target host name '%s'
+SSL: couldn't create a context (handle)!
+SSL: couldn't create a context: %s
+SSL: couldn't get X509-issuer name!
+SSL: couldn't get peer certificate!
+SSL: illegal cert name field
+SSL: no alternative certificate subject name matches target host name '%s'
+SSL: public key does not match pinned public key!
+SSL: unable to obtain common name from peer certificate
+SSLv3/TLS read certificate status
+SSLv3/TLS read certificate verify
+SSLv3/TLS read change cipher spec
+SSLv3/TLS read client certificate
+SSLv3/TLS read client hello
+SSLv3/TLS read client key exchange
+SSLv3/TLS read finished
+SSLv3/TLS read hello request
+SSLv3/TLS read next proto
+SSLv3/TLS read server certificate
+SSLv3/TLS read server certificate request
+SSLv3/TLS read server done
+SSLv3/TLS read server hello
+SSLv3/TLS read server key exchange
+SSLv3/TLS read server session ticket
+SSLv3/TLS write certificate
+SSLv3/TLS write certificate request
+SSLv3/TLS write certificate status
+SSLv3/TLS write certificate verify
+SSLv3/TLS write change cipher spec
+SSLv3/TLS write client certificate
+SSLv3/TLS write client hello
+SSLv3/TLS write client key exchange
+SSLv3/TLS write finished
+SSLv3/TLS write hello request
+SSLv3/TLS write key exchange
+SSLv3/TLS write next proto
+SSLv3/TLS write server done
+SSLv3/TLS write server hello
+SSLv3/TLS write session ticket
+SSSE3 available: %s
+STORE routines
+Safe Area Padding
+Saho (Eretria)
+Saho (Eritrea)
+Sakha (Russia)
+Samburu (Kenya)
+Sami (Inari)
+Sami (Skolt)
+Sami (Southern)
+Sami, Inari (Finland)
+Sami, Lule (Norway)
+Sami, Lule (Sweden)
+Sami, Northern (Finland)
+Sami, Northern (Norway)
+Sami, Northern (Sweden)
+Sami, Skolt (Finland)
+Sami, Southern (Norway)
+Sami, Southern (Sweden)
+Sample count
+Sampling factors too large for interleaved scan
+Sango (Central African Republic)
+Sangu (Tanzania)
+Sanskrit (India)
+Santali (Ol Chiki)
+Santali (Ol Chiki, India)
+Save %s file
+Save change to the following items?
+Save current document
+Save current document with a different filename
+Save log contents to file
+Save to disk
+Save to memory
+SaveFlags: 0x%08X
+Saving unknown chunk:
+Sbplx variant of Nelder-Mead (re-implementation of Rowan's Subplex) (local, no-derivative)
+Scan script does not transmit all data
+Scanning the LAN for K-series printers... this takes a few seconds.
+SceneCombiner: Failed to resolve attachment 
+ScenePreprocessor: Adding default material 'DefaultMaterial'
+ScenePreprocessor: Dummy position track has been generated
+ScenePreprocessor: Dummy rotation track has been generated
+ScenePreprocessor: Dummy scaling track has been generated
+ScenePreprocessor: Setting animation duration
+ScenePreprocessor: UVs are declared to be 3D but they're obviously not. Reverting to 2D.
+Scheduling migration retry after token propagation window.
+Scottish Gaelic
+Scottish Gaelic (United Kingdom)
+Scroll %.1f/%.1f %.1f/%.1f
+Scroll Offset
+Scroll To Pos
+Scroll from code
+Scroll: (%.2f/%.2f,%.2f/%.2f) Scrollbar:%s%s
+Scrolling Text %d
+Search for almost-circular holes that span more than one layer and convert the geometry to polyholes. Use the nozzle size and the (biggest) diameter to compute the polyhole.
+Sections below are demonstrating many aspects of the library.
+Secure Electronic Transactions
+Secure download failed with an unknown error
+Secure download failed, HTTP status 
+Secure download failed: 
+Security warning
+See 'Limitations' in qh-impre.htm.
+See comments in imgui.cpp.
+See example applications in the examples/ folder.
+Seek error on file '%s'
+Seek failed on temporary file
+Select NO to close dialog and review project
+Select NO to close dialog and review project.
+Select a directory
+Select a file
+Selectable (span row)
+Selectable Leaf %d
+Selectable Node %d
+Selected %d colors for quantization
+Selected Attribute Types
+Selection State: Multiple Selection
+Selection State: Single Selection
+Self-intersection detected in input mesh
+Sena (Mozambique)
+Send Feature Report DeviceIoControl
+Send Feature Report GetOverLappedResult
+Send Proxied Owner
+Send Proxied Router
+Send failed due to a network error.
+Send failed since rewinding of the data stream failed
+Send failure: %s
+SendToPrinterDialog::onSendClicked 
+Sending DNS-SD discovery
+Sending announce
+Sending canceled
+Sending failed: network error
+Sending failed: other error
+Sending failed: printer is busy
+Sending goodbye
+Sending mDNS query
+Sending request
+Separator expected after the option '%s'.
+Sequential Quadratic Programming (SQP) (local, derivative)
+Serbian (Cyrillic)
+Serbian (Cyrillic, Bosnia and Herzegovina)
+Serbian (Cyrillic, Kosovo)
+Serbian (Cyrillic, Montenegro)
+Serbian (Cyrillic, Serbia)
+Serbian (Latin)
+Serbian (Latin, Bosnia and Herzegovina)
+Serbian (Latin, Kosovo)
+Serbian (Latin, Montenegro)
+Serbian (Latin, Serbia)
+Serbian (Serbia)
+Server denied you to change to the given directory
+Server doesn't support multiplex (yet)
+Server doesn't support multiplex yet, wait
+Server finished
+Server hello
+Server key exchange
+Server returned nothing (no headers, no data)
+Service already exists.
+Service mDNS: %s:%d
+Sesotho (Lesotho)
+Sesotho (South Africa)
+Sesotho sa Leboa
+Sesotho sa Leboa (Afrika Borwa)
+Sesotho sa Leboa (South Africa)
+Set CSP by index
+Set CSP name, (default CSP used if not specified)
+Set as default
+Set defaults in code:
+Set the Multi-Sample Anti-Aliasing level.
+Set to 0 for unlimited frame rate.
+SetColorEditOptions() is designed to allow you to set boot-time default.
+Setswana (Aforika Borwa)
+Setswana (Botswana)
+Setswana (South Africa)
+Setting credentials
+Setting debug file to %s
+Setting debug level to %d
+Setting flags to %d
+Setting key type to %d
+Setting store name to %s
+Setting style.CellPadding to (0,0) or a custom value.
+Setting up callbacks
+Settings 0x%08X (%d columns)
+Settings handlers: (%d)
+Settings packed data: Tables: %d bytes
+Settings packed data: Windows: %d bytes
+Settings unpacked data (.ini): %d bytes
+SettingsDirtyTimer %.2f
+Shambala (Tanzania)
+Share currently in use
+Shona (Latin)
+Shona (Latin, Zimbabwe)
+Should not get there!
+Shouldn't be here!
+Show 2nd header
+Show Horizontal contents size demo window
+Show ImDrawCmd bounding boxes when hovering
+Show ImDrawCmd mesh when hovering
+Show Leading TabItemButton()
+Show Trailing TabItemButton()
+Show about dialog
+Show incompatible/unsupported presets in the printer and filament dropdown lists. These presets cannot be selected.
+Show indented items
+Show step buttons
+Show tables rectangles
+Show unsupported presets
+Show windows begin order
+Show windows rectangles
+Show/Hide system information
+Showcase using PushItemWidth() and how it is preserved on a per-column basis.
+Shuffle CPU Information:
+Shuffling %i addresses
+Signaling end of chunked upload after trailers.
+Signaling end of chunked upload via terminating chunk.
+Signature Algorithm
+Signing KDC Response
+Signing Tool of Issuer
+Signing Tool of Subject
+Simple layout
+Simple overlay
+Simplified dummy tracks with just one key
+Simulate a HTTP 304 response!
+Simultaneous change of shape and number of channels is not supported. Do it by 2 separate calls
+Sindhi (Devanagari)
+Sindhi (Devanagari, India)
+Sindhi (Pakistan)
+Single call to TextUnformatted()
+Sinhala (Sri Lanka)
+Sizes of input arguments do not match
+Sizing Policy
+Sizing policies
+Skip %u.%u.%u.%u for data connection, re-use %s instead
+Skip a ear, due to its angle is near 0 or 180.
+Skipping OptimizeMeshesProcess
+Skipping time comparison
+Slice i18n active and backup manifests disagree for immutable version 
+Slice i18n cache installation failed (attempt 
+Slice i18n latest-version URL is not HTTPS
+Slice i18n latest-version error (attempt 
+Slice i18n strings.json download error (attempt 
+Slicing had to be stopped due to an internal error: Inconsistent slice index.
+Sliders (reverse)
+Slovak (Slovakia)
+Slovenian (Slovenia)
+Small buttons
+Smooth normals
+Smoothing not supported with nonstandard sampling ratios
+Socket has been shut down
+Socket is already connected
+Socket is not connected
+Socket is unsupported
+Socket not ready for send/recv
+Software engine support
+Soga (Uganda)
+Somali (Djibouti)
+Somali (Ethiopia)
+Somali (Kenya)
+Somali (Somalia)
+Some %s text %d,%d
+Some Document
+Some collection type - FileNode::SEQ or FileNode::MAP, must be specified
+Some collection type: FileNode::SEQ or FileNode::MAP must be specified
+Some content %d
+Some contents
+Some desktop applications may use both kinds of cursors (e.g. enable software cursor only when resizing/dragging something).
+Some features, including the setup wizard, may appear blank until it is installed.
+Some framed item
+Some menu item
+Some of required array pointers is NULL
+Some other contents
+Some selected printers are no longer ready or compatible with the sliced model and were removed from this task.
+Some test %d
+Some tree contents
+Something is stale
+Something is syntactically very wrong with this ASCII STL! 
+Soomaali (Itoobiya)
+Soomaali (Jabuuti)
+Soomaali (Kenya)
+Soomaali (Soomaaliya)
+Sorry, arithmetic coding is not implemented
+Sorry, not enough memory to create a preview.
+Sort: %d%s, UserID: 0x%08X, Flags: 0x%04X: %s%s%s..
+SortByPTypeProcess begin
+SortByPTypeProcess finished
+SortByPTypeProcess skipped, there are no meshes
+Source and destination sequence element sizes are different.
+Source is not a sequence nor matrix
+South Ndebele
+South Ndebele (South Africa)
+Space to activate a widget.
+Spanish (Argentina)
+Spanish (Belize)
+Spanish (Bolivia)
+Spanish (Brazil)
+Spanish (Chile)
+Spanish (Colombia)
+Spanish (Costa Rica)
+Spanish (Cuba)
+Spanish (Dominican Republic)
+Spanish (Ecuador)
+Spanish (El Salvador)
+Spanish (Equatorial Guinea)
+Spanish (Guatemala)
+Spanish (Honduras)
+Spanish (Latin America)
+Spanish (Mexico)
+Spanish (Nicaragua)
+Spanish (Panama)
+Spanish (Paraguay)
+Spanish (Peru)
+Spanish (Philippines)
+Spanish (Puerto Rico)
+Spanish (Spain, International Sort)
+Spanish (United States)
+Spanish (Uruguay)
+Spanish (Venezuela)
+Specified element size doesn't match to the size of the specified element type (try to use 0 for element type)
+Specified maxSymbolValue is too small
+Specified non-existed directory, creating OpenCV sub-directory for caching purposes: 
+Specifies an ENGINE id name for loading
+Specifies the path to the new ENGINE shared library
+Specifies to continue even if version checking fails (boolean)
+Specify height of the Selectable item.
+Speed of auxiliary part cooling fan. Auxiliary fan will run at this speed during printing except the first several layers which is defined by no cooling layers.
+Split mode %d not supported
+SplitByBoneCountProcess begin
+SplitByBoneCountProcess early-out: no meshes with more than 
+SplitByBoneCountProcess end: split 
+SplitByBoneCountProcess: Single face requires more bones than specified max bone count!
+Src size is incorrect
+Stack size is limited to unsigned int range
+Stacked Popup
+Stacked modals..
+Staggered Vector Field
+Standard Moroccan Tamazight
+Standard Moroccan Tamazight (Tifinagh)
+Standard Moroccan Tamazight (Tifinagh, Morocco)
+Start Of Scan: %d components
+Start WAN cloud job returned no write result
+Start of Image
+Statement, 5 1/2 x 8 1/2 in
+Status messages are not supported
+Step %zu for dimension %d must be a multiple of esz1 %zu
+Step must be a multiple of esz1
+Step must be positive
+StoGO (NOT COMPILED)
+StoGO randomized (NOT COMPILED)
+Stopping slice i18n update after repeated MD5 mismatch
+Stopping slice i18n update, HTTP status 
+Storage block size is too small to fit the sequence elements
+Store full source file paths in projects
+Stream error in the HTTP/2 framing layer
+String to long for int type
+Strong Extranet ID
+Subject Information Access
+Successfully compiled trailers.
+Suite B: cannot sign P-384 with P-256
+Suite B: certificate version invalid
+Suite B: curve not allowed for this LOS
+Suite B: invalid ECC curve
+Suite B: invalid public key algorithm
+Suite B: invalid signature algorithm
+Sundanese (Latin)
+Sundanese (Latin, Indonesia)
+SuperA/SuperA/A4 227 x 356 mm
+SuperB/SuperB/A3 305 x 487 mm
+Support will be generated for overhangs whose slope angle is below the threshold. The smaller this value is, the steeper the overhang that can be printed without support.
+Suspension not allowed here
+Swedish (Finland)
+Swedish (Sweden)
+Swiss German
+Swiss German (Liechtenstein)
+Swiss German (Switzerland)
+Switch from POST to GET
+Switch to %s
+Synced Table %d
+Synced instances
+Syriac (Syria)
+System folder cannot be deleted because some files are in use by another application. Please close any applications using these files and try again.
+TBB Scheduler
+TBB Warning: %s
+TBB Worker Thread
+TBB failed to initialize task scheduler TLS
+TFTP: Access Violation
+TFTP: File Not Found
+TFTP: Illegal operation
+TFTP: No such user
+TFTP: Unknown transfer ID
+TGA: couldn't allocate memory.
+TGA: couldn't read image data.
+TGA: couldn't write image data.
+TGA: image format unsupported.
+TGA: this is not a TGA file.
+TGA: unknown error!
+TLS 1.3 cipher selection: %s
+TLS 1.3, client CertificateVerify
+TLS 1.3, server CertificateVerify
+TLS Web Client Authentication
+TLS Web Server Authentication
+TLS app data
+TLS capacity depleted
+TLS change cipher
+TLS handshake
+TLS not allocated for filter
+TLSv1.3 early data
+TLSv1.3 pending early data end
+TLSv1.3 read client key update
+TLSv1.3 read encrypted extensions
+TLSv1.3 read end of early data
+TLSv1.3 read server certificate verify
+TLSv1.3 read server key update
+TLSv1.3 write client key update
+TLSv1.3 write encrypted extensions
+TLSv1.3 write end of early data
+TLSv1.3 write server certificate verify
+TLSv1.3 write server key update
+TOOLS SUPPORT
+TRUSTED CERTIFICATE
+TTL: %u seconds
+Tab Bars (%d)
+Table 0x%08X (%d columns, in '%s')
+Table 0x%08X (%d columns, in '%s')%s
+Tabloid Extra 11.69 x 18 in
+Tabloid, 11 x 17 in
+Tabs are prohibited in YAML!
+Tachelhit (Latin)
+Tachelhit (Latin, Morocco)
+Tachelhit (Tifinagh)
+Tachelhit (Tifinagh, Morocco)
+Tagalog (Philippines)
+Tagalog (Pilipinas)
+Taita (Kenya)
+Tajik (Cyrillic)
+Tajik (Cyrillic, Tajikistan)
+Takes effect immediately.
+Tamazight (Tifinagh)
+Tamil (India)
+Tamil (Malaysia)
+Tamil (Singapore)
+Tamil (Sri Lanka)
+Tangents are undefined for line and point meshes
+Taqbaylit (Lezzayer)
+Target RowBg0 to override the alternating odd/even colors,
+Target RowBg1 to blend with them.
+Target chamber temperature, and the minimal chamber temperature at which printing should start
+Target file exists and an unused fallback file name could not be found
+Tasawaq (Niger)
+Tasawaq senni
+Tasawaq senni (Ni
+Tatar (Russia)
+Telugu (India)
+Teso (Kenya)
+Teso (Uganda)
+Test FlashForge GitHub
+Test FlashForge GitHub:
+Test of different widgets react and impact the work rectangle growing when horizontal scrolling is enabled.
+Test paragraph %d:
+Test tree node as drag source
+Testing all coplanar points.
+Testing how various types of items are interacting with the IsItemXXX functions. Note that the bool return value of most ImGui function is generally equivalent to calling ImGui::IsItemHovered().
+Testing individual bits in negative values is not supported - results are undefined.
+Tests access to common network services and records the results
+Text Baseline Alignment
+Text aligned to framed item
+Text baseline:
+Text wrapped
+Text() elements don't have stable identifiers so we need to provide one.
+Texture coordinate rotation 
+Texture import failed. The model appears to contain texture data, but the texture import process could not be completed. The model will be imported as geometry only.
+Thai (ISO-8859-11)
+Thai (Thailand)
+Thanks for clicking me!
+The 3MF is not supported by Flash Studio, loading geometry data only.
+The Background draw list will be rendered below every Dear ImGui windows.
+The Default option for Tree supports is Hollow, which means no base pattern. For other support types, the Default option is the Rectilinear pattern.
+The FBX file is invalid. This may be because the content is too big for this older version (
+The FTP server doesn't support passive mode.
+The FTP server doesn't support the PORT command.
+The Flash Studio configuration file may be corrupted and cannot be parsed.Flash Studio has attempted to recreate the configuration file.
+The Foreground draw list will be rendered over every Dear ImGui windows.
+The GLFW library is not initialized
+The Microsoft WebView2 Runtime could not be installed.
+The TextDisabled color is stored in ImGuiStyle.
+The UnitScaleFactor must be non-zero
+The WebSocket close frame payload size was invalid
+The WebSocket close frame payload was not valid utf8
+The WebSocket close frame reason code was invalid
+The WebSocket continuation frame was unexpected
+The WebSocket control frame size was invalid
+The WebSocket control frame was fragmented
+The WebSocket data frame was unexpected
+The WebSocket frame contained an illegal opcode
+The WebSocket frame contained illegal reserved bits
+The WebSocket frame payload was not valid utf8
+The WebSocket frame size was not canonical
+The WebSocket frame was masked
+The WebSocket frame was unmasked
+The WebSocket handshake Connection field is missing
+The WebSocket handshake Connection field is missing the upgrade token
+The WebSocket handshake Host field is missing
+The WebSocket handshake Sec-WebSocket-Accept field is invalid
+The WebSocket handshake Sec-WebSocket-Accept field is missing
+The WebSocket handshake Sec-WebSocket-Key field is invalid
+The WebSocket handshake Sec-WebSocket-Key field is missing
+The WebSocket handshake Sec-WebSocket-Version field is invalid
+The WebSocket handshake Sec-WebSocket-Version field is missing
+The WebSocket handshake Upgrade field is missing
+The WebSocket handshake Upgrade field is missing the websocket token
+The WebSocket handshake failed
+The WebSocket handshake method was not GET
+The WebSocket handshake was not HTTP/1.1
+The WebSocket message exceeded the locally configured limit
+The WebSocket operation caused a dynamic buffer overflow
+The WebSocket stream produced an incomplete deflate block
+The WebSocket stream was gracefully closed at both endpoints
+The YAML streams must start with '---', except the first one
+The application must destroy all contexts and reinitialise
+The array is too big
+The center point is coplanar with a facet, or a vertex is coplanar
+The charset '%s' is unknown. You may select
+The clipboard format '%d' doesn't exist.
+The closing '%c' does not match the opening '%c'
+The current surface of the calling thread is a window, pixel buffer or pixmap that is no longer valid
+The destination image does not have the proper type
+The display used by a swapchain does not use the same presentable image layout
+The easy handle is already added to a multi handle
+The endings of the support pillars will be deployed on the gap between the object and the pad. 'Support base safety distance' has to be greater than the 'Pad object gap' parameter to avoid this.
+The entire document is already downloaded
+The file does not exist
+The function can not solve under-determined linear systems
+The function only supports 32sC1 and 32fC1 datatypes
+The function/feature is not implemented
+The geometry will be decimated before detecting sharp angles. This parameter indicates the minimum length of the deviation for the decimation.
+The halfspace was at index %d
+The halfspace was on line %d
+The image has NULL data pointer
+The image/matrix format is not supported by the function
+The index space bounding box must have at least two index points in each direction.
+The initial hull is narrow (cosine of min. angle is %.16f).
+The input appears to be in cdd format.  If so, you should use option 'Fd'
+The input array must be CvMatND
+The input to qhull appears to be less than %d dimensional, or a
+The key is an empty
+The key is too long
+The last dimension full size is not divisible by new number of channels
+The lazy dog is a good dog. This paragraph should fit within %.0f pixels. Testing a 1 character word. The quick brown fox jumps over the lazy dog.
+The library is not initialized properly
+The library used %s,
+The logging API redirects all text output so you can easily capture the content of a window or a block. Tree nodes can be automatically expanded.
+The logical or physical device has been lost
+The lower boundary is neither an array of the same size and same type as src, nor a scalar
+The matrix can not be converted to point sequence because of inappropriate element type
+The matrix converted to point sequence must be 1-dimensional and continuous
+The matrix has NULL data pointer
+The matrix is not continuous so the number of rows can not be changed
+The matrix is not continuous, thus its number of rows can not be changed
+The max connection limit is reached
+The maximum value is 100% or the nozzle diameter.
+The mesh %s contains no vertices
+The min and max coordinates for each dimension are:
+The minimal chamber temperature (%d
+The node of type %d cannot be converted to collection
+The number of channels must be 1, 2, 3 or 4
+The number of samples must equal the number of labels. Given %zu labels, %d samples. 
+The number of workers is currently limited to %u. The request for %u workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+The operation is neither 'array op array' (where arrays have the same size and the same number of channels), nor 'array op scalar', nor 'scalar op array'
+The operation is neither 'array op array' (where arrays have the same size and the same type), nor 'array op scalar', nor 'scalar op array'
+The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array'
+The operation timed out
+The output array size is incorrect
+The output header should be CvMat or CvMatND
+The output header should be CvMatND
+The previous message repeated %u time.
+The previous message repeated %u times.
+The previous message repeated once.
+The printer's material slot information is incomplete. Please refresh the device and try again.
+The project contains an invalid or outdated filament assignment. Please reassign the affected painted area or mixed filament and slice again.
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog.
+The recursive sub-expression refers to an invalid marking group, or is unterminated.
+The reduced dimensionality index is out of range
+The requested API is unavailable
+The requested API version is unavailable
+The requested URL returned error: %d
+The requested document is not new enough
+The requested document is not old enough
+The requested feature cannot be implemented for this platform
+The requested feature has not yet been implemented for this platform
+The requested format is unavailable
+The requested platform is not supported
+The requested platform is unavailable
+The requested version of Vulkan is not supported by the driver or is otherwise incompatible
+The requested window is already connected to a VkSurfaceKHR, or to some other non-Vulkan API
+The required parameter '%s' was not specified.
+The second map in the Frustum transfrom must be linear
+The selected printer has no available material station.
+The selected printer is no longer online. Please reconnect it and try again.
+The sequence has NULL storage pointer
+The socket was closed due to a timeout
+The source array must be 1d continuous vector
+The specified cursor shape is unavailable
+The specified window has no context
+The storage is not opened
+The system uses DualView
+The total matrix width is not divisible by the new number of columns
+The total number of matrix elements is not divisible by the new number of rows
+The total width is not divisible by the new number of channels
+The upper boundary is neither an array of the same size and same type as src, nor a scalar
+The value for the option '%s' must be specified.
+The value is invalid
+The vertex does not belong to the graph
+The vertex is not found
+The written string is too long
+The wrong closing bracket
+Theoretically, 100% means a solid bridge, but due to the tendency of bridge extrusions to sag, 100% may not be sufficient.
+There are several neighbour directories, probably created by old OpenCV versions.
+There are unprintable objects. Try to adjust support settings to make the objects printable.
+There are unreferenced vertices
+There can't be more clusters than elements
+There is an undefined error in Clipper2
+There is an update available. Open the preset bundle dialog to update it.
+There is negative response in cache while serv connect
+There is no current context
+There must be 2 values for each coordinate
+There should be at least 5 points to fit the ellipse
+There should be space between attributes
+There should be space between literals
+There was an unexpected or unidentified preset conflict.
+These points are the dual of the given halfspaces.  They indicate that
+These points either have a maximum or minimum x-coordinate, or
+This algorithm works on triangle meshes only
+This application doesn't use a correct manifest specifying
+This demonstrate embedding a table into another table cell.
+This example shows how you may implement a property editor using two columns.
+This factor affects the amount of material for top solid infill. You can decrease it slightly to have smooth surface finish.
+This function cannot be called on a default constructed task
+This increases bridge strength and reliability, allowing longer spans, but may worsen appearance.
+This increases internal bridge strength and reliability when printed over sparse infill, but may worsen appearance.
+This is a custom popup for Column %d
+This is a custom popup for unused space after the last column.
+This is a drag and drop source
+This is a more typical looking tree with selectable nodes.
+This is an S/MIME signed message%s%s
+This is an even more experimental mode and the perceived color may differ from normal dithering for the same filament pair and ratio.
+This is an expert-level setting, incorrect adjustment will likely lead to jams, extruder wheel grinding into filament etc.
+This is deprecated and won't be supported in the future
+This is not a %s.
+This is the %s tab!
+This is the Avocado tab!
+This is the Broccoli tab!
+This is the Cucumber tab!
+This is the qhull test case.  If any errors or core dumps occur,
+This is useful for fans where a low PWM/power may be insufficient to get the fan started spinning from a stop, or to get the fan up to speed faster.
+This is useful when printing with Outer/Inner or Inner/Outer/Inner wall print order as in these modes it is more likely an external perimeter is printed immediately after a de-retraction move.
+This is window 1.
+This is window 2.
+This means that there are a lot of hyperrectangles with the same function
+This occurs because convex hull algorithms assume that calculations are
+This operation cannot be undone!
+This option will be ignored if the G-code flavor is set to Klipper.
+This option works particularly well when combined with the second internal bridge over infill option to improve bridging further before solid infill is extruded.
+This platform does not support background transparency.
+This preset has a newer version in OrcaCloud.
+This section allows you to interact and see the effect of various sizing policies depending on whether Scroll is enabled and the contents of your columns.
+This section shows information for loaded profiles
+This text should automatically wrap on the edge of the window. The current implementation for text wrapping follows simple rules suitable for English and possibly other languages.
+This text should automatically wrap on the edge of the work rectangle.
+This value governs the thickness of the external (visible) bridge layer.
+This value governs the thickness of the internal bridge layer. This is the first layer over sparse infill so increasing it may increase strength and upper layer quality.
+This viewing session has ended
+This widget is only here to be able to tab-out of the widgets above.
+This will copy your presets so they are available under your new account.
+This window has a changing title.
+Thok Nath (South Sudan)
+Those are old settings provided for convenience.
+Thread module initialization failed: cannot store value in thread local storage
+Thread module initialization failed: impossible to allocate index in thread local storage
+Thread stack size has been already set to %u. The request for larger stack (%u) cannot be satisfied.
+Tibetan (China)
+Tibetan (India)
+Tigre (Eritrea)
+Tigrinya (Eritrea)
+Tigrinya (Ethiopia)
+Time Stamp signing
+Time Stamping
+Time point hours value is out of range: 
+Time point minutes value is out of range: 
+Time point seconds value is out of range: 
+Timeout while waiting for FTP server to connect, try passive mode.
+Title bar Hovered/Active tests
+To correct for precision problems, do not use 'Q0'.  By default, Qhull
+To guarantee simplicial output:
+Tokenizing ASCII FBX file
+Tokenizing binary FBX file
+Tongan (Tonga)
+Too complex format for the matrix
+Too large memory block is requested
+Too long SOCKS proxy user name, can't use!
+Too long data type specification
+Too long hexadecimal number
+Too long string literal
+Too long string or a last string w/o newline
+Too many IDATs found
+Too many bytes for PNG signature
+Too many color components: %d, max %d
+Too many link reference definition instantiations.
+Too many log attribute names
+Too many objects of the type have already been created
+Too many references
+Too many users
+Too much image data
+Too old connection (%ld seconds), disconnect it
+Tooltip here
+Top 3 device categories by available device count:
+Total disconnected facets        : %5d               %5d
+Trace: Total events: 
+Trace: Total skipped events: 
+Trailer Field: 0x
+Transfer was pending, now try another
+Transfer-Encoding: chunked
+Transferred a partial file
+Transform does not have a map
+Transform pointer is null
+Transform type: 
+TransformUVCoordsProcess begin
+TransformUVCoordsProcess end: 
+TransformUVCoordsProcess finished
+Transforms of type 
+Tree in column
+Tree pointer is null
+TreeNode (w/ double-click)
+Triangle patch area threshold,triangle patch will be merged to neighbor if its area is less than threshold
+TriangulateProcess begin
+TriangulateProcess finished. All polygons have been triangulated.
+TriangulateProcess finished. There was nothing to be done.
+Triangulation statistics(Qt)
+Tried to evaluate the frustum transform at the singular focal point (e.g. camera)
+Tried to initialize an affine transform from a nearly singular matrix
+Tried to initialize an affine transform from a non-affine 4x4 matrix
+Troubleshoot Center
+Truncated Newton (local, derivative-based)
+Truncated Newton with restarting (local, derivative-based)
+Truncated header.
+Tshiluba (Ditunga wa Kongu)
+Turkish (Cyprus)
+Turkish (ISO-8859-9)
+Turkmen (Turkmenistan)
+Two items: Hello
+Type 'qhull' for a short list of options.
+Type name demangling failed
+UNKNOWN VALUE
+URL using bad/illegal format or missing URL
+US Std Fanfold, 14 7/8 x 11 in
+UTF-16 XML encoding is not supported! Use 8-bit encoding
+UTF-16 error: invalid low surrogate
+UTF-16 error: isolated low surrogate
+UTF-16 error: missing low surrogate at end
+UTF-16 string too long
+UTF-32 error: code points 0xd800-0xdfff are not defined
+UTF-32 error: code points greater than 0x10ffff are not defined
+UTF-8 error: 1 byte missing at end
+UTF-8 error: 2 bytes missing at end
+UTF-8 error: 3 bytes missing at end
+UTF-8 error: 4 bytes missing at end
+UTF-8 error: 5 bytes missing at end
+UTF-8 error: 5-byte character is not allowed (RFC 3629)
+UTF-8 error: 6-byte character is not allowed (RFC 3629)
+UTF-8 error: byte 2 top bits not 0x80
+UTF-8 error: byte 3 top bits not 0x80
+UTF-8 error: byte 4 top bits not 0x80
+UTF-8 error: byte 5 top bits not 0x80
+UTF-8 error: byte 6 top bits not 0x80
+UTF-8 error: code points 0xd800-0xdfff are not defined
+UTF-8 error: code points greater than 0x10ffff are not defined
+UTF-8 error: illegal byte (0xfe or 0xff)
+UTF-8 error: isolated byte with 0x80 bit set
+UTF-8 error: overlong 2-byte sequence
+UTF-8 error: overlong 3-byte sequence
+UTF-8 error: overlong 4-byte sequence
+UTF-8 error: overlong 5-byte sequence
+UTF-8 error: overlong 6-byte sequence
+UTF-8 string too long
+UTF8 code but only one character remaining
+UV index mismatch. Not all meshes assigned to this material have equal numbers of UV channels. The UV index stored in  the material structure does therefore not apply for all meshes. 
+UV transformations on 3D mapping channels are not supported
+UV-mapped texture, but there are no UV coords
+Ukrainian (Ukraine)
+Unable to associate handle with I/O completion port
+Unable to claim slice i18n update: 
+Unable to clean obsolete slice i18n catalogs: 
+Unable to close I/O completion port handle
+Unable to close the handle for '%s'
+Unable to compute UV coordinates, no free UV slot found
+Unable to create I/O completion port
+Unable to create IOCP worker thread
+Unable to create slice i18n cache directory: 
+Unable to dequeue completion packet
+Unable to install slice i18n cache: 
+Unable to load locked slice i18n cache: 
+Unable to log in to the Flashforge printer.
+Unable to open message catalog: 
+Unable to open requested HTML document: %s
+Unable to parse FTP file list
+Unable to post completion status
+Unable to preserve previous slice i18n manifest: 
+Unable to process slice i18n version: 
+Unable to read DAT environments
+Unable to read filament information from the selected printer.
+Unable to receive SOCKS5 sub-negotiation response.
+Unable to receive initial SOCKS5 response.
+Unable to remove custom importer: I can't find you ...
+Unable to remove custom post-processing step: I can't find you ..
+Unable to remove obsolete slice i18n catalog 
+Unable to replace slice i18n cache file 
+Unable to send initial SOCKS5 request.
+Unable to set up watch for '%s'
+Unable to start IOCP worker thread
+Unable to write slice i18n cache file 
+Unauthorized intersections of constraints
+Underlying float value: %f
+Undo last action
+Undocumented SOCKS5 mode attempted to be used by server.
+Unexpected CLASS
+Unexpected End-Of-File
+Unexpected TYPE
+Unexpected binary operator
+Unexpected call
+Unexpected character
+Unexpected characters following option '%s'.
+Unexpected end of input stream
+Unexpected end of line
+Unexpected end of the stream
+Unexpected error, unable to determine the Base64 state.
+Unexpected error, unable to switch to this state.
+Unexpected file type (expected P)
+Unexpected header format (expected line break)
+Unexpected marker 0x%02x
+Unexpected parameter '%s'
+Unexpected status in data stream
+Ungraceful worker thread termination
+Unicode 16 bit (UTF-16)
+Unicode 16 bit Big Endian (UTF-16BE)
+Unicode 32 bit (UTF-32)
+Unicode 32 bit Big Endian (UTF-32BE)
+Unicode 7 bit (UTF-7)
+Unicode 8 bit (UTF-8)
+Uninitialized row
+Unknown %s code %d
+Unknown / unsupported color conversion code
+Unknown APP0 marker (not JFIF), length %u
+Unknown APP14 marker (not Adobe), length %u
+Unknown Adobe color transform code %d
+Unknown CGAL state detected.
+Unknown CGAL state.
+Unknown DDE error %08x
+Unknown PNG resolution unit %d
+Unknown XInput Device
+Unknown alt-svc port number, ignoring...
+Unknown approximation method
+Unknown array type
+Unknown attribute flags for VDB file format.
+Unknown attribute serialization flags for VDB file format.
+Unknown command: '%s'
+Unknown compression method in IHDR
+Unknown custom filter method
+Unknown distribution type
+Unknown encoding (%d)
+Unknown error %u (0x%08X)
+Unknown error (%d)
+Unknown exception
+Unknown feature
+Unknown filter method in IHDR
+Unknown font type
+Unknown frame descriptor
+Unknown function operating on type %1%
+Unknown image data format.
+Unknown interlace method in IHDR
+Unknown interop error %d
+Unknown interpolation method
+Unknown intersection object!
+Unknown language %i.
+Unknown long option '%s'
+Unknown major version.
+Unknown minor version.
+Unknown object type
+Unknown operation
+Unknown option '%s'
+Unknown plane-point orientation
+Unknown row filter for method 0
+Unknown share option
+Unknown tag type
+Unknown type identifier: '%c' in '%s'
+Unknown type of term criteria
+Unknown update error
+Unknown/unsupported adaptive threshold method
+Unknown/unsupported array type
+Unknown/unsupported border type
+Unknown/unsupported color conversion code
+Unknown/unsupported norm type
+Unknown/unsupported threshold type
+Unprocessed type %d
+Unrecognised header flags in PointDataLeafNode
+Unrecognized component IDs %d %d %d, assuming YCbCr (lossy) or RGB (lossless)
+Unrecognized content encoding type. libcurl understands %s content encodings.
+Unrecognized equation type for pCAL chunk
+Unrecognized or bad HTTP Content or Transfer-Encoding
+Unrecognized or unsupported array type
+Unrecognized rotation axis
+Unrecognized unit type for oFFs chunk
+Unrecognized unit type for pHYs chunk
+Unrecognized value
+Unrecoverable error in call to nameserver
+Unregistering custom importer: 
+Unregistering custom post-processing step
+Unsafe to wait further
+Unscaled DIRECT (global, no-derivative)
+Unscaled DIRECT-L (global, no-derivative)
+Unscaled Randomized DIRECT-L (global, no-derivative)
+Unspecified error
+Unspecified error code
+Unsupported HTTP version in response
+Unsupported JPEG data precision %d
+Unsupported JPEG process: SOF type 0x%02x
+Unsupported RotationMode: SphericXYZ
+Unsupported YAML version (it must be 1.x)
+Unsupported color conversion request
+Unsupported combination of input and output array formats
+Unsupported depth of input image
+Unsupported encoding method.
+Unsupported extension feature
+Unsupported file storage format
+Unsupported format or combination of formats
+Unsupported frame parameter
+Unsupported geometry type.
+Unsupported input depth
+Unsupported marker type 0x%02x
+Unsupported matrix type.
+Unsupported max Symbol Value : too large
+Unsupported parameter
+Unsupported placeholder used in pattern for file scanning
+Unsupported protocol
+Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+Unsupported proxy scheme for '%s'
+Unsupported proxy syntax in '%s'
+Unsupported sequence type
+Unsupported type
+Unterminated named capture.
+Update built-in presets automatically.
+UpdateEdgeIntoAEL: invalid call
+UpdateImporterScale scale set: 
+Upload failed (at start/before it took off)
+Uploaded unaligned file size (%I64d out of %I64d bytes)
+Uploading to a URL without a file name!
+Upper Sorbian
+Upper Sorbian (Germany)
+Urdu (India)
+Urdu (Pakistan)
+Usage Error: Can't mix regular expression captures with POSIX matching rules
+Use 'QJ' to joggle the input or 'Q0' to turn off merging.
+Use 3MF instead of G-code
+Use Selected
+Use SetScrollHereX() or SetScrollFromPosX() to scroll to a given horizontal position.
+Use SetScrollHereY() or SetScrollFromPosY() to scroll to a given vertical position.
+Use child windows to begin into a self-contained independent scrolling/clipping regions within a host window.
+Use default sizing policy:
+Use either absolute mm values (eg. 0.32mm for a 0.4mm nozzle) or % values (eg 80%). This value must not be larger than the nozzle diameter.
+Use work area instead of main area
+Useful for disabling or reducing the MSAA setting to improve performance.
+User can right-click the picker to change mode.
+User declined WebView2 runtime installation.
+User declined preset migration.
+User preset migration completed successfully.
+User value for immutable key '%s' ignored.
+User was rejected by the SOCKS5 server (%d %d).
+User-Agent: %s
+User-initiated abort has terminated this operation
+Uses Phong shading inside realistic view.
+Using ImDrawList::AddText() with a fine ClipRect:
+Using ImDrawList::PushClipRect():
+Using ImGui::PushClipRect():
+Using NoHostExtendX and NoHostExtendY:
+Using TableSetupColumn() to alter resizing policy on a per-column basis.
+Using TableSetupColumn() to setup default width.
+Using TableSetupColumn() to setup explicit width.
+Using explicit size:
+Using incompatible decoder for the input geometry.
+Using the format string parameter to display a name instead of the underlying integer.
+Using the simplified one-liner Combo API here.
+Using the simplified one-liner ListBox API here.
+Using those settings here will give you poor quality results.
+Uyghur (China)
+Uzbek (Arabic)
+Uzbek (Arabic, Afghanistan)
+Uzbek (Cyrillic)
+Uzbek (Cyrillic, Uzbekistan)
+Uzbek (Latin)
+Uzbek (Latin, Uzbekistan)
+VECT %d %d 1
+VECT 1 %d 1 %d 1 
+VECT 1 1 1 1 1
+VECT 1 2 1 2 1
+Vai (Laibhiya)
+Vai (Latin, Liberia)
+Vai (Vai, Liberia)
+Valencian (Spain)
+Valid palette required for paletted images
+Valid session not detected. Proceed with login to 3DPrinterOS?
+ValidateDataStructureProcess begin
+ValidateDataStructureProcess end
+Validation conflict
+Validation failed: 
+Validation warning: 
+Value %1% can not be represented in the target integer type.
+Value 'null' is not supported by this parser
+Values above 1.0: Increase the amount of material while maintaining line spacing. This can improve line contact and strength.
+Values below 1.0: Reduce the amount of material while adjusting line spacing to maintain contact. This can improve sagging.
+Values exceed permitted range
+Vector of minimal chamber temperatures for each extruder/filament.
+Vectors with element size %d are not supported. Please, modify OutputArray::create()
+Venda (South Africa)
+Verbose Import: failed to revalidate data structures
+Verbose Import: revalidating data structures
+Verify error:
+Verify failure
+Verify may report that a point is outside of a facet.
+Verifying - %s
+Verifying downloaded file
+Verifying neighbors...
+Version %s (Unicode: %s, debug level: %d),
+Version History
+Version history URL is missing from FlashNetwork settings
+Version history contains too many platforms
+Version history request was rejected
+Version history response code is missing
+Version history response list is missing
+Version history response size is invalid
+Version not supported
+Version not supported. 
+Vertex color channel %i is exists although the previous channel was nullptr.
+Vertex connectivity halfedge error: Vertex 
+Vertex has invalid index: 
+Vertical Sliders
+Vertical scrolling, with clipping
+Vertices and facets:
+Vietnamese (Vietnam)
+Viewports (%d)
+Virtual array controller messed up
+Voronoi diagram by the convex hull of %d points in %d-d:
+Voronoi ridge statistics
+Vulkan: Failed to query instance extension count: %s
+Vulkan: Failed to query instance extensions: %s
+Vulkan: Failed to retrieve vkEnumerateInstanceExtensionProperties
+Vulkan: Loader does not export vkGetInstanceProcAddr
+Vulkan: Loader not found
+Vulkan: Window surface creation extensions not found
+Vunjo (Tanzania)
+WARNING: %d errors in the input!
+WARNING: Capacity of array S in DIRDoubleInsert reached. Increase maxdiv.
+WARNING: Error occurred in routine DIRsamplef.
+WARNING: Error occurred in routine DIRsamplef..
+WARNING: Error occurred in routine DIRsamplepoints.
+WARNING: Maximum number of levels reached. Increase maxdeep.
+WARNING: One error in the input!
+WARNING: The maximum number of function evaluations (%d) is higher than
+WARNING: Using weak random seed
+WARNING: failed to configure server name indication (SNI) TLS extension
+WARNING: failed to save cookies in %s
+WGL: Driver does not support OpenGL ES version %i.%i
+WGL: Driver does not support OpenGL version %i.%i
+WGL: Driver does not support the requested OpenGL profile
+WGL: Failed to clear current context
+WGL: Failed to create OpenGL ES context
+WGL: Failed to create OpenGL context
+WGL: Failed to create dummy context
+WGL: Failed to describe pixel format
+WGL: Failed to enable sharing with specified OpenGL context
+WGL: Failed to find a suitable pixel format
+WGL: Failed to load opengl32.dll
+WGL: Failed to make context current
+WGL: Failed to make dummy context current
+WGL: Failed to retrieve DC for window
+WGL: Failed to retrieve PFD for selected pixel format
+WGL: Failed to retrieve pixel format attribute
+WGL: Failed to retrieve pixel format attributes
+WGL: Failed to set pixel format for dummy context
+WGL: Failed to set selected pixel format
+WGL: Platform not initialized
+WGL: The driver does not appear to support OpenGL
+WGL: The share context is not compatible with the requested context
+WGL: Unknown pixel format attribute requested
+WTLS curve over a 112 bit prime field
+WTLS curve over a 113 bit binary field
+WTLS curve over a 160 bit prime field
+WTLS curve over a 224 bit prime field
+Wakeup is unavailable or failed
+Walser (Schwiz)
+Walser (Switzerland)
+WantCaptureKeyboard: %d
+WantCaptureMouse: %d
+WantSetMousePos: %d
+WantTextInput: %d
+Warn,  T%u: %s
+Warning: If you don't have a debugger attached, this will probably crash.
+Warning: Less observations than feature dimension given!
+Warning: owning Window is inactive. This DrawList is not being rendered!
+Warning: thumbnail image size does not match data length %u
+Warning: unknown JFIF revision number %d.%02d
+We also demonstrate using ImGuiListClipper to virtualize the submission of many items.
+We are completely uploaded and fine
+We don't have Push/Pop functions because you can force options on a per-widget basis if needed,and the user can change non-forced ones with the options menu.
+We don't have a getter to avoidencouraging you to persistently save values that aren't forward-compatible.
+We don't use the drag and drop api at all here! Instead we query when the item is held but not hovered, and order items accordingly.
+We got a 421 - timeout!
+We need information for diagnosing source of the issue. Check wiki page for detailed guide.
+We often want outer padding activated when any using features which makes the edges of a column visible:
+We will preprocess the image, including but not limited to removing the background, reducing complexity, and enhancing colors, to ensure higher-quality model generation results
+Web domains do not match an environment in FLASHNETWORK10.DAT
+WebP: Allocating image memory failed.
+WebP: Allocating stream buffer failed.
+WebP: Decoding RGB image data failed.
+WebP: Decoding RGBA image data failed.
+WebP: Error decoding animation.
+WebP: Error getting next animation frame.
+WebP: Failed to parse container data.
+WebP: Invalid data (failed to get features).
+WebView error 
+WebView2 runtime detected.
+WebView2 runtime installation failed or still not detected.
+WebView2 runtime installed successfully.
+WebView2::WebViewCreated (Complete)
+WebView2::WebViewCreated (QueryInterface)
+Weekday is out of range 0..6
+Weird server reply
+Weirdly formatted EPSV reply
+Welcome to Dear ImGui!
+Welsh (United Kingdom)
+Western European (ISO-8859-1)
+Western European with Euro (ISO-8859-15)
+Western Frisian
+Western Frisian (Netherlands)
+When a popup is active, it inhibits interacting with windows that are behind the popup. Clicking outside the popup closes it.
+When computing the Delaunay triangulation:
+When disabling anti-aliasing lines, you'll probably want to disable borders in your style as well.
+When enabled, directions rotate with the model to maintain optimal strength characteristics.
+When enabled, dithering Z step size is applied only where mixed filament is painted. Unpainted zones keep their original layer height.
+When enabled, the bridge angle values are added to the automatically calculated bridge direction instead of overriding it.
+When enabled, the pressure advance value above is overridden. However, a reasonable default value above is strongly recommended to act as a fallback and for when tool changing.
+When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified
+While inputing text:
+Widgets Width
+Width 400-500
+Width: %.1f (MinX: %.1f, MaxX: %.1f)
+WidthGiven: %.1f, Request/Auto: %.1f/%.1f, StretchWeight: %.3f (%.1f%%)
+WidthStretch 
+Wildcard - Parsing started
+Will alter ImDrawList rendering only.
+Will alter only this specific ImDrawList::AddText() rendering.
+Win32: Failed to allocate global handle for clipboard
+Win32: Failed to convert clipboard to string
+Win32: Failed to convert joystick name to UTF-8
+Win32: Failed to convert string from UTF-8
+Win32: Failed to convert string to UTF-8
+Win32: Failed to create RGBA bitmap
+Win32: Failed to create Vulkan surface: %s
+Win32: Failed to create cursor
+Win32: Failed to create device
+Win32: Failed to create helper window
+Win32: Failed to create icon
+Win32: Failed to create interface
+Win32: Failed to create mask bitmap
+Win32: Failed to create standard cursor
+Win32: Failed to create window
+Win32: Failed to enumerate device objects
+Win32: Failed to load user32.dll
+Win32: Failed to lock global handle
+Win32: Failed to open clipboard
+Win32: Failed to query device capabilities
+Win32: Failed to query display settings
+Win32: Failed to query monitor DPI
+Win32: Failed to register helper window class
+Win32: Failed to register raw input device
+Win32: Failed to register window class
+Win32: Failed to remove raw input device
+Win32: Failed to retrieve raw input data
+Win32: Failed to set device axis mode
+Win32: Failed to set device data format
+Win32: Failed to set video mode: %s
+Win32: Gamma ramp size must be 256
+Win32: Platform not initialized
+Win32: Unknown standard cursor
+WinApi FormatMessage returned error
+Window options
+Window will resize every-frame to the size of its content.
+Windows %s %d
+Windows %s %s %d
+Windows %s%lu.%lu
+Windows (unknown)
+Windows Arabic (CP 1256)
+Windows Baltic (CP 1257)
+Windows Central European (CP 1250)
+Windows Chinese Simplified (CP 936) or GB-2312
+Windows Chinese Traditional (CP 950) or Big-5
+Windows Cyrillic (CP 1251)
+Windows Greek (CP 1253)
+Windows Hebrew (CP 1255)
+Windows Japanese (CP 932) or Shift-JIS
+Windows Johab (CP 1361)
+Windows Korean (CP 949)
+Windows PNG resource
+Windows Server 2003
+Windows Server 2008
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022
+Windows Server 2025
+Windows Thai (CP 874)
+Windows Turkish (CP 1254)
+Windows Vietnamese (CP 1258)
+Windows Western European (CP 1252)
+Windows animated cursor file
+Windows bitmap file
+Windows bitmap resource
+Windows cursor file
+Windows icon file
+Windows/DOS OEM (CP 437)
+Windows/DOS OEM Cyrillic (CP 866)
+Winsock library is not ready
+Winsock library not initialised
+Winsock version not supported
+Wireless Xbox Controller
+With Alpha Bar
+With Alpha Preview
+With Drag and Drop
+With Half Alpha Preview
+With Options Menu
+With Ref Color
+With Side Preview
+With border:
+With keyboard navigation enabled:
+Without border:
+Wolaytta (Ethiopia)
+Wolof (Senegaal)
+Wolof (Senegal)
+Word Wrapping
+WorkArea Offset Left: %.0f Top: %.0f, Right: %.0f, Bottom: %.0f
+Would you like to select a font to be used for this encoding
+Write callback asked for PAUSE when not supported!
+Write error on file '%s'
+Write failed on temporary file --- out of disk space?
+Write to EMS failed
+Write to XMS failed
+Writing zero-length unknown chunk
+Wrong JPEG library version: library is %d, caller expects %d
+Wrong file object
+Wrong mean shape for the given data matrix. Expected %d, but was %zu.
+Wrong mean shape for the given eigenvector matrix. Expected %d, but was %zu.
+Wrong shape of input matrix! Expected a matrix with one row or column.
+X        c black
+X SVWATAUAVAWH
+X USVWATAUAVAWH
+X UVWATAUAVAWH
+X-%s-Date: %s
+X-Export: aiBone shall contain weights, but pointer to them is nullptr.
+X509 CERTIFICATE
+X509 V3 routines
+X509v3 AC Targeting
+X509v3 Any Policy
+X509v3 Authority Key Identifier
+X509v3 Basic Constraints
+X509v3 CRL Distribution Points
+X509v3 CRL Number
+X509v3 CRL Reason Code
+X509v3 Certificate Issuer
+X509v3 Certificate Policies
+X509v3 Delta CRL Indicator
+X509v3 Extended Key Usage
+X509v3 Freshest CRL
+X509v3 Inhibit Any Policy
+X509v3 Issuer Alternative Name
+X509v3 Issuing Distribution Point
+X509v3 Key Usage
+X509v3 Name Constraints
+X509v3 No Revocation Available
+X509v3 Policy Constraints
+X509v3 Policy Mappings
+X509v3 Private Key Usage Period
+X509v3 Subject Alternative Name
+X509v3 Subject Directory Attributes
+X509v3 Subject Key Identifier
+X509v3 extensions
+X9.42 DH PARAMETERS
+X9.62 curve over a 163 bit binary field
+X9.62 curve over a 176 bit binary field
+X9.62 curve over a 191 bit binary field
+X9.62 curve over a 192 bit prime field
+X9.62 curve over a 208 bit binary field
+X9.62 curve over a 239 bit binary field
+X9.62 curve over a 239 bit prime field
+X9.62 curve over a 272 bit binary field
+X9.62 curve over a 304 bit binary field
+X9.62 curve over a 359 bit binary field
+X9.62 curve over a 368 bit binary field
+X9.62 curve over a 431 bit binary field
+X9.62/SECG curve over a 256 bit prime field
+X: Failed to decompress MSZIP-compressed data
+XInput Arcade Stick
+XInput Dance Pad
+XInput Drum Kit
+XInput Flight Stick
+XInput Guitar
+XInput Wheel
+XML declaration not well-formed
+XML or text declaration not at start of entity
+XMM state enabled: %s
+XOOOOOOOOOOOOO...OOOOOOOOOOOO XX
+XOOOOOOOOOOOOO..OOOOOOOOOOOOO XX
+XOOOOOOOOOOOOO..oOOOOOOOOOOOO XX
+XOOOOOOOOOOOOOo...OOOOOOOOOOO XX
+XPM: Malformed pixel data!
+XPM: incorrect colour description in line %d
+XPM: incorrect header format!
+XPM: malformed colour definition '%s' at line %d!
+XPM: no colors left to use for mask!
+XPM: truncated image data at line %d!
+XSAVE available: %s
+XSAVE enabled: %s
+XXXXX .oo.      
+XY Size compensation cannot be combined with color-painting.
+XY Size compensation cannot be combined with fuzzy skin painting.
+Xbox Controller
+Xitsonga (South Africa)
+XoOOOOOOOOOOOOOOOOOOOOOOOOOOo XX
+YELLOW GREEN
+YMM state enabled: %s
+Yangben (Cameroon)
+Year is out of valid range: 1400..9999
+Yiddish (World)
+Yoruba (Benin)
+Yoruba (Nigeria)
+You are currently in Stealth Mode. To log into your FlashForge account, you need to disable Stealth Mode first.
+You can also call ImGui::LogText() to output directly to the log without a visual output.
+You can change the defaults using SetColorEditOptions().
+You can drag from the color squares.
+You can input value using the scientific notation,
+You can use ImGui::GetMouseDragDelta(0) to query for the dragged amount on any widget.
+You may want to also explicitly specify content width by using SetNextWindowContentWidth() before Begin().
+You must type in 
+You should explicitly call download method for cuda::GpuMat object
+You should explicitly call mapHost/unmapHost methods for ogl::Buffer object
+ZMM state enabled: %s
+Zarma (Niger)
+Zarmaciine (Ni

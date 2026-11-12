@@ -1,0 +1,428 @@
+A device memory allocation has failed
+A draft shield is useful to protect an ABS or ASA print from warping and detaching from print bed due to wind draft. It is usually needed only with open frame printers, i.e. without an enclosure.
+A lower value results in smoother extrusion rate transitions. However, this results in a significantly larger G-code file and more instructions for the printer to process.
+A preset with the same name was previously deleted from the cloud.
+A preset with this name already exists in OrcaCloud.
+A requested extension is not supported
+A requested feature is not supported
+A requested format is not supported on this device
+A requested layer is not present or could not be loaded
+A validation layer found an error
+Added to print list
+Address family not supported
+Adjust this value to prevent short, unclosed walls from being printed, which could increase print time. Higher values remove more and longer walls.
+Aligns infill, bridge, ironing and surface fill directions to follow the model's orientation on the build plate.
+Alt to jump to the menu layer of a window.
+Ambiguous AMS filament match: 
+Another process already installed newer slice i18n catalog version 
+Attempt to keep painted features (color/seam/support/fuzzy etc.) after changing the object mesh (such as cut/reload from disk/simplify/fix etc.)
+BOBYQA bound-constrained optimization via quadratic models (local, no-derivative)
+Backing store not supported
+Bad sequence slice
+Bind WAN device (retry)
+Bound-constrained optimization via NEWUOA-based quadratic models (local, no-derivative)
+Bridge line width must not exceed nozzle diameter
+Bridge line width must not exceed nozzle diameter: 
+By reducing the speed of the outer wall to avoid the resonance zone of the printer, ringing on the surface of the model are avoided.
+COI is not supported
+COI is not supported by the function
+COI is not supported by this operation
+Calibrate before printing
+Can't copy values of unsupported type %d.
+Can't create dialog using memory template
+Can't export value of unsupported type %d.
+Cannot compute orientation due to incorrect connectivity
+Cannot proceed without support points! Add support points or disable support generation.
+Category %zu (%zu devices)
+Chamber minimal temperature
+Chars queue:
+Chunky upload is not supported by HTTP 1.0
+Clean system profiles cache
+Cleans and rebuilds system profiles cache on next launch
+Click Scan to look for K-series printers on your network.
+Cloud service is reconnecting...
+Cloud service is temporarily unavailable, retrying...
+Cloud sync conflict:
+Complex keys are not supported
+Connection to 3DPrinterOS cloud works correctly.
+Converting codecvts are not supported
+Corrupted embedded content found
+Could not start printing.
+Couldn't resume download
+Creality K-series printer agent (CFS-aware filament sync)
+CrealityHostDiscovery: 
+CrealityHostDiscovery: /info GET failed for 
+CrealityHostDiscovery: /info parse failed for 
+CrealityHostDiscovery: mDNS returned 
+CrealityHostDiscovery: starting DNS-SD discovery (prefixes: Creality, creality)
+CrealityPrint dialog: Failed to parse boxsInfo: 
+CrealityPrint: Error starting print: 
+CrealityPrint: Failed to query boxsInfo: 
+CrealityPrint: No '
+CrealityPrintAgent: 
+CrealityPrintAgent: CFS query failed (
+CrealityPrintAgent: no active CFS boxes, deferring to base agent
+CrealityPrintAgent: querying CFS slots on 
+DSO support routines
+Delete will delete your local preset. Force push overwrites it with your local preset.
+Density of the bottom surface layer. Intended for aesthetic or functional purposes, not to fix issues such as over-extrusion.
+Depending on how long the wipe operation lasts, how fast and long the extruder/filament retraction settings are, a retraction move may be needed to retract the remaining filament.
+Detect Creality K-series printer
+Detected %zu available LAN printers. Select a device category:
+Developer mode allows the printer to work exclusively through local network access, enabling full functionality with OrcaSlicer.
+Device filament information has changed and the affected device was removed from this batch task.
+Devices are grouped by model, nozzle diameter, and filament information.
+Distribute mixed filament layer-cycle cadence using an advanced ordered dithering pattern instead of a simple contiguous A-then-B run. This can reduce visible striping for some hues.
+Do you want to migrate them to your OrcaCloud profile?
+Download a historical version
+Download completed
+Download historical version
+Dynamic engine loading support
+Embed everything inside a child window (for additional testing)
+Empty tags are not supported
+Enable this if the printer accepts a 3MF file as the print job. When enabled, Orca Slicer sends the sliced file as a .gcode.3mf, instead of a plain .gcode file.
+Enable this to get a G-code file which has G2 and G3 moves. The fitting tolerance is same as the resolution.
+Error during file upload
+Error in the HTTP2 framing layer
+Error in the SSH layer
+Existing user presets were found in %s.
+Failed to create Flashforge cloud agent
+Failed to create OrcaCloud agent
+Failed to enumerate DirectInput8 devices
+Failed to load thumbnail. Click to retry.
+Failed to migrate user presets:
+Failed to migrate user presets: 
+Failed to query OrcaCloud presets (error 
+Failed to scan directory for presets: 
+Failed to update uploaded file: 
+Failed to verify historical version download: 
+Falling back to built-in languages because remote slice i18n language is right-to-left: 
+Falling back to built-in languages because remote slice i18n language is unsupported by wxWidgets: 
+Falling back to built-in languages because remote slice i18n languages map to the same wxWidgets language: 
+Filament Mapping:
+Filament to print bottom surface.
+Filament to print inner walls.
+Filament to print internal solid infill.
+Filament to print outer walls.
+Filament to print top surface.
+File already completely downloaded
+File already completely uploaded
+File type          : ASCII STL file
+File type          : Binary STL file
+Flash Studio 1.7.20
+Flash Studio 2.4.2 Build e971fe538c
+Flash Studio G-code Viewer 1.7.20
+Flash Studio Version:
+Flash Studio version: %s
+Flash Studio will now terminate.
+Flash Studio/2.4.2
+FlashForge GitHub
+FlashForge Wiki
+FloatPointsTreeDecoder: compression level %i not supported.
+Floating-polygon partitioning step could not find a usable fpSegment
+For example, ASUS Sonic Studio injects a Nahimic driver, which makes Orca-Flashforge to crash on a secondary monitor
+For slower printers without pressure advance, the value should be set much lower. A value of 10-15 mm
+Force push will overwrite the cloud copy with your local preset changes.
+Found %zu Creality printer(s). Select one and click Use Selected.
+G-code 3MF files
+Graphics mode not supported
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+IDCT output block size %d not supported
+IDN support not present, can't parse Unicode domains
+If disabled, bridges may look better but are generally reliable only for shorter spans.
+If disabled, internal bridges may look better but can be less reliable over sparse infill.
+If enabled, bridge extrusion uses a line height equal to the nozzle diameter.
+If enabled, internal bridge extrusion uses a line height equal to the nozzle diameter.
+If enabled, this setting will ensure external perimeters are not slowed down to meet the minimum layer time. This is particularly helpful in the below scenarios:
+If left to zero, the bridging angle will be calculated automatically for each specific bridge.
+If set to 0, the line width will match the Internal solid infill width.
+If the maximum angle within the perimeter loop exceeds this value (indicating the absence of sharp corners), a scarf joint seam will be used. The default value is 155
+Ignoring invalid slice i18n manifest 
+Ignoring older slice i18n catalog version 
+Ignoring slice i18n catalog with a changed MD5 for immutable version 
+Image step is wrong
+Inplace operation is not supported
+Input COI is not supported
+Input image depth is not supported by function
+Input is not a point cloud.
+InputArray Datatype %d is not supported.
+Internal bridges act as intermediate support between sparse infill and top solid infill and can strongly affect top surface quality.
+Invalid or unsupported charset: 
+Invalid or unsupported syntax
+Invalid slice i18n catalog: 
+Invalid/unsupported mode
+Iterator with mask is not supported
+JFIF extension marker: RGB thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+KdTreeAttributesDecoder: compression level %i not supported.
+LAN auto reconnect: connecting device 
+LAN auto reconnect: device 
+LAN auto reconnect: scanning for saved devices
+LAN device scan failed: 
+Layer height contribution of component A for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.
+Layer height contribution of component B for dithering virtual filaments. Set to 0 to use normal 1-layer A / 1-layer B alternation.
+Layer height used in Z zones painted with dithering (mixed virtual filaments). Set to 0 to keep normal layer height in those zones.
+Length of one pointillisme segment along an extrusion path for same-layer pointillisme mode. Set to 0 to use automatic nozzle-based sizing.
+Line width of the Bridge. If expressed as a %, it will be computed over the nozzle diameter.
+Loaded cached slice i18n catalog version 
+Loaded profiles overview
+Loaded read-only slice i18n catalog version 
+Login denied
+MD5 verification failed. The downloaded file was removed.
+Manual log upload started
+Manual log upload threw an exception: 
+Manual log upload threw an unknown exception
+Mark bundle as not supporting multiuse
+Material pointer in nullptr, skipping.
+Maximum angle of overhangs to allow after making more steep overhangs printable.90
+Maximum login retries exceeded
+Maximum supported image dimension is %u pixels
+Method not supported. 
+Migrate user presets to the OrcaCloud user folder if needed.
+Migrating user presets from 
+Migration source: Bambu Cloud user folder: 
+Model details
+Moderate: Add solid infill for heavily sloping surfaces only
+Monitoring individual files for changes is not supported currently.
+Move the objects farther apart, reduce brim/skirt size, switch Skirt type to Combined, or switch Print sequence to By layer.
+Multi-line text literals are not supported
+NEWUOA unconstrained optimization via quadratic models (local, no-derivative)
+NetworkAgent initialized without cloud services
+New version available: %s. Please update Flash Studio from the Microsoft Store.
+No K-series printers found. Make sure the printer is on the same network and not blocked by Wi-Fi client isolation, then click Scan again.
+No existing user presets found to migrate.
+No pad can be generated for this model with the current configuration
+Non-continuous nD arrays are not supported
+None: No solid infill will be added anywhere. Caution: Use this option carefully if your model has sloped surfaces
+Not enough free disk space for download: %llu needed but only %llu available.
+Not recognizing known sRGB profile that has been edited
+Not supported escape character
+Note that this method will try to find the best surface of the object for touching the print bed if no elevation is set.
+Note: If set to 0, normal supports use the Threshold overlap instead, while tree supports fall back to a default value of 30.
+Note: When this option is enabled, overhang perimeters are treated like overhangs, meaning the overhang speed is applied even if the overhanging perimeter is part of a bridge.
+Nullptr to aiMaterial found.
+ORCA : Update thread syncing bundles
+OSMesa: Forward-compatible contexts not supported
+Objects(%1%) have duplicated connectors. Some connectors may be missing in slicing result.
+Only 32f and 64f are supported
+Only collections as YAML streams are supported by this parser
+Only continuous nD arrays are supported here
+Only curves with integer coordinates are supported in case of contour slice
+Operation not supported
+Optimize object rotation to have minimum amount of overhangs needing support structures.
+Optional non-extruded spacing between adjacent pointillisme segments. Increase carefully to improve separation and print quality.
+Orca has detected that your user presets synchronization function is not enabled, which may result in unsuccessful Filament settings on the Device page.
+Orca will automatically cap the acceleration speed to ensure it doesn't surpass the printer's capabilities.
+Orca will automatically cap the travel acceleration speed to ensure it doesn't surpass the printer's capabilities.
+OrcaCloud already has 
+OrcaCloud has no presets for user 
+OrcaCloudServiceAgent: cannot derive key for user secret file storage
+OrcaCloudServiceAgent: cannot open user secret file for write - 
+OrcaCloudServiceAgent: failed to atomically replace user secret file
+OrcaCloudServiceAgent: failed to encrypt user secret for file storage
+OrcaCloudServiceAgent: secret does not contain valid user session, force re-authentication
+OrcaCloudServiceAgent: user secret integrity check failed (HMAC mismatch)
+OrcaSliced Combo
+PCX: image format unsupported
+POSIX collating elements are not supported
+POSIX named classes are supported only within a class
+Parent region exceeds children count. Bailout
+Per-object skirts cannot fit between the objects in By object print sequence.
+Please install it manually from https://developer.microsoft.com/microsoft-edge/webview2/ and restart Flash Studio.
+Please make sure any instances of Flash Studio are not running
+Please note that nozzle temperature, hot bed temperature, and maximum volumetric speed has a significant impact on printing quality. Please set them carefully.
+Please wait while printing...
+Print Preview Failure
+Print preview...
+Printer information is still loading. Please wait a moment and try again.
+Printer type not found, please select manually.
+Printer type:
+Printing Error
+Printing high-temperature and low-temperature materials together may cause nozzle clogging or printer damage.
+Printing high-temperature and medium-temperature materials together may cause nozzle clogging or printer damage.
+Printing medium-temperature and low-temperature materials together may cause nozzle clogging or printer damage.
+Printing page %d
+Printing page %d of %d
+Printing unusually long amount of text.
+Protocol family not supported
+Protocol is unsupported
+Protocol option is unsupported
+Pull downloads the cloud copy. Force push overwrites it with your local preset.
+Pulling Orca Cloud settings to resolve sync conflict.
+Raw mouse motion is not supported on this system
+Read callback asked for PAUSE when not supported!
+Recommended to use with a higher Bridge density or Bridge flow ratio.
+Reducing the internal bridges fan speed, compared to your regular fan speed, can help reduce part warping due to excessive cooling applied over a large surface for a prolonged period of time.
+Refusing changed MD5 for immutable slice i18n version 
+Region location is disabled. Bailout
+Registering custom post-processing step
+Rejecting slice i18n catalog: 
+Relative bridge angle
+Removed from print list
+Renders cast shadows on the plate in realistic view.
+Reshaping of n-dimensional non-continuous matrices is not supported yet
+Resolve cloud sync conflict
+Retrying preset migration after token propagation window.
+RunScriptAsync not supported
+SDK lacks dynamic region switching interfaces
+SOCKS4 connection to %s not supported
+SOCKS5 GSSAPI per-message authentication is not supported.
+SOCKS5 connection to %s not supported
+Scanning the LAN for K-series printers... this takes a few seconds.
+ScenePreprocessor: Adding default material 'DefaultMaterial'
+Search for almost-circular holes that span more than one layer and convert the geometry to polyholes. Use the nozzle size and the (biggest) diameter to compute the polyhole.
+Secure download failed with an unknown error
+Secure download failed, HTTP status 
+Secure download failed: 
+Send Feature Report DeviceIoControl
+SendToPrinterDialog::onSendClicked 
+Sending failed: printer is busy
+Server doesn't support multiplex (yet)
+Server doesn't support multiplex yet, wait
+Show incompatible/unsupported presets in the printer and filament dropdown lists. These presets cannot be selected.
+Show step buttons
+Show unsupported presets
+Signaling end of chunked upload after trailers.
+Signaling end of chunked upload via terminating chunk.
+Simultaneous change of shape and number of channels is not supported. Do it by 2 separate calls
+Slice i18n active and backup manifests disagree for immutable version 
+Slice i18n cache installation failed (attempt 
+Slice i18n latest-version URL is not HTTPS
+Slice i18n latest-version error (attempt 
+Slicing had to be stopped due to an internal error: Inconsistent slice index.
+Smoothing not supported with nonstandard sampling ratios
+Software engine support
+Some features, including the setup wizard, may appear blank until it is installed.
+Some selected printers are no longer ready or compatible with the sliced model and were removed from this task.
+Something is syntactically very wrong with this ASCII STL! 
+Speed of auxiliary part cooling fan. Auxiliary fan will run at this speed during printing except the first several layers which is defined by no cooling layers.
+Split mode %d not supported
+Start WAN cloud job returned no write result
+Status messages are not supported
+Step %zu for dimension %d must be a multiple of esz1 %zu
+Step must be a multiple of esz1
+Step must be positive
+Stopping slice i18n update after repeated MD5 mismatch
+Stopping slice i18n update, HTTP status 
+Support will be generated for overhangs whose slope angle is below the threshold. The smaller this value is, the steeper the overhang that can be printed without support.
+TGA: image format unsupported.
+TOOLS SUPPORT
+Target chamber temperature, and the minimal chamber temperature at which printing should start
+Test FlashForge GitHub
+Test FlashForge GitHub:
+Testing individual bits in negative values is not supported - results are undefined.
+The 3MF is not supported by Flash Studio, loading geometry data only.
+The Default option for Tree supports is Hollow, which means no base pattern. For other support types, the Default option is the Rectilinear pattern.
+The Flash Studio configuration file may be corrupted and cannot be parsed.Flash Studio has attempted to recreate the configuration file.
+The endings of the support pillars will be deployed on the gap between the object and the pad. 'Support base safety distance' has to be greater than the 'Pad object gap' parameter to avoid this.
+The entire document is already downloaded
+The function only supports 32sC1 and 32fC1 datatypes
+The image/matrix format is not supported by the function
+The logical or physical device has been lost
+The maximum value is 100% or the nozzle diameter.
+The minimal chamber temperature (%d
+The printer's material slot information is incomplete. Please refresh the device and try again.
+The project contains an invalid or outdated filament assignment. Please reassign the affected painted area or mixed filament and slice again.
+The requested platform is not supported
+The selected printer has no available material station.
+The selected printer is no longer online. Please reconnect it and try again.
+Theoretically, 100% means a solid bridge, but due to the tendency of bridge extrusions to sag, 100% may not be sufficient.
+There are unprintable objects. Try to adjust support settings to make the objects printable.
+There is an update available. Open the preset bundle dialog to update it.
+There was an unexpected or unidentified preset conflict.
+This factor affects the amount of material for top solid infill. You can decrease it slightly to have smooth surface finish.
+This increases bridge strength and reliability, allowing longer spans, but may worsen appearance.
+This increases internal bridge strength and reliability when printed over sparse infill, but may worsen appearance.
+This is an even more experimental mode and the perceived color may differ from normal dithering for the same filament pair and ratio.
+This is an expert-level setting, incorrect adjustment will likely lead to jams, extruder wheel grinding into filament etc.
+This is deprecated and won't be supported in the future
+This is useful for fans where a low PWM/power may be insufficient to get the fan started spinning from a stop, or to get the fan up to speed faster.
+This is useful when printing with Outer/Inner or Inner/Outer/Inner wall print order as in these modes it is more likely an external perimeter is printed immediately after a de-retraction move.
+This option will be ignored if the G-code flavor is set to Klipper.
+This option works particularly well when combined with the second internal bridge over infill option to improve bridging further before solid infill is extruded.
+This platform does not support background transparency.
+This preset has a newer version in OrcaCloud.
+This section shows information for loaded profiles
+This value governs the thickness of the external (visible) bridge layer.
+This value governs the thickness of the internal bridge layer. This is the first layer over sparse infill so increasing it may increase strength and upper layer quality.
+This will copy your presets so they are available under your new account.
+Top 3 device categories by available device count:
+Tried to evaluate the frustum transform at the singular focal point (e.g. camera)
+UTF-16 XML encoding is not supported! Use 8-bit encoding
+UV index mismatch. Not all meshes assigned to this material have equal numbers of UV channels. The UV index stored in  the material structure does therefore not apply for all meshes. 
+UV transformations on 3D mapping channels are not supported
+Unable to claim slice i18n update: 
+Unable to clean obsolete slice i18n catalogs: 
+Unable to create slice i18n cache directory: 
+Unable to dequeue completion packet
+Unable to install slice i18n cache: 
+Unable to load locked slice i18n cache: 
+Unable to log in to the Flashforge printer.
+Unable to preserve previous slice i18n manifest: 
+Unable to process slice i18n version: 
+Unable to read filament information from the selected printer.
+Unable to remove custom post-processing step: I can't find you ..
+Unable to remove obsolete slice i18n catalog 
+Unable to replace slice i18n cache file 
+Unable to write slice i18n cache file 
+Unknown / unsupported color conversion code
+Unknown XInput Device
+Unknown plane-point orientation
+Unknown/unsupported adaptive threshold method
+Unknown/unsupported array type
+Unknown/unsupported border type
+Unknown/unsupported color conversion code
+Unknown/unsupported norm type
+Unknown/unsupported threshold type
+Unrecognized or unsupported array type
+Unregistering custom post-processing step
+Unsupported HTTP version in response
+Unsupported RotationMode: SphericXYZ
+Unsupported YAML version (it must be 1.x)
+Unsupported color conversion request
+Unsupported combination of input and output array formats
+Unsupported depth of input image
+Unsupported encoding method.
+Unsupported extension feature
+Unsupported file storage format
+Unsupported format or combination of formats
+Unsupported frame parameter
+Unsupported geometry type.
+Unsupported input depth
+Unsupported marker type 0x%02x
+Unsupported matrix type.
+Unsupported max Symbol Value : too large
+Unsupported parameter
+Unsupported placeholder used in pattern for file scanning
+Unsupported protocol
+Unsupported proxy scheme for '%s'
+Unsupported proxy syntax in '%s'
+Unsupported sequence type
+Unsupported type
+Update built-in presets automatically.
+Upload failed (at start/before it took off)
+Uploaded unaligned file size (%I64d out of %I64d bytes)
+Uploading to a URL without a file name!
+Use 3MF instead of G-code
+Use child windows to begin into a self-contained independent scrolling/clipping regions within a host window.
+Use either absolute mm values (eg. 0.32mm for a 0.4mm nozzle) or % values (eg 80%). This value must not be larger than the nozzle diameter.
+User declined preset migration.
+User preset migration completed successfully.
+Valid session not detected. Proceed with login to 3DPrinterOS?
+Value 'null' is not supported by this parser
+Values above 1.0: Increase the amount of material while maintaining line spacing. This can improve line contact and strength.
+Values below 1.0: Reduce the amount of material while adjusting line spacing to maintain contact. This can improve sagging.
+Vector of minimal chamber temperatures for each extruder/filament.
+Vectors with element size %d are not supported. Please, modify OutputArray::create()
+Verifying downloaded file
+Version not supported
+Version not supported. 
+Warning: thumbnail image size does not match data length %u
+We are completely uploaded and fine
+We will preprocess the image, including but not limited to removing the background, reducing complexity, and enhancing colors, to ensure higher-quality model generation results
+When enabled, directions rotate with the model to maintain optimal strength characteristics.
+When enabled, dithering Z step size is applied only where mixed filament is painted. Unpainted zones keep their original layer height.
+When enabled, the bridge angle values are added to the automatically calculated bridge direction instead of overriding it.
+Winsock version not supported
+Write callback asked for PAUSE when not supported!
+You are currently in Stealth Mode. To log into your FlashForge account, you need to disable Stealth Mode first.

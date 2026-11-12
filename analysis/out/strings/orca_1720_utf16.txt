@@ -1,0 +1,1789 @@
+000000000000
+Following DLLs have been injected into the Orca-Flashforge process:
+Orca-Flashforge is known to not run correctly with these DLLs injected. We suggest stopping or uninstalling these services if you experience crashes or unexpected behaviour while using Orca-Flashforge.
+For example, ASUS Sonic Studio injects a Nahimic driver, which makes Orca-Flashforge to crash on a secondary monitor
+Warning
+:AM:am:PM:pm
+ '.6>GPZdoz
+(4BP_p
+xdigit
+Kernel32.dll
+NahimicOSD.dll
+SS2OSD.dll
+amhook.dll
+AMHook.dll
+Software\Microsoft\Windows NT\CurrentVersion\Fonts
+\\Fonts\
+ (TrueType)
+Flash Studio 2.4.2 Build e971fe538c
+Current User:%s
+BaseAddress:	Size:	Name	Path	SymbolPath	Version
+%08x	%d	%s	%s	%s	%s
+Show CallStack:
+Logical Address:
+0x%X 0x%X:0x%X %s
+0x%X Unknown
+Exception Code :%08x 
+ACCESS_VIOLATION
+DATATYPE_MISALIGNMENT
+BREAKPOINT
+SINGLE_STEP
+ARRAY_BOUNDS_EXCEEDED
+FLT_DENORMAL_OPERAND
+FLT_DIVIDE_BY_ZERO
+FLT_INEXACT_RESULT
+FLT_INVALID_OPERATION
+FLT_OVERFLOW
+STACK_CHECK
+INT_DIVIDE_BY_ZERO
+INVALID_HANDLE
+PRIV_INSTRUCTION
+IN_PAGE_ERROR
+ILLEGAL_INSTRUCTION
+NONCONTINUABLE_EXCEPTION
+STACK_OVERFLOW
+INVALID_DISPOSITION
+FLT_UNDERFLOW
+INT_OVERFLOW
+NTDLL.DLL
+Registers:
+RAX:%016llX
+RBX:%016llX
+RCX:%016llX
+RDX:%016llX
+RSI:%016llX
+RDI:%016llX
+R8:%016llX
+R9:%016llX
+R10:%016llX
+R11:%016llX
+R12:%016llX
+R13:%016llX
+R14:%016llX
+R15:%016llX
+CS:RIP:%04X:%016llX
+SS:RSP:%04X:%016llX  RBP:%016llX
+DS:%04X  ES:%04X  FS:%04X  GS:%04X
+Flags:%08X
+Exceptions:
+Exception Flag :0x%x 
+NumberParameters :%ld 
+Param %d :0x%x 
+Context :%p 
+ContextFlag : 0x%x, EFlags: 0x%x 
+Fault address:  0x%X 0x%X:0x%X %s
+GLCanvas
+Pressure Advance Test
+Orca YOLO Flow Calibration
+ - Perfectionist version
+Flowrate Test - Pass%d
+fNozzle temperature test
+Max volumetric speed test
+Retraction
+VFA test
+Input shaping Frequency test
+Input shaping Damping test
+Cornering test
+_NT_SYMBOL_PATH
+_NT_ALTERNATE_SYMBOL_PATH
+SYSTEMROOT
+\system32
+SYSTEMDRIVE
+\websymbols
+*http://msdl.microsoft.com/download/symbols;
+SRV*c:\websymbols*http://msdl.microsoft.com/download/symbols;
+kernel32.dll
+tlhelp32.dll
+psapi.dll
+%d.%d.%d.%d
+%08llx:%s [%s][%ld]
+explorer
+explorer /select,
+g Orca.Slicer.1
+Software\Classes
+orcaslicer
+orcaflashforge
+ Orca.Flashforge.1
+Orca-Flashforge
+\Shell\Open\Command
+" "%1"
+Software\Classes\
+ImageTransientPopup
+ms-windows-store://pdp/?PFN=
+wUser32.dll
+Shcore.dll
+string
+DataViewBitmapText
+DataViewBitmap
+htmlWindow
+%Y-%m-%d
+%H:%M:%S
+user32.dll
+data:image/png;base64,
+project_name
+param_layer_height
+param_line_width
+param_seam
+param_precision
+param_ironing
+param_advanced
+param_wall_generator
+param_wall_surface
+nparam_bridge
+param_overhang
+param_wall
+param_shell
+param_infill
+param_speed_first
+param_speed
+param_overhang_speed
+param_travel_speed
+param_acceleration
+param_junction_deviation
+param_jerk
+param_support
+sparam_raft
+param_support_filament
+param_support_tree
+param_tower
+param_filament_for_features
+rparam_ooze_prevention
+param_flush
+tadvanced
+param_skirt
+param_adhension
+param_special
+fuzzy_skin
+param_gcode
+param_retraction
+param_information
+param_flow_ratio_and_pressure_advance
+param_chamber_temp
+param_extruder_temp
+param_bed_temp
+param_volumetric_speed
+gparam_cooling_specific_layer
+param_cooling_part_fan
+param_cooling_aux_fan
+param_cooling_exhaust
+param_position
+param_extruder_lift_enforcement
+param_retraction_material_change
+%s: %s
+MyLabel
+Bambu Lab 
+wxWindowNR
+Instance_Hash_Minor
+Instance_Hash_Major
+ObjectTablePanel
+double
+choice
+wxSpinCtrlDouble
+wxSpinCtrl
+https://connect.prusa3d.com
+https://app.obico.io
+Too large layer height.
+Reset to %0.3f.
+ /silent /install
+Failed to find suitable filename. Last name: %1%.
+sequence_id
+get_recent_projects
+command
+response
+^1[3456789]\d{9}$
+ (%s)|%s
+e:  %d
+ %d/%d
+https://wiki.bambulab.com/%s/filament-acc/filament/h2d-filament-config-limit
+prusaslicer
+bambustudio
+https://wiki.bambulab.com/en/software/bambu-studio/failed-to-get-network-plugin
+%%%02X
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+DisplayVersion
+ReleaseId
+ntdll.dll
+)explorer.exe 
+?TxtData:
+Local\OrcaTokenRefresh_
+SOFTWARE\Microsoft\Cryptography
+MachineGuid
+UseImmersiveDarkModeColors
+ImmersiveColorSet
+ScrollBar
+Explorer::ScrollBar
+Explorer::Menu
+comctl32.dll
+uxtheme.dll
+DarkMode_Explorer
+ItemsView
+Explorer
+Button
+msctls_updown32
+splitter
+https://www.orcaslicer.com/wiki/%s
+resolve
+complete
+set_complete_off
+complete_with_warning
+#+3;CScs
+https://wiki.bambulab.com/en/software/bambu-studio/failed-to-connect-printer
+Supported range: 170%s - 500%s
+Error desc
+Extra info
+kLoading
+Ntdll.dll
+d\cameratools\
+bambu_source.exe
+ffmpeg.exe
+ffmpeg.cfg
+bambu:///camera/
+\plugins\
+BambuSource.dll
+live555.dll
+bambu_stream_url
+No Device
+HarmonyOS Sans SC
+mediaCtrl
+/q /s 
+regedit
+regsvr32
+SOFTWARE\Classes\CLSID\{233E64FB-2041-4A6C-AFAB-FF9BCF83E7AA}\InProcServer32
+CLSID\{233E64FB-2041-4A6C-AFAB-FF9BCF83E7AA}\InProcServer32
+{233E64FB-2041-4A6C-AFAB-FF9BCF83E7AA}
+CameraPopup
+https://wiki.bambulab.com/%s/software/bambu-studio/virtual-camera
+        
+@@@@@@@
+ydQ@1$
+$1@Qdy
+                
+&@@@@@@@@@@@@@@@
+*+,-./012345
+ !"#$%&'()*
+!$'*-0369<?"%(+.147:=
+@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@
+llHl$ll
+uuNu'uu
+llHl$ll
+iiFi#ii
+llHl$ll
+llHl$ll
+iiFi#ii
+llHl$ll
+llHl$ll
+iiFi#ii
+llHl$ll
+llHl$ll
+iiFi#ii
+xZx<xxx
+xZx<xxx
+tWt:ttt
+tWt:ttt
+tWt:ttt
+tWt:ttt
+@@@@@@@@
+llHl$ll
+llHl$ll
+iiFi#ii
+llHl$ll
+uuNu'uu
+llHl$ll
+iiFi#ii
+llHl$ll
+llHl$ll
+iiFi#ii
+llHl$ll
+~~T~*~~
+llHl$ll
+iiFi#ii
+tWt:ttt
+tWt:ttt
+tWt:ttt
+hNh4hhh
+hNh4hhh
+hNh4hhh
+tWt:ttt
+tWt:ttt
+tWt:ttt
+hNh4hhh
+hNh4hhh
+hNh4hhh
+tWt:ttt
+tWt:ttt
+tWt:ttt
+hNh4hhh
+hNh4hhh
+hNh4hhh
+tWt:ttt
+tWt:ttt
+tWt:ttt
+hNh4hhh
+hNh4hhh
+hNh4hhh
+xxPx(xx
+~~T~*~~
+uuNu'uu
+llHl$ll
+xxPx(xx
+~~T~*~~
+uuNu'uu
+llHl$ll
+xxPx(xx
+~~T~*~~
+uuNu'uu
+llHl$ll
+xxPx(xx
+~~T~*~~
+uuNu'uu
+llHl$ll
+xxPx(xx
+uuNu'uu
+llHl$ll
+xxPx(xx
+uuNu'uu
+llHl$ll
+xxPx(xx
+uuNu'uu
+llHl$ll
+xxPx(xx
+uuNu'uu
+llHl$ll
+#+3;CScs
+warning
+%5N.log
+%Y%m%d
+%Y-%m-%d
+second
+fourth
+before
+not-a-date-time
+-infinity
++infinity
+%H:%M:%S
+%Y%m%dT%H%M%S%F%q
+%Y-%m-%d %H:%M:%S%F%Q
+%Y-%b-%d %H:%M:%S%F %z
+%O:%M:%S%F
+%Y%m%d
+%H%M%S
+%H:%M:%S.%f
+LOCALAPPDATA
+USERPROFILE
+0123456789abcdef
+MM/dd/yy
+hh:mm:ss tt
+HH:mm:ss
+AZaz !
+WebRequestModule
+wxURLModule
+HTTP_PROXY
+wxSocketModule
+WINHTTP
+wxSockAddress
+wxIPaddress
+wxIPV4address
+wxIPV6address
+0:0:0:0:0:0:0:1
+::ffff:127.0.0.1
+xwxSocketBase
+wxSocketServer
+wxSocketClient
+wxDatagramSocket
+wxSocketEvent
+wxHTTP
+Content-Type
+Basic 
+Content-Length
+User-Agent
+wxWidgets 3.3.2
+Authorization
+%s %s HTTP/1.0
+none/none
+wxFileProto
+anonymous
+USER %s
+PASS %s
+%d,%d,%d,%d,%d,%d
+%*s %*s %*s %*s %i %*s %*s %*s %*s
+%*s %*s %i %*s
+_wxSocket_Internal_Window_Class
+wxProtoInfo
+wxProtocol
+wxAuiManagerEvent
+wxAuiManager
+mdiclient
+%08lx%08x%08x%08lx
+caption=
+state=%u;
+dir=%d;
+layer=%d;
+row=%d;
+pos=%d;
+prop=%d;
+bestw=%d;
+besth=%d;
+minw=%d;
+minh=%d;
+maxw=%d;
+maxh=%d;
+floatx=%d;
+floaty=%d;
+floatw=%d;
+floath=%d;
+floatw_cli=%d;
+floath_cli=%d
+caption
+floatx
+floaty
+floatw
+floath
+floatw_cli
+floath_cli
+layout3|
+dock_size(%d,%d,%d)=%d|
+layout2
+layout3
+dock_size
+__HINT__
+wxAuiFloatingFrame
+wxAuiToolBar
+wxAuiToolBarEvent
+ABCDHgj
+Toolbar
+ABCDEFHXfgkj
+wxAuiNotebook
+wxAuiTabCtrl
+wxAuiNotebookEvent
+wxAuiMDIClientWindow
+wxAuiMDIParentFrame
+wxAuiMDIChildFrame
+ABCDEFXj
+ABCDEFGHIj
+wxHtmlFilter
+wxHtmlFilterPlainText
+wxHtmlFilterImage
+wxHtmlFilterHTML
+wxHtmlFilterModule
+</PRE></BODY></HTML>
+<HTML><BODY><PRE>
+image/
+"></BODY></HTML>
+<HTML><BODY><IMG SRC="
+text/html
+; charset=
+wxHtmlWinModule
+wxHtmlLinkEvent
+wxHtmlCellEvent
+wxHtmlProcessor
+wxHtmlWindow
+<html><body></body></html>
+wxHtmlWindow/Borders
+wxHtmlWindow/FontFaceFixed
+wxHtmlWindow/FontFaceNormal
+wxHtmlWindow/FontsSize%i
+htmldebug
+wxHtmlParser
+wxHtmlTagHandler
+wxHtmlEntitiesParser
+Aacute
+Agrave
+Atilde
+Ccedil
+Dagger
+Eacute
+Egrave
+Epsilon
+Iacute
+Igrave
+Lambda
+Ntilde
+Oacute
+Ograve
+Omicron
+Oslash
+Otilde
+Scaron
+Uacute
+Ugrave
+Upsilon
+Yacute
+aacute
+agrave
+alefsym
+atilde
+brvbar
+ccedil
+curren
+dagger
+divide
+eacute
+egrave
+epsilon
+forall
+frac12
+frac14
+frac34
+hearts
+hellip
+iacute
+igrave
+iquest
+lambda
+lfloor
+lowast
+lsaquo
+middot
+ntilde
+oacute
+ograve
+omicron
+oslash
+otilde
+otimes
+permil
+plusmn
+rfloor
+rsaquo
+scaron
+sigmaf
+spades
+there4
+thetasym
+thinsp
+uacute
+ugrave
+upsilon
+weierp
+yacute
+META,BODY
+charset
+HTTP-EQUIV
+CONTENT
+text/html; charset=
+wxHtmlCell
+wxHtmlWordCell
+wxHtmlContainerCell
+wxHtmlColourCell
+wxHtmlFontCell
+wxHtmlWidgetCell
+CENTER
+JUSTIFY
+wxHtmlWinParser
+wxHtmlWinTagHandler
+wxHtmlTagsModule
+background-color
+font-size
+font-weight
+normal
+font-style
+oblique
+italic
+text-decoration
+underline
+font-family
+wxHTML_ModuleLayout
+PAGE-BREAK-BEFORE:ALWAYS
+PAGE-BREAK-INSIDE:AVOID
+BACKGROUND
+BGCOLOR
+BLOCKQUOTE
+SUB,SUP
+SCRIPT
+wxHTML_ModuleFonts
+U,STRIKE,DEL
+B,STRONG
+I,EM,CITE,ADDRESS
+TT,CODE,KBD,SAMP
+H1,H2,H3,H4,H5,H6
+BIG,SMALL
+wxHTML_ModuleImage
+IMG,MAP,AREA
+HEIGHT
+TEXTTOP
+ABSCENTER
+USEMAP
+CIRCLE
+COORDS
+TARGET
+wxHTML_ModuleList
+OL,UL,LI
+wxHTML_ModuleDefinitionList
+DL,DT,DD
+wxHTML_ModulePre
+wxHTML_ModuleHLine
+NOSHADE
+wxHTML_ModuleLinks
+wxHTML_ModuleTables
+VALIGN
+CELLSPACING
+CELLPADDING
+BORDER
+COLSPAN
+ROWSPAN
+BOTTOM
+NOWRAP
+TABLE,TR,TD,TH
+wxHTML_ModuleSpans
+wxHTML_ModuleStyleTag
+silver
+maroon
+purple
+fuchsia
+yellow
+wxWebView
+wxWebViewEvent
+wxWebViewEdgeModule
+wxWebViewEdge
+140.0.3485.44
+wxMediaCtrl
+wxMediaBackend
+wxMediaEvent
+wxAMMediaBackend
+wxWMP10MediaBackend
+Could not obtain settings from WMP10!
+Could not obtain controls from WMP10!
+FileSize
+wxGLContext
+wxGLCanvas
+wxGLApp
+wxGDIObject
+wxBMPFileHandler
+wxBMPResourceHandler
+wxICOFileHandler
+wxICOResourceHandler
+wxPNGResourceHandler
+Windows bitmap file
+Windows bitmap resource
+ICO icon file
+ICO resource
+Windows PNG resource
+Can't load bitmap '%s' from resources! Check .rc file.
+Failed to load icon from the file '%s'
+wxICON_QUESTION
+wxICON_WARNING
+wxICON_ERROR
+wxICON_INFORMATION
+Bitmap in PNG format "%s" not found, check that the resource file contains "RCDATA" resource with this name.
+Couldn't load resource bitmap "%s" as a PNG. Have you registered PNG image handler?
+wxImage
+wxImageHandler
+wxImageModule
+image/x-bmp
+HotSpotX
+HotSpotY
+FileName
+MaxWidth
+MaxHeight
+OriginalWidth
+OriginalHeight
+ResolutionX
+ResolutionY
+Resolution
+ResolutionUnit
+wxBitmap
+wxMask
+wxBitmapHandler
+wxDCFactoryCleanupModule
+wxWindowDC
+wxClientDC
+wxMemoryDC
+wxPaintDC
+wxScreenDC
+wxPrinterDC
+wxDCImpl
+wxWidgets information
+wxCursor
+unknown cursor resource type '%d'
+WXCURSOR_RIGHT_ARROW
+WXCURSOR_BULLSEYE
+WXCURSOR_MAGNIFIER
+WXCURSOR_PBRUSH
+WXCURSOR_PENCIL
+WXCURSOR_PLEFT
+WXCURSOR_PRIGHT
+WXCURSOR_BLANK
+WXCURSOR_HAND
+wxCommandEvent
+wxNotifyEvent
+wxScrollEvent
+wxScrollWinEvent
+wxMouseEvent
+wxKeyEvent
+wxSizeEvent
+wxPaintEvent
+wxNcPaintEvent
+wxEraseEvent
+wxMoveEvent
+wxFocusEvent
+wxChildFocusEvent
+wxCloseEvent
+wxShowEvent
+wxMaximizeEvent
+wxIconizeEvent
+wxFullScreenEvent
+wxMenuEvent
+wxJoystickEvent
+wxDropFilesEvent
+wxActivateEvent
+wxInitDialogEvent
+wxSetCursorEvent
+wxSysColourChangedEvent
+wxSysMetricChangedEvent
+wxDisplayChangedEvent
+wxDPIChangedEvent
+wxUpdateUIEvent
+wxNavigationKeyEvent
+wxPaletteChangedEvent
+wxQueryNewPaletteEvent
+wxWindowCreateEvent
+wxWindowDestroyEvent
+wxHelpEvent
+wxContextMenuEvent
+wxMouseCaptureChangedEvent
+wxMouseCaptureLostEvent
+wxClipboardTextEvent
+wxMultiTouchEvent
+wxGestureEvent
+wxPanGestureEvent
+wxZoomGestureEvent
+wxRotateGestureEvent
+wxTwoFingerTapEvent
+wxLongPressEvent
+wxPressAndTapEvent
+wxIcon
+wxColour
+( %d , %d , %d , %
+[^)] )
+( %d , %d , %d )
+rgb(%d, %d, %d)
+rgba(%d, %d, %d, %s)
+#%02X%02X%02X
+#%02X%02X%02X%02X
+rgb(??, ??, ??)
+#??????
+wxFont
+%s-%d-%s-%.2f-%d
+underlined
+strikethrough
+underlinedstrikethrough
+extralight
+medium
+semibold
+extrabold
+extraheavy
+wxPrivateFontsListModule
+%d;%s;%ld;%ld;%ld;%ld;%ld;%d;%d;%d;%d;%d;%d;%d;%d;%s
+wxWindowBase
+wxWindow
+window-default-variant
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+wxIdleWakeUpModule
+wxTLWHiddenParent
+msw.window.no-clip-children
+wxBITMAP_STD_COLOURS
+_TrackMouseEvent
+BUTTON
+Have not yet implemented bitmap button as BS_BITMAP button.
+Don't know what kind of button this is: id = %ld
+COMBOBOX
+LISTBOX
+SCROLLBAR
+MSCTLS_UPDOWN32
+MSCTLS_TRACKBAR32
+STATIC
+Please make SS_BITMAP statics into owner-draw buttons.
+Don't know how to convert from Windows class 
+l      
+wxControl
+wxODButtonImageData
+wxXPButtonImageData
+wxButton
+wxBrush
+wxControlWithItems
+wxChoice
+wxComboBox
+wxComboCtrlBase
+wxCheckBox
+wxSizerItem
+wxSizer
+wxGridSizer
+wxFlexGridSizer
+wxBoxSizer
+wxStaticBoxSizer
+wxStdDialogButtonSizer
+wxPickerBase
+wxTopLevelWindow
+wxTLWHiddenParentModule
+Can't create dialog using memory template
+wxDialog
+wxWindowModalDialogEvent
+wxDialogLayoutAdapter
+wxStandardDialogLayoutAdapter
+wxDialogLayoutAdapterModule
+wxPanel
+wxScrolledWindow
+wxMSWDCImpl
+wxDCModule
+wxBufferedDC
+wxBufferedPaintDC
+wxSharedDCBufferManager
+wxDisplayModule
+wxFileDialogBase
+wxFileDialog
+wxDirDialog
+wxGenericFileButton
+wxGenericDirButton
+wxFileDirPickerEvent
+wxFilePickerCtrl
+wxDirPickerCtrl
+wxFrame
+TaskbarButtonCreated
+wxMenu
+wxMenuBar
+wxMenuItem
+DarkMode_ImmersiveStart::Menu;Menu
+LightMode_ImmersiveStart::Menu;Menu
+wxNumberEntryDialog
+wxStaticBitmap
+wxStaticBox
+msw.staticbox.optimized-paint
+msw.staticbox.htclient
+wxStaticText
+wxRadioButton
+wxPopupWindow
+wxPopupTransientWindow
+wxArtProvider
+wxArtProviderModule
+wxValidator
+wxNotebook
+wxGenericDirCtrl
+0x%04lx
+0x%08lx
+wxBitmapToggleButton
+wxToggleButton
+xwxListBox
+DISPLAY
+wxCheckListBox
+wxOleInitModule
+wxICON_AAA
+DllGetVersion
+InitCommonControlsEx
+InitializeFlatSB
+Unhandled exception
+An unhandled exception occurred. Press "Abort" to terminate the program,
+"Retry" to exit the program normally and "Ignore" to try to continue.
+wxDarkModeModule
+dwmapi.dll
+DarkMode_ImmersiveStart::Menu;DarkMode::Menu;MENU
+LightMode_ImmersiveStart::Menu;MENU
+Windows icon file
+image/x-ico
+Windows cursor file
+image/x-cur
+Windows animated cursor file
+image/x-ani
+image/png
+PNG file
+image/gif
+GIF file
+image/pcx
+PCX file
+image/jpeg
+JPEG file
+image/tga
+TGA file
+image/pnm
+PNM file
+image/xpm
+XPM file
+image/webp
+WebP file
+image/x-iff
+IFF file
+wxSystemSettingsModule
+wxDataViewCtrl
+wxDataViewRenderer
+wxDataViewCustomRenderer
+wxDataViewTextRenderer
+wxDataViewBitmapRenderer
+wxDataViewToggleRenderer
+wxDataViewProgressRenderer
+wxDataViewIconTextRenderer
+wxDataViewMainWindow
+wxBitmapBundle
+wxDataView
+wxdataviewctrlmainwindow
+wxSingleChoiceDialog
+wxMultiChoiceDialog
+wxSplashScreen
+wxBitmapComboBox
+wxColourDialogEvent
+wxColourData
+wxColourDialog
+wxDataViewIconText
+wxDataViewCheckIconText
+wxDataViewRendererBase
+wxDataViewCtrlBase
+wxDataViewEvent
+wxDataViewCheckIconTextRenderer
+wxDataViewListCtrl
+wxDataViewTreeCtrl
+datetime
+datectrl
+DarkMode::Menu
+DARKMODE::MENU
+wxGCDC
+wxGCDCImpl
+wxTextCtrl
+wxTextUrlEvent
+wxTextCtrlBase
+wxRichEditModule
+RICHEDIT50W
+RichEdit20W
+RICHEDIT
+RichEdit%d0%c
+riched32
+riched20
+msftedit
+HTML Format
+UniformResourceLocator
+wxCreateRenderer
+EXPLORER
+ewxWidgets
+ewxBitmapButton
+wxBookCtrlBase
+wxBookCtrlEvent
+Message
+Log message
+log.txt
+wxToolTipModule
+wxToolTip
+tooltips_class32
+wxFileHistory
+file%d
+wxTextValidator
+wxGenericColourButton
+wxColourPickerCtrl
+wxColourPickerEvent
+msctls_trackbar32
+wxSlider
+wxImageList
+wxGraphicsObject
+wxGraphicsPen
+wxGraphicsBrush
+wxGraphicsFont
+wxGraphicsBitmap
+wxGraphicsMatrix
+wxGraphicsPath
+wxGraphicsContext
+wxGraphicsRenderer
+wxGauge
+msctls_progress32
+wxStaticLine
+wxGridCellEditorEvtHandler
+wxGridTableBase
+wxGridStringTable
+wxGridEvent
+wxGridSizeEvent
+wxGridRangeSelectEvent
+wxGridEditorCreatedEvent
+wxClipboardEvent
+wxClipboardModule
+%%%d.%d
+wxGrid
+wxSpinButton
+wxSpinEvent
+wxSpinDoubleEvent
+wxWrapSizer
+WWW_OpenURL
+\shell\open
+http\shell\open
+DDEExec
+application
+Winlogon
+wxComboCtrl
+Software\Policies\Microsoft\Control Panel
+Software\Policies\Microsoft\Windows\Control Panel
+Control Panel\Desktop
+UserPreferencesMask
+wxOwnerDrawnComboBox
+wxGDIPlusRenderer
+wxGDIPlusRendererModule
+wxGenericCollapsiblePane
+wxCollapsiblePaneEvent
+wxCollapsiblePanePane
+wxWindowDCImpl
+wxClientDCImpl
+wxPaintDCImpl
+wxPaintDCEx
+wxSplitterWindow
+wxSplitterEvent
+wxFontEnumCacheCleanupModule
+Ms Shell Dlg
+Ms Shell Dlg 2
+wxRegion
+wxRegionIterator
+wxSearchCtrl
+wxListCtrl
+wxListView
+wxListItem
+wxListEvent
+Header
+SysListView32
+wxDragImage
+Drag & drop operation failed.
+wxGBSizerItem
+wxGridBagSizer
+Transparency
+Highlight
+Unchanged
+GifComment
+wxMDIParentFrame
+wxMDIChildFrame
+wxMDIClientWindow
+wxMDIFrame
+MDICLIENT
+wxMiniFrame
+wxIconBundle
+wxStatusBar
+wxActiveXContainer
+currency
+errorcode
+safearray
+SAFEARRAY: %p
+longlong
+ulonglong
+arrstring
+wxAutomationObject::ConvertOleToVariant: [as yet] unhandled reference %X
+wxAutomationObject::ConvertOleToVariant: Unknown variant value type %X -> %X
+wxPalette
+wxBMPHandler
+wxICOHandler
+wxCURHandler
+wxANIHandler
+wxBMP_FORMAT
+wxPrintData
+wxPrintDialogData
+wxPageSetupDialogData
+wxPrintNativeDataBase
+wxPrintFactoryModule
+wxPrinterBase
+wxPrinter
+wxPrintDialogBase
+wxPrintDialog
+wxPageSetupDialogBase
+wxPageSetupDialog
+wxPrintout
+wxPreviewCanvas
+wxPreviewControlBar
+wxPreviewFrame
+wxPrintPreviewBase
+wxPrintPreview
+dialog
+canvas
+wxMemoryDCImpl
+wxScreenDCImpl
+wxMessageDialog
+wxPasswordEntryDialog
+wxTextEntryDialog
+Encodings
+Charsets
+wxAcceleratorTable
+wxIndividualLayoutConstraint
+wxLayoutConstraints
+wxToolBar
+ToolbarWindow32
+msw.remap
+wxContextHelp
+wxContextHelpButton
+wxHelpProviderModule
+wxPowerEvent
+wxWindowsPrintNativeData
+wxWindowsPrintDialog
+wxWindowsPageSetupDialog
+wxScrollBar
+wxNAVDIR_DOWN
+wxNAVDIR_FIRSTCHILD
+wxNAVDIR_LASTCHILD
+wxNAVDIR_LEFT
+wxNAVDIR_NEXT
+wxNAVDIR_PREVIOUS
+wxNAVDIR_RIGHT
+wxNAVDIR_UP
+Number of children was %d
+wxDisplayHiddenWindow
+msctls_statusbar32
+Status
+ExplorerStatusBar
+rwxToolBarToolBase
+wxStatusBarGeneric
+wxThumbBarButton
+shlwapi.dll
+SHStrDupW
+Frequent
+Recent
+wxGenericStaticText
+SysTabControl32
+_wx_SysTabCtl32
+msw.notebook.themed-background
+Can't create the notebook page '%s'.
+wxDirFilterListCtrl
+wxFileIconsTableModule
+application/x-executable
+wxPNGHandler
+PngDescription
+PngFormat
+PngBitDepth
+wxGIFHandler
+wxPCXHandler
+wxJPEGHandler
+quality
+gwxTGAHandler
+TGA: this is not a TGA file.
+TGA: image format unsupported.
+TGA: couldn't allocate memory.
+TGA: couldn't read image data.
+TGA: unknown error!
+TGA: couldn't write image data.
+wxPNMHandler
+wxXPMHandler
+/* XPM */
+static const char *
+/* XPM */
+static const char *xpm_data
+wxWEBPHandler
+WebPFormat
+WebPQuality
+wxIFFHandler
+wxHeaderCtrlEvent
+wxGenericRendererModule
+SysHeader32
+SysDateTimePick32
+wxDatePickerCtrl
+DarkMode_CFD::COMBOBOX
+Explorer::HEADER
+TREEVIEW
+DarkMode::MENU
+WINDOW
+TASKDIALOG
+DarkMode::LISTVIEW
+EXPLORER::LISTVIEW;LISTVIEW
+DarkMode_CFD::Combobox
+PROGRESS
+wxEnhMetaFile
+wxEnhMetaFileDC
+wxClipboard
+wxVListBox
+wxXRCPreviewVListBox
+wxVScrolledWindow
+wxVScrolledCanvas
+wxHScrolledWindow
+wxHVScrolledWindow
+wxQuantize
+wxPrintPaperType
+wxPrintPaperModule
+wxWindowsPrinter
+wxWindowsPrintPreview
+wxPrinterDCImpl
+wxFontData
+wxFontDialog
+wxCHMHelpController
+HHCTRL.OCX
+HtmlHelpW
+TOOLTIP
+wxTreeCtrl
+wxTreeEvent
+SysTreeView32
+wxCalendarCtrl
+wxCalendarEvent
+wxDateEvent
+wxHelpControllerBase
+SysMonthCal32
+_wx_SysMonthCtl32
+\/:"<>|
+\\?\Volume{
+file://
+wxObject
+Apple Mac OS
+Apple Mac OS X
+Unknown
+Microsoft Windows NT
+FreeBSD
+OpenBSD
+NetBSD
+Other Unix
+wxBase
+wxMotif
+wxCocoa
+32 bit
+64 bit
+Big endian
+Little endian
+PDP endian
+Macintosh
+Windows
+/wxUniversal
+little
+wine_get_version
+wxThreadModule
+eFailed to wake up main thread: PostThreadMessage(WM_NULL) failed with error 0x%08lx (%s).
+%s: %s
+Fatal Error
+unknown error 0x%lx
+wxTranslationsModule
+CHARSET
+ws2_32.dll
+WSAStartup
+gethostname
+gethostbyname
+gethostbyaddr
+WSACleanup
+username
+HOMEDRIVE
+HOMEPATH
+COMSPEC
+\COMMAND.COM
+%s /c %s
+SeShutdownPrivilege
+wxEvtHandler
+wxEvent
+wxIdleEvent
+wxThreadEvent
+Mismatch between the program and library build versions detected.
+The library used %s,
+and %s used %s.
+wxTimerEvent
+_wxExecute_Internal_Class
+wxExecuteModule
+WX_DDE#
+wxLocaleModule
+Unknown language %i.
+windows-%u
+wxMemoryInputStream
+wxMemoryOutputStream
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_PERFORMANCE_DATA
+HKEY_CURRENT_CONFIG
+HKEY_DYN_DATA
+EXPAND_SZ
+BINARY
+DWORD_BIG_ENDIAN
+MULTI_SZ
+RESOURCE_LIST
+FULL_RESOURCE_DESCRIPTOR
+RESOURCE_REQUIREMENTS_LIST
+dword:%08x
+WXPREFIX
+D:/CppProject/tmp/orca_flashforge/deps/build/OrcaSlicer_dep/usr/local
+%d.%d.%d
+10:34:11
+Aug 13 2026
+wxWidgets Library (%s port)
+Version %s (Unicode: %s, debug level: %d),
+compiled at %s %s
+Runtime version of toolkit used is %d.%d.%d.
+wxVariant
+wxObject*
+%s(%p)
+Invalid
+wxDateTimeHolidaysModule
+%04d-%02d-%02d
+%02d:%02d:%02d
+%a %b %d %H:%M:%S %Y
+%I:%M:%S %p
+%d/%m/%Y
+%m/%d/%Y
+wxFileSystemHandler
+wxFileSystem
+wxFSFile
+wxFileSystemModule
+filesys.no-mimetypesmanager
+JPEG image (from fallback)
+GIF image (from fallback)
+PNG image (from fallback)
+windows bitmap image (from fallback)
+image/bmp
+HTML document (from fallback)
+wxFileSystemWatcherEvent
+\^$.|?*+()[]{}
+wxStreamBase
+wxInputStream
+wxOutputStream
+wxCountingOutputStream
+wxFilterInputStream
+wxFilterOutputStream
+wxFilterClassFactoryBase
+wxFilterClassFactory
+wxZipEntry
+wxZipClassFactory
+application/zip
+wxAnyValueTypeGlobalsManager
+wxModule
+%Y%m%dT%H%M%S
+wxwindows
+%s_%s_%lu.dmp
+wxConfigBase
+Control Panel\International\User Profile
+Languages
+ISO-8859-1
+ISO8859-1
+iso88591
+8859-1
+iso_8859_1
+ISO-8859-2
+ISO8859-2
+iso88592
+8859-2
+ISO-8859-3
+ISO8859-3
+iso88593
+8859-3
+ISO-8859-4
+ISO8859-4
+iso88594
+8859-4
+ISO-8859-5
+ISO8859-5
+iso88595
+8859-5
+ISO-8859-6
+ISO8859-6
+iso88596
+8859-6
+ISO-8859-7
+ISO8859-7
+iso88597
+8859-7
+ISO-8859-8
+ISO8859-8
+iso88598
+8859-8
+ISO-8859-9
+ISO8859-9
+iso88599
+8859-9
+ISO-8859-10
+ISO8859-10
+iso885910
+8859-10
+ISO-8859-11
+ISO8859-11
+iso885911
+8859-11
+ISO-8859-12
+ISO8859-12
+iso885912
+8859-12
+ISO-8859-13
+ISO8859-13
+iso885913
+8859-13
+ISO-8859-14
+ISO8859-14
+iso885914
+8859-14
+ISO-8859-15
+ISO8859-15
+iso885915
+8859-15
+KOI8-R
+KOI8-RU
+KOI8-U
+WINDOWS-866
+WINDOWS-874
+IBM-874
+WINDOWS-932
+IBM-932
+SHIFT-JIS
+SHIFT_JIS
+WINDOWS-936
+IBM-936
+GB2312
+WINDOWS-949
+IBM-949
+EUC-KR
+euc_kr
+WINDOWS-950
+IBM-950
+BIG-FIVE
+WINDOWS-1250
+CP1250
+MS1250
+IBM-1250
+WINDOWS-1251
+CP1251
+MS1251
+IBM-1251
+WINDOWS-1252
+CP1252
+MS1252
+IBM-1252
+WINDOWS-1253
+CP1253
+MS1253
+IBM-1253
+WINDOWS-1254
+CP1254
+MS1254
+IBM-1254
+WINDOWS-1255
+CP1255
+MS1255
+IBM-1255
+WINDOWS-1256
+CP1256
+MS1256
+IBM-1256
+WINDOWS-1257
+CP1257
+MS1257
+IBM-1257
+WINDOWS-1258
+CP1258
+MS1258
+IBM-1258
+WINDOWS-1361
+CP1361
+MS1361
+IBM-1361
+WINDOWS-437
+IBM-437
+UTF-16BE
+UTF16BE
+UCS-2BE
+UCS2BE
+UTF-16LE
+UTF16LE
+UCS-2LE
+UTF-16
+UTF-32BE
+UTF32BE
+UCS-4BE
+UCS4BE
+UTF-32LE
+UTF32LE
+UCS-4LE
+UCS4LE
+UTF-32
+EUC-JP
+euc_jp
+IBM-eucJP
+US-ASCII
+ANSI_X3.4-1968
+roman8
+ISO-2022-JP
+MacRoman
+MacJapanese
+MacChineseTrad
+MacKorean
+MacArabic
+MacHebrew
+MacGreek
+MacCyrillic
+MacDevanagari
+MacGurmukhi
+MacGujarati
+MacOriya
+MacBengali
+MacTamil
+MacTelugu
+MacKannada
+MacMalayalam
+MacSinhalese
+MacBurmese
+MacKhmer
+MacThai
+MacLaotian
+MacGeorgian
+MacArmenian
+MacChineseSimp
+MacTibetan
+MacMongolian
+MacEthiopic
+MacCentralEurRoman
+MacVietnamese
+MacExtArabic
+MacSymbol
+MacDingbats
+MacTurkish
+MacCroatian
+MacIcelandic
+MacRomanian
+MacCeltic
+MacGaelic
+MacKeyboardGlyphs
+wxFontMapperModule
+/wxWindows/FontMapper
+Aliases
+8859-%u
+WINDOWS
+        
+wxTimerHiddenWindowModule
+rwxTimerHiddenWindow
+.mpr.dll
+WNetOpenEnumW
+WNetEnumResourceW
+WNetCloseEnum
+wxMimeTypeCmnModule
+wxXLocaleModule
+shell32
+wxProcess
+wxProcessEvent
+wxDDEServer
+wxDDEClient
+wxDDEConnection
+wxDDEModule
+Failed to initialize DDE
+Failed to disconnect from DDE server gracefully
+DDE execute request failed
+DDE data request failed
+wxArchiveEntry
+wxArchiveClassFactory
+wxZlibClassFactory
+wxGzipClassFactory
+application/x-deflate
+deflate
+application/gzip
+application/x-gzip
+SymInitialize
+Function SymInitialize() not found.
+SymFromAddr
+Function SymFromAddr() not found.
+SymEnumSymbols
+Function SymEnumSymbols() not found.
+StackWalk64
+Function StackWalk64() not found.
+SymFunctionTableAccess64
+Function SymFunctionTableAccess64() not found.
+SymGetModuleBase64
+Function SymGetModuleBase64() not found.
+SymGetOptions
+Function SymGetOptions() not found.
+SymSetOptions
+Function SymSetOptions() not found.
+SymSetContext
+Function SymSetContext() not found.
+SymGetTypeInfo
+Function SymGetTypeInfo() not found.
+SymCleanup
+Function SymCleanup() not found.
+MiniDumpWriteDump
+Function MiniDumpWriteDump() not found.
+SymGetLineFromAddr
+SymGetLineFromAddr64
+SymGetLineFromAddrW64
+EnumerateLoadedModules
+EnumerateLoadedModules64
+EnumerateLoadedModulesW64
+SymInitializeW
+SymFromAddrW
+SymEnumSymbolsW
+dbghelp.dll
+Please update your dbghelp.dll version, at least version 5.1 is needed!
+(if you already have a new version, please put it in the same directory where the program is.)
+Please install dbghelp.dll available free of charge from Microsoft to get more detailed crash information!
+Latest dbghelp.dll is available at http://www.microsoft.com/whdc/ddk/debugging/
+dbghelp: %s() failed: %s
+Context for crash report generation not available.
+WX_CRASH_FLAGS
+MiniDumpWriteDump() failed.
+ACCESS_VIOLATION
+DATATYPE_MISALIGNMENT
+BREAKPOINT
+SINGLE_STEP
+ARRAY_BOUNDS_EXCEEDED
+FLT_DENORMAL_OPERAND
+FLT_DIVIDE_BY_ZERO
+FLT_INEXACT_RESULT
+FLT_INVALID_OPERATION
+FLT_OVERFLOW
+FLT_STACK_CHECK
+FLT_UNDERFLOW
+INT_DIVIDE_BY_ZERO
+INT_OVERFLOW
+PRIV_INSTRUCTION
+IN_PAGE_ERROR
+ILLEGAL_INSTRUCTION
+NONCONTINUABLE_EXCEPTION
+STACK_OVERFLOW
+INVALID_DISPOSITION
+GUARD_PAGE
+INVALID_HANDLE
+wxRegConfig
+Software\
+User value for immutable key '%s' ignored.
+Can't change immutable entry '%s'.
+wxFileConfig
+@_/-!.*%()
+MIME\Database\Content Type\
+_auto_file
+\shell\
+\command
+\shell
+.System
+Content Type
+Extension
+\DefaultIcon
+wxServerBase
+wxClientBase
+wxConnectionBase
+:;<=>?@
+[\]^_`
+ !"#$%&'()))*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNNOPQRSTUVWXYZ[\]^_`abcdeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeghhhhhhhhijjklmnopqrstuvwxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxyz{|}wxy~
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ !"######$$%%&$$$$$$$'$$$$$$$
+((((()((((((((((((((((((((((((((*+,,,,-+./0123/.4566.7+8.609:::+;;;;;<;;;;;;;;;;;;;;;;;2;;;;;;;=>>>>>?>>>>>>>>>>>>>>>>>2>>>>>>>@ABABABABABABABABABABABABABABABABABABABABABABABACDEABABABFABABABABABABABABGABABABABABABABABABABABABABABABABABABABABABABABHABABABIJKABABLABMMABFNOPABMQRSTABUVSWXYABABABZABZFFABZAB[[ABAB\ABF]ABF^]]]]_`abcdefgABABABABABABABABhABABABABABABABABABEijkABlmABABABABABABABABABABABABABABABABABABABABnFABABABABABABABABABFFFFFFoABpqrrABstuABACABABABvwxyzF{{F|F}~FFF{
+FFFFFFF
+F]FFFFFFFF
+FFFFFFFFFFFFFFFFF
+......
+.................
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFF
+FFFFFFFFFFFFFFFF
+FFFFFFF
+ABABABABABABABABABABABABABABABABABABABABABABACABABABABABABABABABABABABABABABABABABABABABABABABAB
+ABABABABABABABABABABABABABABABABABABABABABABABABABABEEEE
+FABABABABABABABABABABABABABABABABABABABABABACABABABABABABABABABABABABABABABABABABABABABABABABABAB
+++++19+
+666666
+6666666666
+::::::::::::::::
+------
+--------------22222222222222
+22222222
+22222222222222222222222
+222222
+22222222222222
+222222222
+2222222222222222
+2--------
+--------------
+----22------/
+-----------
+-2-----------
+------------
+-----2222222222222222222222222
+-----------------------/
+-----------222222
+------
+----///-----------------------------------------------
+-----------
+::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------//--
+--------------
+-----------222
+2/////
+----------
+/-/-/------/---/------
+----------//---------------/--/----
+-----------//
+::::::::::::::::::::::::::::::-
+---------/--------------
+--------------
+2222222
+2222222222222222
+2222222222222222222222222222222222222222222222222222
+22222222222222222222222222222222222222222222222222222222222222222222222222222
+22222222
+2222222
+222222222
+222222222222
+22222222222
+222222222222222222222222222222222222222222222
+222222
+22222222222222222222222222222222222222
+2222222222222222222
+2222222
+222222
+22222222
+22222-----///-------------------
+-------------------222222222222222222222--222222---
+------------------------------
+--------------------------------
+-------------------------------------------------------------------------------------------------------
+ABABAB
+FABFABFFFFF
++++++++++
+++++++++
+++++++++
+:::::::::::::::
+:::::::::::::::
+...............
+..ABABABABABABABFFABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABAB
+FFFFFFFFABAB
+ABABABABAB
+F]ABAB
+FABABABABABABABABABAB
+ABABABABABABABAB
+FABABAB
+F]]]]]
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFF
+;;;;;;;;;;;;;;;;;;;;
+>>>>>>>>>>>>>>>>>>>>
+33333333
+FFFFFFFFFF]FFFFFFFFFFFFFFF
+FFFFFF
+ !"#$%&'()*+,-./0123456789:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtwz}
+}{ywusqonkigfdb`^\[YVVSRPMLJIGECB@?=;976431/.,+)(&$#! 
+ !"#$%&'()*+,-./0123456789:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtwz}
+ "#%&()+,.0134679:<>?ABDEGHJKMOPRSUVXY]`cfilorux|
+3#3#3#3#
+GLFW3 Helper
+GLFW message window
+12345678
+GLFW30
+GLFW_ICON
+RANDFILE
+OPENSSL_WIN32_UTF8
+Service-0x
+no stack?
+OpenSSL
+OpenSSL: FATAL
+@@@@@@@@@hHHHH@@@@@@@@@@@@@@@@@@
+Microsoft Enhanced RSA and AES Cryptographic Provider
+Microsoft Enhanced Cryptographic Provider v1.0
+%)+/5;=CGIOSYaegkmq
+KERNEL32.DLL
+!x-sys-default-locale
+\\?\GLOBALROOT
+cmd.exe /C 
+9 9@9`9
+: :@:`:
+; ;@;`;
+< <@<`<
+= =@=`=
+> >@>`>
+? ?@?`?
+@ @@@`@
+A A@A`A
+B B@B`B
+C C@C`C
+D D@D`D
+E E@E`E
+F F@F`F
+G G@G`G
+ $(,048<@DHLPTX\`dhlpt
+TBB Worker Thread
+tbb.flow
+tbb.algorithm
+%Constant
+TBB Scheduler
+RML Thr Monitor
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+#+3;CScs
+\\?\Global\

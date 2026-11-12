@@ -11,7 +11,7 @@ GHIDRA=analysis/tools/ghidra_12.2_PUBLIC
 PROJ=analysis/ghidra_project
 OUT="analysis/out/$STEM"
 export MAXMEM="${MAXMEM:-3G}"
-export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-25-openjdk-amd64
 export PATH="$JAVA_HOME/bin:$PATH"
 mkdir -p "$PROJ" "$OUT"
 # JVM heap for the analysis. Ghidra reads MAXMEM from the launch properties.
@@ -19,7 +19,7 @@ mkdir -p "$PROJ" "$OUT"
     -import "extracted/win-1.7.20/$DLL" -overwrite \
     -max-cpu "${CPUS:-2}" \
     -scriptPath analysis \
-    -postScript ghidra_export.py "$(pwd)/$OUT" \
+    -postScript GhidraExport.java "$(pwd)/$OUT" \
     -analysisTimeoutPerFile "${TIMEOUT:-14400}" \
     2>&1 | tee "analysis/out/$STEM.ghidra.log"
 echo "done: $OUT"

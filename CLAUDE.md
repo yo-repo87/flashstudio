@@ -136,6 +136,119 @@ admesh, libnest2d, Paho MQTT C/C++ (in FlashNetwork.dll), wxWidgets, gettext/Poe
   40 KB) and `FLASHNETWORK9.DAT` (`FNETDAT-1.2.0`) hold the server/environment config
   ("Web domains do not match an environment in FLASHNETWORK10.DAT"). `printers/version.txt` = 02.00.00.30.
 
+## Plugin architecture and extended features (Ghidra reverse-engineering)
+
+### FlashNetwork.dll (v1.3.15 / "3.6.0", 4.1 MB, closed-source Windows x64)
+
+**Reverse-engineered with Ghidra 12.2.** The plugin is a closed-source DLL providing Flashforge-specific cloud connectivity and device management. Key findings:
+
+- **302 exported C ABI functions** (`fnet_*` prefix); verified against `src/slic3r/GUI/FlashForge/FlashNetwork.h` header (1081 lines, 127 total functions in public API)
+- **Dependencies:** WinAPI (CRYPT32, ADVAPI32, ws2_32), libcurl + OpenSSL (X.509 cert management), Paho MQTT C/C++ (broker client)
+- **Decompilation:** GhidraExport.java post-script extracted functions.tsv (7,864 named/exported functions), imports.tsv (472 symbols), strings_xref.tsv (10,409 cross-references), and 9 pseudocode files from non-thunk functions
+
+### LAN printer control (plugin-free path; built-in to Orca-Flashforge, survives Linux build)
+
+Flashforge printers on the local network support two native interfaces documented in `src/slic3r/Utils/Flashforge.cpp`:
+
+**TCP "console" protocol on port 8899** (~M G-code commands):
+- `~M601 S1` – login with serial number + access code
+- `~M115`, `~M119`, `~M105`, `~M114`, `~M27` – query model, endstops, temps, position, SD card status
+- `~M28 <size> 0:/user/<name>` – initiate G-code upload (4 KB chunks); `~M29` finalize
+- `~M23 0:/user/<name>` – start print job from uploaded file
+- `~M640`, `~M650` – Klipper status (K-series models)
+- Used by AD5M, AD5X, Adventurer 3, Guider 2s/3/4, Creator 5 series
+
+**HTTP REST API on port 8898:**
+- `/detail` – full printer state (JSON): nozzle/bed/chamber temps, speeds, filament levels, job progress, HLS camera URL, material station state
+- `/product` – machine identity and capabilities (model, nozzle count, bed type, firmware version)
+- `/gcodeList` – list uploaded G-code files with metadata
+- `/gcodeThumb` – download job thumbnail (JPEG)
+- `/control` – command dispatcher; POST JSON with `cmdCode` field (see below)
+- `/uploadGcode` – multipart G-code upload with headers: `serialNumber`, `checkCode`, `printNow`, `materialMappings`
+
+Device control commands (via POST to `/control`):
+- `temperatureCtl_cmd` – set target temps (rightNozzle, leftNozzle, chamber, platform)
+- `moveCtrl_cmd` – move axes (home, XYZ move, Z offset/compensation)
+- `extrudeCtrl_cmd` – extrude/retract (distance, speed)
+- `clearFan_cmd` – part cooling / residual fan
+- `circulateCtl_cmd` – chamber circulation fan
+- `coolingFan` – auxiliary cooling fan
+- `lightControl_cmd` – chamber light control
+- `printerCtl_cmd` – printer behavior (speed adjustment, fan PWM, Z offset)
+- `newLocalJob_cmd` – start print with optional flags (leveling, flow calibration, first-layer inspection, time-lapse recording, material station)
+- `plateDetectControl_cmd`, `firstLayerDetectControl_cmd` – detection toggles
+- `msConfig_cmd`, `ipdMsConfig_cmd` – material station (AMS) setup
+- `streamCtrl_cmd`, `deviceUpdateDetail_cmd` – event subscriptions (WebSocket or long-poll)
+
+**UDP multicast discovery** (225.0.0.9, port 48899):
+- App broadcasts probe; receives device advertisement with endpoint IP:port
+
+### Cloud and WAN features (plugin-required; Windows/macOS only)
+
+**Flashforge cloud REST API v2/v3:**
+- Auth: `auth.flashforge.com` (username/password, captcha, 2FA)
+- API endpoints:
+  - Base: `api.flash3dcloud.com:32443` (China) or `api.fdmcloud.flashforge.com` (global)
+  - User: `/user/{sendMobileCaptcha, signOut, profileByToken}`
+  - Devices: `/api/v2/external/truck/device/{create, delete, list, details, batch}`
+  - Jobs: `/api/v3/model/{print, orca_job/{cancel, retry}}, /api/v3/model/user/report`
+  - Updates: `/api/v3/message/getSoftUpdateMsg`
+  - Analytics: `/tracking/{report, batch}`
+  - Remote commands: `/api/v2/external/truck/cmd/create`
+
+**MQTT broker** (WebSocket on port 8083, TLS optional):
+- Configuration fetched from `/api/v2/external/truck/device/mqtt/config`
+- Credentials and topics stored encrypted in `FLASHNETWORK10.DAT` (FNETDAT-2.0.0, 40 KB)
+- Topics: device state telemetry, remote command delivery, time-lapse uploads, OTA updates, system messages
+- Enables firewalled/ISP-NAT printer ↔ cloud tunneling
+
+**AI image generation** (`/api/v2/external/truck/slicer/ai/`):
+- Text → image: render 2D concept from description
+- Image → image: style transfer, inpainting, re-render
+- Text → text: prompt refinement
+- Image → 3D: bitmap-to-mesh model generation
+- Quota: "AI points" per submission, user balance checked pre-job
+- Job lifecycle: submit, poll status, download result
+
+**Time-lapse archive:**
+- Endpoint: `/api/v2/external/truck/device/delay_video/list`
+- Videos streamed via HLS URL from printer `/detail` endpoint
+
+**Configuration encryption:**
+- Files: `FLASHNETWORK10.DAT` (v2.0.0) and `FLASHNETWORK9.DAT` (v1.2.0)
+- Decompiled verify: `FUN_1801305f0` (header magic "FNETDAT-2.0.0")
+- Decompiled parser: `FUN_18007b7e0` (JSON config, env routing, credential extraction)
+- Cipher not directly apparent in decompilation; keys possibly hardware-derived or resource-embedded
+
+### Platform capability matrix
+
+| Feature | Windows | Linux (Docker) | Dependency |
+|---|---|---|---|
+| **Slicing & modeling** | | |
+| Multi-plate 3MF projects | ✓ | ✓ | libslic3r |
+| STL/STEP/OBJ/3MF import | ✓ | ✓ | OpenCASCADE 7.x |
+| Calibration (PA, flow, retraction, temp tower, VFA, input shaping) | ✓ | ✓ | libslic3r + wxWidgets |
+| G-code preview, editor, 3D view | ✓ | ✓ | ImGui + OpenGL 3.2+ |
+| CLI slicing mode | ✓ | ✓ | libslic3r binary |
+| **Printer connectivity** | | |
+| LAN printer (TCP 8899, HTTP 8898) | ✓ | ✓ | Built into Orca-Flashforge |
+| LAN discovery (UDP 225.0.0.9) | ✓ | ✓ | Built into Orca-Flashforge |
+| OctoPrint / Klipper / Moonraker / Prusa Connect | ✓ | ✓ | libslic3r print host |
+| **Cloud & plugin features** | | |
+| Flashforge account login | ✓ | ✗ | FlashNetwork.dll |
+| Cloud device list & bind | ✓ | ✗ | FlashNetwork.dll |
+| MQTT cloud gateway | ✓ | ✗ | FlashNetwork.dll |
+| Camera HLS stream & time-lapse | ✓ | ✗ | FlashNetwork.dll |
+| AI image/3D generation | ✓ | ✗ | FlashNetwork.dll |
+| OrcaCloud preset sync | ✓ | ✗ | FlashNetwork.dll |
+| **Data** | | |
+| Profiles (40+ vendors, Flashforge v02.04.00.10) | ✓ | ✓ | `resources/` overlay |
+| HMS error database | ✓ | ✓ | `resources/` overlay |
+| Translations (11 languages) | ✓ | ✓ | `resources/` overlay |
+
+**Takeaway:** Linux Docker image achieves full slicing, calibration, and LAN printing. Cloud, AI, and camera features require the proprietary plugin (Windows/macOS only, not published for Linux).
+
+
 ## Docker / Linux options (assessment)
 
 - **Recommended path:** build Orca-Flashforge (branch `release_0817` = 1.7.15, or `main`) from source in
