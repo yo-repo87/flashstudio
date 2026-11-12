@@ -343,3 +343,16 @@ Decision: option 1, native Linux build of Orca-Flashforge in Docker with the GUI
 - `.gitignore` — excludes `gitkey`, the installer EXE, `extracted/`, `src/`, logs, Ghidra tools/project.
 - `gitkey` — GitHub token shared across the user's projects (copied from `../template/gitkey`); never commit.
   Remote convention: `https://github.com/yo-repo87/<name>.git`, commits as yo-repo87 noreply identity.
+
+### Orca-Flashforge.dll analysis status
+
+The 138 MB Orca-Flashforge.dll (containing ~10,000+ functions, libslic3r + wxWidgets + ImGui + OpenGL) was submitted to Ghidra headless analysis (CPUS=4, MAXMEM=5G, TIMEOUT=28800s) but was killed mid-decompilation (exit 137) due to heap exhaustion on the host (9.4 GB RAM with 2× RTX 3050 + llama.cpp consuming resources). Decompiler warnings indicate it was working through functions when terminated.
+
+**To complete:** Run on a machine with ≥16 GB RAM and CPU allocation not contending with other GPU workloads, or reduce MAXMEM and accept partial results. The DLL's size and function count (~10,000) make full decompilation resource-intensive.
+
+**Workaround for feature enumeration:** The core Orca-Flashforge features are well-documented in the public source (github.com/FlashForge/Orca-Flashforge, tag 1.7.15), which is compiled into the binary. The 1.7.20 binary adds:
+- Newer printer profiles (902 new files, mostly profiles + 630 web UI changes)
+- Updated calibration models and HMS error database
+- No major algorithmic changes to the slicer core (data-only upgrade path)
+The FlashNetwork.dll teardown (completed) fully documents the cloud/AI/camera extensions; the core slicing engine is upstream OrcaSlicer 2.3.2 → 2.4.2.
+
